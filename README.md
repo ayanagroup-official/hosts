@@ -78,7 +78,7 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 # Pi-Hole
 
   Mode pemblokiran yang direkomendasi pengembang Pi-hole adalah <b>0.0.0.0</b>
-Following <a href="https://tools.ietf.org/html/rfc3513#section-2.5.2">RFC 3513, Internet Protocol Version 6 (<abbr title="Internet Protocol version 6 (addresses like 2001:db8::ff00:42:8329)">IPv6</abbr>) Addressing Architecture, section 2.5.2</a>, the address <code>0:0:0:0:0:0:0:0</code> (or <code>::</code> for short) is the unspecified address. It must never be assigned to any node and indicates the absence of an address. Following <a href="https://tools.ietf.org/html/rfc1122#section-3.2">RFC1122, section 3.2</a>, the address <code>0.0.0.0</code> can be understood as the <abbr title="Internet Protocol version 4 (addresses like 192.168.0.1)">IPv4</abbr> equivalent of <code>::</code>.
+<p>Following <a href="https://tools.ietf.org/html/rfc3513#section-2.5.2">RFC 3513, Internet Protocol Version 6 (<abbr title="Internet Protocol version 6 (addresses like 2001:db8::ff00:42:8329)">IPv6</abbr>) Addressing Architecture, section 2.5.2</a>, the address <code>0:0:0:0:0:0:0:0</code> (or <code>::</code> for short) is the unspecified address. It must never be assigned to any node and indicates the absence of an address. Following <a href="https://tools.ietf.org/html/rfc1122#section-3.2">RFC1122, section 3.2</a>, the address <code>0.0.0.0</code> can be understood as the <abbr title="Internet Protocol version 4 (addresses like 192.168.0.1)">IPv4</abbr> equivalent of <code>::</code>.</p>
   
 Berikut sistem operasi secara resmi didukung oleh pi-hole :
 

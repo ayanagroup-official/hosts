@@ -1,0 +1,436 @@
+# From : Indonesia (Jawa Timur)
+# Last Update : 15 Mei 2022 15:50
+# Home Page : https://github.com/fandagroupofficial
+# Facebook : https://www.facebook.com/fandagroup.id
+# Title = GENERAL
+
+# RANDOM
+127.0.0.1 123.xl.co.id
+127.0.0.1 0.facebook.com
+127.0.0.1 free.facebook.com
+127.0.0.1 survey4.medallia.com
+127.0.0.1 jsc.mgid.com
+127.0.0.1 am.olx.biz.id
+127.0.0.1 app-measurement.com
+127.0.0.1 api.amplitude.com
+127.0.0.1 s7.addthis.com
+127.0.0.1 o554588.ingest.sentry.io
+127.0.0.1 o30277.ingest.sentry.io
+127.0.0.1 go.com.ssl.d1.sc.omtrdc.net
+127.0.0.1 adserver.adtech.advertising.com
+127.0.0.1 www.clarity.ms
+127.0.0.1 d.agkn.com
+127.0.0.1 t.contentsquare.net
+127.0.0.1 bidder.criteo.com
+127.0.0.1 nbcuss.demdex.net
+127.0.0.1 us-gmtdmp.mookie1.com
+127.0.0.1 jssdkcdns.mparticle.com
+127.0.0.1 nbcstreaming.sc.omtrdc.net
+127.0.0.1 sc-static.net
+127.0.0.1 my.rtmark.net
+127.0.0.1 s10.histats.com
+127.0.0.1 hm.baidu.com
+127.0.0.1 v1.cnzz.com
+127.0.0.1 s4.cnzz.com
+127.0.0.1 alodokter.api.useinsider.com
+127.0.0.1 www.rrlafphbrpazu.com
+127.0.0.1 www.turingfraud.net
+127.0.0.1 www.sukaseksi.com
+127.0.0.1 px-intl.ucweb.com
+127.0.0.1 websdk.appsflyer.com
+127.0.0.1 ogs.google.com
+127.0.0.1 acdn.adnxs.com
+127.0.0.1 ib.adnxs.com
+127.0.0.1 htlb.casalemedia.com
+127.0.0.1 c.evidon.com
+127.0.0.1 prebid.media.net
+127.0.0.1 search.spotxchange.com
+127.0.0.1 ookla-d.openx.net
+127.0.0.1 u.openx.net
+127.0.0.1 hbopenbid.pubmatic.com
+127.0.0.1 image8.pubmatic.com
+127.0.0.1 t.pubmatic.com
+127.0.0.1 eus.rubiconproject.com
+127.0.0.1 fastlane.rubiconproject.com
+127.0.0.1 public.servenobid.com
+127.0.0.1 certify.alexametrics.com
+127.0.0.1 certify-js.alexametrics.com
+127.0.0.1 sb.scorecardresearch.com
+127.0.0.1 btlr.sharethrough.com
+127.0.0.1 a.teads.tv
+127.0.0.1 targeting.unrulymedia.com
+127.0.0.1 c2shb.pubgw.yahoo.com
+127.0.0.1 ps.eyeota.net
+127.0.0.1 js-agent.newrelic.com
+127.0.0.1 grid.bidswitch.net
+127.0.0.1 x.bidswitch.net
+127.0.0.1 htlb.casalemedia.com
+127.0.0.1 d.infeed.id
+127.0.0.1 as.innity.com
+127.0.0.1 cdp.vidio.com
+127.0.0.1 personalization.vidio.com
+127.0.0.1 as.innity.com
+127.0.0.1 cdn.izooto.com
+127.0.0.1 prg-apac.smartadserver.com
+127.0.0.1 search.spotxchange.com
+127.0.0.1 mc.yandex.ru
+127.0.0.1 tpsc-sgc.doubleverify.com
+127.0.0.1 adashx4sg.ut.taobao.com
+127.0.0.1 suggestqueries-clients6.youtube.com
+127.0.0.1 adserver.adverty.com
+127.0.0.1 my.rtmark.net
+127.0.0.1 c.adsco.re
+127.0.0.1 denetsuk.com
+127.0.0.1 www.gearbest.com
+127.0.0.1 lpnwnayhlwhuom.com
+127.0.0.1 prd.jwpltx.com
+127.0.0.1 go.isostech.com
+127.0.0.1 script.crazyegg.com
+127.0.0.1 a.pub.network
+127.0.0.1 flatcapspriggy.cam
+127.0.0.1 cdn.unblockia.com
+127.0.0.1 report.yukbacaberita.com
+127.0.0.1 cdn-static.ap4r.com
+
+# Beacons
+127.0.0.1 beacons.gvt1.com
+127.0.0.1 beacons2.gvt1.com
+127.0.0.1 beacons3.gvt1.com
+127.0.0.1 beacons4.gvt1.com
+127.0.0.1 beacons5.gvt1.com
+127.0.0.1 beacons.gvt2.com
+127.0.0.1 beacons2.gvt2.com
+127.0.0.1 beacons3.gvt2.com
+127.0.0.1 beacons4.gvt2.com
+127.0.0.1 beacons5.gvt2.com
+127.0.0.1 beacons.gvt3.com
+127.0.0.1 beacons2.gvt3.com
+127.0.0.1 beacons3.gvt3.com
+127.0.0.1 beacons4.gvt3.com
+127.0.0.1 beacons5.gvt3.com
+127.0.0.1 beacons.gcp.gvt1.com
+127.0.0.1 beacons.gcp.gvt2.com
+127.0.0.1 beacons.gcp.gvt3.com
+127.0.0.1 beacons.glance.inmobi.com
+127.0.0.1 beacons-online5.glance-internal.inmobi.com
+
+# [ detik.com ]
+127.0.0.1 kayumanis.detik.com
+127.0.0.1 analytic.detik.com
+127.0.0.1 analytic20.detik.com
+127.0.0.1 mobile-analytic.detik.com
+127.0.0.1 pushads.detik.com
+127.0.0.1 cdnstatic.detik.com
+127.0.0.1 displaybanner.detik.com
+127.0.0.1 adsmart.detik.com
+127.0.0.1 newrevive.detik.com
+127.0.0.1 push.detik.com
+
+# [ rsc.cdn77.org ]
+127.0.0.1 1062222904.rsc.cdn77.org
+127.0.0.1 1276298696.rsc.cdn77.org
+127.0.0.1 1394501235.rsc.cdn77.org
+127.0.0.1 1533248697.rsc.cdn77.org
+127.0.0.1 1752375227.rsc.cdn77.org
+127.0.0.1 1928505594.rsc.cdn77.org
+127.0.0.1 1667776279.rsc.cdn77.org
+127.0.0.1 1701399078.rsc.cdn77.org
+127.0.0.1 1450622545.rsc.cdn77.org
+127.0.0.1 1480222913.rsc.cdn77.org
+127.0.0.1 1671639327.rsc.cdn77.org
+127.0.0.1 1889303550.rsc.cdn77.org
+127.0.0.1 1388344021.rsc.cdn77.org
+127.0.0.1 1666945197.rsc.cdn77.org
+127.0.0.1 1971296482.rsc.cdn77.org
+
+# [ Adsrvs ]
+127.0.0.1 s.adsrvs.com
+127.0.0.1 ad.adsrvr.org
+127.0.0.1 js.adsrvr.org
+127.0.0.1 match.adsrvr.org
+127.0.0.1 insight.adsrvr.org
+127.0.0.1 sg2-bid.adsrvr.org
+127.0.0.1 rtb.mfadsrvr.com
+127.0.0.1 jp1-bid.adsrvr.org
+127.0.0.1 ie1-bid.adsrvr.org
+127.0.0.1 hk3-bid.adsrvr.org
+
+# [ tiktok ]
+127.0.0.1 analytics.tiktok.com
+127.0.0.1 analytics-sg.tiktok.com
+127.0.0.1 analytics-attribution.tiktok.com
+
+# MALWARE
+127.0.0.1 eqads.com
+127.0.0.1 um2.eqads.com
+127.0.0.1 r3.o.lencr.org
+127.0.0.1 x1.c.lencr.org
+127.0.0.1 axiabanners.exodus.gr
+127.0.0.1 mathid.mathtag.com
+127.0.0.1 sync.mathtag.com
+127.0.0.1 mathtag.com
+127.0.0.1 yxhkonfmbe.com
+127.0.0.1 miliated.xyz
+127.0.0.1 omnatuor.com
+127.0.0.1 azkcqs.com
+127.0.0.1 a.realsrv.com
+
+#SPYWARE 
+127.0.0.1 applog.uc.cn
+127.0.0.1 woodpecker.uc.cn
+127.0.0.1 gw.zamcs.com
+127.0.0.1 braze-images.com
+127.0.0.1 cutt.ly
+127.0.0.1 b1.nel.goog
+
+# POP-UP
+127.0.0.1 gossip-celeb-news.com
+127.0.0.1 cleardexchange.com
+127.0.0.1 beholdascared.com
+127.0.0.1 aftrangle.com
+127.0.0.1 paychat.fuse-cloud.com
+127.0.0.1 spotofspawn.com
+127.0.0.1 topnews-24.com
+
+# [ googleapis.com ]
+127.0.0.1 imasdk.googleapis.com
+127.0.0.1 firebaselogging.googleapis.com
+127.0.0.1 firebaselogging-pa.googleapis.com
+
+# GOOGLE ADSERVICE
+127.0.0.1 adservice.google.ca
+127.0.0.1 adservice.google.co.in
+127.0.0.1 adservice.google.co.kr
+127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.com.ar
+127.0.0.1 adservice.google.com.au
+127.0.0.1 adservice.google.com.br
+127.0.0.1 adservice.google.com.co
+127.0.0.1 adservice.google.com.gt
+127.0.0.1 adservice.google.com.mx
+127.0.0.1 adservice.google.com.pe
+127.0.0.1 adservice.google.com.ph
+127.0.0.1 adservice.google.com.pk
+127.0.0.1 adservice.google.com.tr
+127.0.0.1 adservice.google.com.tw
+127.0.0.1 adservice.google.com.vn
+127.0.0.1 adservice.google.com.cy
+127.0.0.1 adservice.google.com.sg
+127.0.0.1 adservice.google.com.hk
+127.0.0.1 adservice.google.co.id
+127.0.0.1 adservice.google.co.uk
+127.0.0.1 adservice.google.co.za
+127.0.0.1 adservice.google.de
+127.0.0.1 adservice.google.dk
+127.0.0.1 adservice.google.es
+127.0.0.1 adservice.google.fr
+127.0.0.1 adservice.google.nl
+127.0.0.1 adservice.google.no
+127.0.0.1 adservice.google.ru
+127.0.0.1 adservice.google.vg
+127.0.0.1 gstaticadssl.l.google.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 pagead2.googleadservices.com
+127.0.0.1 partner.googleadservices.com
+127.0.0.1 www.googleadservices.com.lan
+127.0.0.1 pagead2.googleadservices.com.lan
+
+# GOOGLE TAG MANAGER
+127.0.0.1 www.googletagmanager.com
+127.0.0.1 www.googletagservices.com
+127.0.0.1 www-googletagmanager.l.google.com
+
+# GOOGLE ANALYTICS
+127.0.0.1 analytics.google.com
+127.0.0.1 google-analytics.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 ssl.google-analytics.com.lan
+127.0.0.1 ssl-google-analytics.l.google.com
+127.0.0.1 ww-google-analytics.l.google.com
+127.0.0.1 analyticssuitefrontend-pa.clients6.google.com
+
+# [ Xiaomi ]
+127.0.0.1 api.ad.intl.xiaomi.com
+127.0.0.1 resolver.msg.global.xiaomi.net
+127.0.0.1 id-miuilog.sms.intl.xiaomi.com
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 metok.intl.xiaomi.com
+127.0.0.1 metok-ccc.intl.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 data.mistat.intl.xiaomi.com
+127.0.0.1 tracking.intl.miui.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 tracking.india.miui.com
+127.0.0.1 globalapi.ad.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 api.ad.intl.xiaomi.com.lan
+127.0.0.1 sdkconfig.ad.india.xiaomi.com
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com.lan
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 zeus.ad.intl.xiaomi.com
+127.0.0.1 zeus.ad.intl.xiaomi.com.lan
+127.0.0.1 logupdate.avlyun.sec.miui.com
+127.0.0.1 api.zhuti.intl.xiaomi.com
+127.0.0.1 app.chat.global.xiaomi.net
+127.0.0.1 api.ad.intl.xiaomi.com.itotolink.net
+127.0.0.1 api.ad.intl.xiaomi.com.www.tendawifi.com
+
+# [ OPPO ]
+127.0.0.1 api.push.oppomobile.com
+127.0.0.1 dcintl1.push.oppomobile.com
+127.0.0.1 dcintl2.push.oppomobile.com
+127.0.0.1 dcintl3.push.oppomobile.com
+127.0.0.1 httpdns.push.oppomobile.com
+127.0.0.1 shortintl.push.oppomobile.com
+127.0.0.1 ck.ads.oppomobile.com
+127.0.0.1 b1.ads.oppomobile.com
+127.0.0.1 adx-id.ads.oppomobile.com
+127.0.0.1 data-id.ads.oppomobile.com
+127.0.0.1 bdapi-id.ads.oppomobile.com
+127.0.0.1 data-cl-f.ads.oppomobile.com
+
+# [googlesyndication.com]
+127.0.0.1 googlesyndication.com
+127.0.0.1 ade.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 safeframe.googlesyndication.com
+127.0.0.1 video-ad-stats.googlesyndication.com
+127.0.0.1 buttons.googlesyndication.com
+127.0.0.1 df9783bff5034b2f28fb4af2d239e817.safeframe.googlesyndication.com
+127.0.0.1 ecca567364710c9c8c754f98c9ebe4ae.safeframe.googlesyndication.com
+
+# [ QQ ]
+127.0.0.1 data.ab.qq.com
+127.0.0.1 h.trace.qq.com
+127.0.0.1 otheve.beacon.qq.com
+127.0.0.1 oth.str.beacon.qq.com
+
+# [ appier.net ]
+127.0.0.1 gocm.c.appier.net
+127.0.0.1 aiqua-config.c.appier.net
+127.0.0.1 aiqua-sdk.c.appier.net
+127.0.0.1 aiqua-user.c.appier.net
+
+# [goadservices.com]
+127.0.0.1 goadservices.com
+127.0.0.1 bo.goadservices.com
+
+# [hotjar.com]
+127.0.0.1 script.hotjar.com
+127.0.0.1 static.hotjar.com
+127.0.0.1 vars.hotjar.com
+
+# [hotjar.io]
+127.0.0.1 vc.hotjar.io
+
+# [adjust.com]
+127.0.0.1 s2s.adjust.com
+127.0.0.1 ulink.adjust.com
+127.0.0.1 app.us.adjust.com
+127.0.0.1 view.adjust.com
+127.0.0.1 go.adjust.com
+127.0.0.1 unbotify.adjust.com
+
+# [twitter.com]
+127.0.0.1 ads-twitter.com
+127.0.0.1 ads.twitter.com
+127.0.0.1 ads-api.twitter.com
+127.0.0.1 ads-bidder-api.twitter.com
+127.0.0.1 analytics.twitter.com
+127.0.0.1 abs-0.twimg.com
+
+# [a2z.com]
+127.0.0.1 prod.cm.publishers.advertising.a2z.com
+127.0.0.1 analytics.console.aws.a2z.com
+127.0.0.1 pr.analytics.console.aws.a2z.com
+127.0.0.1 prod.pr.analytics.console.aws.a2z.com
+127.0.0.1 ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
+127.0.0.1 us-east-1.prod.pr.analytics.console.aws.a2z.com
+127.0.0.1 us-east-2.prod.pr.analytics.console.aws.a2z.com
+127.0.0.1 us-west-2.prod.pr.analytics.console.aws.a2z.com
+127.0.0.1 pw.analytics.console.aws.a2z.com
+127.0.0.1 prod.pw.analytics.console.aws.a2z.com
+127.0.0.1 global.telemetry.insights.video.a2z.com
+127.0.0.1 us-east-1.telemetry.insights.video.a2z.com
+
+# Adcolony Domains
+127.0.0.1 wd.adcolony.xyz
+127.0.0.1 ads20.adcolony.com
+127.0.0.1 ads30.adcolony.com
+127.0.0.1 androidads23.adcolony.com
+127.0.0.1 events3.adcolony.com
+127.0.0.1 events3alt.adcolony.com
+127.0.0.1 adc3-assets.adcolony.com
+127.0.0.1 adc3-launch.adcolony.com
+127.0.0.1 androidads20.adcolony.com
+127.0.0.1 androidads21.adcolony.com
+127.0.0.1 c4d-cdn.adcolony.com
+127.0.0.1 c4dm.adcolony.com
+127.0.0.1 cpa.adcolony.com
+127.0.0.1 iosads24.adcolony.com
+127.0.0.1 rtb.adcolony.com
+127.0.0.1 wd.adcolony.com
+127.0.0.1 go-pardot.adcolony.com
+127.0.0.1 adc3-launch.adcolony.com.lan
+127.0.0.1 iosads4-1.adcolony.com
+127.0.0.1 iosads4-2.adcolony.com
+127.0.0.1 iosads4-3.adcolony.com
+127.0.0.1 iosads4-4.adcolony.com
+127.0.0.1 iosads4-5.adcolony.com
+127.0.0.1 iosads4-6.adcolony.com
+127.0.0.1 iosads4-7.adcolony.com
+127.0.0.1 androidads3-1.adcolony.com
+127.0.0.1 androidads3-2.adcolony.com
+127.0.0.1 androidads3-3.adcolony.com
+127.0.0.1 androidads3-4.adcolony.com
+127.0.0.1 androidads3-5.adcolony.com
+127.0.0.1 androidads3-6.adcolony.com
+127.0.0.1 androidads3-7.adcolony.com
+127.0.0.1 androidads4-1.adcolony.com
+127.0.0.1 androidads4-2.adcolony.com
+127.0.0.1 androidads4-3.adcolony.com
+127.0.0.1 androidads4-4.adcolony.com
+127.0.0.1 androidads4-5.adcolony.com
+127.0.0.1 androidads4-6.adcolony.com
+127.0.0.1 androidads4-7.adcolony.com
+
+# DDOS MRIS BOTNET
+127.0.0.1 1abcnews.xyz
+127.0.0.1 1awesome.net
+127.0.0.1 7standby.com
+127.0.0.1 audiomain.website
+127.0.0.1 bestony.club
+127.0.0.1 ciskotik.com
+127.0.0.1 cloudsond.me
+127.0.0.1 dartspeak.xyz
+127.0.0.1 fanmusic.xyz
+127.0.0.1 gamedate.xyz
+127.0.0.1 globalmoby.xyz
+127.0.0.1 hitsmoby.com
+127.0.0.1 massgames.space
+127.0.0.1 mobstore.xyz
+127.0.0.1 motinkon.com
+127.0.0.1 my1story.xyz
+127.0.0.1 myfrance.xyz
+127.0.0.1 phonemus.net
+127.0.0.1 portgame.website
+127.0.0.1 senourth.com
+127.0.0.1 sitestory.xyz
+127.0.0.1 pacewb.tech
+127.0.0.1 specialword.xyz
+127.0.0.1 spgames.site
+127.0.0.1 strtbiz.site
+127.0.0.1 takebad1.com
+127.0.0.1 tryphptoday.com
+127.0.0.1 wchampmuse.pw
+127.0.0.1 oddgames.info
+127.0.0.1 widechanges.best
+127.0.0.1 zancetom.com
+127.0.0.1 bestmade.xyz
+127.0.0.1 gamesone.xyz
+127.0.0.1 mobigifs.xyz
+127.0.0.1 myphotos.xyz
+127.0.0.1 onlinegt.xyz
+127.0.0.1 picsgifs.xyz

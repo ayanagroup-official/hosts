@@ -72,7 +72,10 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 </tbody>
 </table>
 
-# Download aplikasi AdAway untuk android : 
+# AdAway
+Mode pemblokiran yang direkomendasi pengembang AdAway adalah <b>127.0.0.1</b>
+
+Download aplikasi AdAway untuk android : 
 <p dir="auto"><a href="https://app.adaway.org/adaway.apk" rel="nofollow"><img src="https://raw.githubusercontent.com/AdAway/AdAway/master/Resources/get-it-on-fdroid.png" alt="Get it on official AdAway website" height="80" style="max-width: 100%;"></a>
 
 # Pi-Hole

@@ -17,45 +17,45 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 <tbody>
 <tr>
 <td>Reguler</td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/reguler" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/reguler" rel="nofollow">Link</a></td>
+<td align="center"><a href="/index" rel="nofollow">-</a></td>
 </tr>
 <tr>
 <td>Advertising</td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/ads" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/ads" rel="nofollow">Link</a></td>
+<td align="center"><a href="/index" rel="nofollow">-</a></td>
 </tr>
 <tr>
 <td>Analytics</td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/analytics" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/analytics" rel="nofollow">Link</a></td>
+<td align="center"><a href="/index" rel="nofollow">-</a></td>
 </tr>
 <tr>
 <td>Log</td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/log" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/log" rel="nofollow">Link</a></td>
+<td align="center"><a href="/index" rel="nofollow">-</a></td>
 </tr>
 <tr>
 <td>Malware</td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/malware" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/malware" rel="nofollow">Link</a></td>
+<td align="center"><a href="/index" rel="nofollow">-</a></td>
 </tr>
 <tr>
 <td>Trackers</td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/trackers" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/trackers" rel="nofollow">Link</a></td>
+<td align="center"><a href="/index" rel="nofollow">-</a></td>
 </tr>
 <tr>
 <td>Ublock</td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/adaway/main/add-block-list" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/ublock" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/ublock" rel="nofollow">Link</a></td>
+<td align="center"><a href="/index" rel="nofollow">-</a></td>
 </tr>
 </tbody>
 </table>

@@ -57,6 +57,18 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/ublock" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 </tr>
+<tr>
+<td>Porn</td>
+<td align="center"><a href="/index" rel="nofollow">Link</a></td>
+<td align="center"><a href="/index" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/domain/porn" rel="nofollow">Link</a></td>
+</tr>
+<tr>
+<td>Push</td>
+<td align="center"><a href="/index" rel="nofollow">Link</a></td>
+<td align="center"><a href="/index" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/domain/push" rel="nofollow">Link</a></td>
+</tr>
 </tbody>
 </table>
 

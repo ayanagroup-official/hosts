@@ -52,7 +52,7 @@ Daftar semua varian file host
 </tbody>
 </table>
 
-# Download software atau aplikasi AdAway : 
+# Download software AdAway for android : 
 <p dir="auto"><a href="https://app.adaway.org/adaway.apk" rel="nofollow"><img src="https://raw.githubusercontent.com/AdAway/AdAway/master/Resources/get-it-on-fdroid.png" alt="Get it on official AdAway website" height="80" style="max-width: 100%;"></a>
 
-# Jika ada permasalahan dijaringan anda / konsultasi bisa PM (Private Message) kami : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a>
+# Contact Me : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a>

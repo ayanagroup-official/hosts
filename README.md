@@ -1,4 +1,4 @@
-# Welcome visitor
+# Selamat datang pengunjung
 
 DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & ShopeePay)
 
@@ -8,7 +8,7 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 <table>
 <thead>
 <tr>
-<th align="center">Title</th>
+<th align="center">Judul</th>
 <th align="center">Mode 0.0.0.0</th>
 <th align="center">Mode 127.0.0.1</th>
 <th align="center">Mode Domain</th>
@@ -72,7 +72,50 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 </tbody>
 </table>
 
-# Download software AdAway for android : 
+# Download aplikasi AdAway untuk android : 
 <p dir="auto"><a href="https://app.adaway.org/adaway.apk" rel="nofollow"><img src="https://raw.githubusercontent.com/AdAway/AdAway/master/Resources/get-it-on-fdroid.png" alt="Get it on official AdAway website" height="80" style="max-width: 100%;"></a>
 
-# Contact Me : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a>
+# Berikut sistem operasi secara resmi didukung oleh pi-hole :
+<table>
+<thead>
+<tr>
+<th>Distribution</th>
+<th>Release</th>
+<th>Architecture</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Raspberry Pi <abbr title="Operating system">OS</abbr> <br>(formerly Raspbian)</td>
+<td>Stretch / Buster / Bullseye</td>
+<td>ARM</td>
+</tr>
+<tr>
+<td>Ubuntu</td>
+<td>16.x / 18.x / 20.x /21.x</td>
+<td>ARM / x86_64</td>
+</tr>
+<tr>
+<td>Debian</td>
+<td>9 / 10 /11</td>
+<td>ARM / x86_64 / i386</td>
+</tr>
+<tr>
+<td>Fedora</td>
+<td>33 / 34</td>
+<td>ARM / x86_64</td>
+</tr>
+<tr>
+<td>CentOS</td>
+<td>7</td>
+<td>x86_64</td>
+</tr>
+<tr>
+<td>CentOS Stream</td>
+<td>8</td>
+<td>x86_64</td>
+</tr>
+</tbody>
+</table>
+  
+# Hubungi Kami : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a>

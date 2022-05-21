@@ -115,36 +115,6 @@ apac-asia-courier-4.push-apple.com.akadns.net
 init.push.apple.com
 init-sb.push-apple.com.akadns.net
 
-# TIKTOK
-push-rtmp-f5-sg01.tiktokcdn.com
-push-rtmp-l1-sg01.ttlivecdn.com
-push-rtmp-f5-sg01.ttlivecdn.com
-push-rtmp-f5-tt02.fcdn.us.tiktokv.com.c.worldfcdn2.com
-push-rtmp-l1-gcp01.tiktokcdn.com.wsdvs.com
-push-rtmp-l16-sg01.tiktokcdn.com
-push-rtmp-l11-sg01.tiktokcdn.com
-push-rtmp-l10-sg01.tiktokcdn.com
-push-rtmp-l1-sg01.tiktokcdn.com
-push-rtmp-f5-gcp01.tiktokcdn.com
-push-rtmp-l16-gcp01.tiktokcdn.com
-push-rtmp-l11-gcp01.tiktokcdn.com
-push-rtmp-l1-gcp01.ttlivecdn.com
-push-rtmp-f5-gcp01.ttlivecdn.com
-push-rtmp-f5-tt02.fcdn.us.tiktokv.com
-push-rtmp-l16-gcp01.tiktokcdn.com.atomile.com
-push-rtmp-f5-gcp01.tiktokcdn.com.c.worldfcdn.com
-push-rtmp-l1-gcp01.tiktokcdn.com
-push-rtmp-l11-gcp01.ttlivecdn.com
-push-rtmp-l11-sg01.ttlivecdn.com
-push-rtmp-l1-gcp01.ttlivecdn.com.wsdvs.com
-
-#HEYTAMOBIILE
-httpdns-push.heytapmobile.com
-shortintl.push.heytapmobile.com
-dcintl1.push.heytapmobile.com
-dcintl.push.heytapmobile.com
-httpdns-push-heytapmobile-com-155585118.ap-southeast-1.elb.amazonaws.com
-
 #RANDOM
 ali-stats.jpush.cn
 codepush.appcenter.ms
@@ -205,3 +175,33 @@ push.papermobi.com
 push.zhanzhang.baidu.com
 init-p01md-lb.push-apple.com.akadns.net
 burningpushing.info
+
+#HEYTAMOBIILE
+0.0.0.0 httpdns-push.heytapmobile.com
+0.0.0.0 shortintl.push.heytapmobile.com
+0.0.0.0 dcintl1.push.heytapmobile.com
+0.0.0.0 dcintl.push.heytapmobile.com
+0.0.0.0 httpdns-push-heytapmobile-com-155585118.ap-southeast-1.elb.amazonaws.com
+
+# TIKTOK
+0.0.0.0 push-rtmp-f5-sg01.tiktokcdn.com
+0.0.0.0 push-rtmp-l1-sg01.ttlivecdn.com
+0.0.0.0 push-rtmp-f5-sg01.ttlivecdn.com
+0.0.0.0 push-rtmp-f5-tt02.fcdn.us.tiktokv.com.c.worldfcdn2.com
+0.0.0.0 push-rtmp-l1-gcp01.tiktokcdn.com.wsdvs.com
+0.0.0.0 push-rtmp-l16-sg01.tiktokcdn.com
+0.0.0.0 push-rtmp-l11-sg01.tiktokcdn.com
+0.0.0.0 push-rtmp-l10-sg01.tiktokcdn.com
+0.0.0.0 push-rtmp-l1-sg01.tiktokcdn.com
+0.0.0.0 push-rtmp-f5-gcp01.tiktokcdn.com
+0.0.0.0 push-rtmp-l16-gcp01.tiktokcdn.com
+0.0.0.0 push-rtmp-l11-gcp01.tiktokcdn.com
+0.0.0.0 push-rtmp-l1-gcp01.ttlivecdn.com
+0.0.0.0 push-rtmp-f5-gcp01.ttlivecdn.com
+0.0.0.0 push-rtmp-f5-tt02.fcdn.us.tiktokv.com
+0.0.0.0 push-rtmp-l16-gcp01.tiktokcdn.com.atomile.com
+0.0.0.0 push-rtmp-f5-gcp01.tiktokcdn.com.c.worldfcdn.com
+0.0.0.0 push-rtmp-l1-gcp01.tiktokcdn.com
+0.0.0.0 push-rtmp-l11-gcp01.ttlivecdn.com
+0.0.0.0 push-rtmp-l11-sg01.ttlivecdn.com
+0.0.0.0 push-rtmp-l1-gcp01.ttlivecdn.com.wsdvs.com

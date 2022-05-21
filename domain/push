@@ -116,65 +116,65 @@ init.push.apple.com
 init-sb.push-apple.com.akadns.net
 
 #RANDOM
-ali-stats.jpush.cn
-codepush.appcenter.ms
-codepush.akulaku.net
-autopush.prod.mozaws.net
-api.push.go2reach.com
-api-push.in.meizu.com
-default-cluster.push.cloud-en.360shouji.com
-pushnotifs.com
-eu.pushmeup.art
-pushmeup.art
-pushimg.com
-push-api.duowan.com
-push.cml.ksmobile.com
-in-page-push.net
-id.push.heytapmobi.com
-img-intl-push.heytapimg.com
-push.services.mozilla.com
-push-img.wshareit.com
-push-cdn.wshareit.com
-push-video.wshareit.com
-shareit-push-cdn.wshareit.com
-shareit-push-cdn.wshareit.com.229e7f4b.c.cdnhwc7.com
-push1.online
-push-resources-1258344701.file.myqcloud.com
-push-link.duowan.com
-push-fcdn-ttp1.s.worldfcdn2.com
-push-fcdn-base-oversea.s.worldfcdn.com
-push-dfedcjd-5168.pushails.com
-push.newsdaily.biz
-gld.push.samsungosp.com
-china-gld.push.samsungosp.com.cn
-push.woohoostudios.io
-gate.push.x.netease.com
-push.cnnindonesia.com
-push.cnbcindonesia.com
-pushtrs6.push.hicloud.com
-push-callerid-noneu.truecaller.com
-push-biggheh-4450.boustahe.com
-sub.pushmeup.art
-pushapi.lenovomm.com
-pushgateway-release.nianticlabs.com
-mpush-api.aliyun.com
-eu.xml.pushaffiliate.net
-cdn.pushmart.net
-push.meitu.com
-push.idtopnews.com
-analytics.webpushr.com
-bjuser.jpush.cn
-app.pushbrothers.com
-tsis.jpush.cn
-k-api.kwaipros.com
-g-api.kwaipros.com
-k-api.kwai-pro.com
-g-api.kwai-pro.com
-push.beatracing.net
-push.papermobi.com
-push.zhanzhang.baidu.com
-init-p01md-lb.push-apple.com.akadns.net
-burningpushing.info
+0.0.0.0 ali-stats.jpush.cn
+0.0.0.0 codepush.appcenter.ms
+0.0.0.0 codepush.akulaku.net
+0.0.0.0 autopush.prod.mozaws.net
+0.0.0.0 api.push.go2reach.com
+0.0.0.0 api-push.in.meizu.com
+0.0.0.0 default-cluster.push.cloud-en.360shouji.com
+0.0.0.0 pushnotifs.com
+0.0.0.0 eu.pushmeup.art
+0.0.0.0 pushmeup.art
+0.0.0.0 pushimg.com
+0.0.0.0 push-api.duowan.com
+0.0.0.0 push.cml.ksmobile.com
+0.0.0.0 in-page-push.net
+0.0.0.0 id.push.heytapmobi.com
+0.0.0.0 img-intl-push.heytapimg.com
+0.0.0.0 push.services.mozilla.com
+0.0.0.0 push-img.wshareit.com
+0.0.0.0 push-cdn.wshareit.com
+0.0.0.0 push-video.wshareit.com
+0.0.0.0 shareit-push-cdn.wshareit.com
+0.0.0.0 shareit-push-cdn.wshareit.com.229e7f4b.c.cdnhwc7.com
+0.0.0.0 push1.online
+0.0.0.0 push-resources-1258344701.file.myqcloud.com
+0.0.0.0 push-link.duowan.com
+0.0.0.0 push-fcdn-ttp1.s.worldfcdn2.com
+0.0.0.0 push-fcdn-base-oversea.s.worldfcdn.com
+0.0.0.0 push-dfedcjd-5168.pushails.com
+0.0.0.0 push.newsdaily.biz
+0.0.0.0 gld.push.samsungosp.com
+0.0.0.0 china-gld.push.samsungosp.com.cn
+0.0.0.0 push.woohoostudios.io
+0.0.0.0 gate.push.x.netease.com
+0.0.0.0 push.cnnindonesia.com
+0.0.0.0 push.cnbcindonesia.com
+0.0.0.0 pushtrs6.push.hicloud.com
+0.0.0.0 push-callerid-noneu.truecaller.com
+0.0.0.0 push-biggheh-4450.boustahe.com
+0.0.0.0 sub.pushmeup.art
+0.0.0.0 pushapi.lenovomm.com
+0.0.0.0 pushgateway-release.nianticlabs.com
+0.0.0.0 mpush-api.aliyun.com
+0.0.0.0 eu.xml.pushaffiliate.net
+0.0.0.0 cdn.pushmart.net
+0.0.0.0 push.meitu.com
+0.0.0.0 push.idtopnews.com
+0.0.0.0 analytics.webpushr.com
+0.0.0.0 bjuser.jpush.cn
+0.0.0.0 app.pushbrothers.com
+0.0.0.0 tsis.jpush.cn
+0.0.0.0 k-api.kwaipros.com
+0.0.0.0 g-api.kwaipros.com
+0.0.0.0 k-api.kwai-pro.com
+0.0.0.0 g-api.kwai-pro.com
+0.0.0.0 push.beatracing.net
+0.0.0.0 push.papermobi.com
+0.0.0.0 push.zhanzhang.baidu.com
+0.0.0.0 init-p01md-lb.push-apple.com.akadns.net
+0.0.0.0 burningpushing.info
 
 #HEYTAMOBIILE
 0.0.0.0 httpdns-push.heytapmobile.com

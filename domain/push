@@ -106,14 +106,14 @@
 48.courier-push-apple.com.akadns.net
 49.courier-push-apple.com.akadns.net
 50.courier-push-apple.com.akadns.net
-courier-ab-vs.push-apple.com.akadns.net
-courier-ab-vs.push.apple.com
-init.push-apple.com.akadns.net
-apac-asia-courier-vs.push-apple.com.akadns.net
-init-p01st.push.apple.com
-apac-asia-courier-4.push-apple.com.akadns.net
-init.push.apple.com
-init-sb.push-apple.com.akadns.net
+0.0.0.0 courier-ab-vs.push-apple.com.akadns.net
+0.0.0.0 courier-ab-vs.push.apple.com
+0.0.0.0 init.push-apple.com.akadns.net
+0.0.0.0 apac-asia-courier-vs.push-apple.com.akadns.net
+0.0.0.0 init-p01st.push.apple.com
+0.0.0.0 apac-asia-courier-4.push-apple.com.akadns.net
+0.0.0.0 init.push.apple.com
+0.0.0.0 init-sb.push-apple.com.akadns.net
 
 #RANDOM
 0.0.0.0 ali-stats.jpush.cn

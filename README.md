@@ -65,9 +65,9 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 </tr>
 <tr>
 <td>Push</td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/push" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/push" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<td align="center"><a href="/index" rel="nofollow">-</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/domain/push" rel="nofollow">Link</a></td>
 </tr>
 </tbody>
 </table>

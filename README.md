@@ -12,6 +12,7 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 <th align="center">Mode 0.0.0.0</th>
 <th align="center">Mode 127.0.0.1</th>
 <th align="center">Mode Domain</th>
+<th align="center">Penulis</th>
 </tr>
 </thead>
 <tbody>
@@ -20,54 +21,63 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/reguler" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/reguler" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
+<th align="center">Fanda Group</th>
 </tr>
 <tr>
 <td>Advertising</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/ads" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/ads" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
+<th align="center">Fanda Group</th>
 </tr>
 <tr>
 <td>Analytics</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/analytics" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/analytics" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
+<th align="center">Fanda Group</th>
 </tr>
 <tr>
 <td>Log</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/log" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/log" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
+<th align="center">Fanda Group</th>
 </tr>
 <tr>
 <td>Malware</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/malware" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/malware" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
+<th align="center">Fanda Group</th>
 </tr>
 <tr>
 <td>Trackers</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/trackers" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/trackers" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
+<th align="center">Fanda Group</th>
 </tr>
 <tr>
 <td>Ublock</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/ublock" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/ublock" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-</tr>
-<tr>
-<td>Porn</td>
-<td align="center"><a href="/index" rel="nofollow">-</a></td>
-<td align="center"><a href="/index" rel="nofollow">-</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/domain/porn" rel="nofollow">Link</a></td>
+<th align="center">uBlock Origin</th>
 </tr>
 <tr>
 <td>Push</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/push" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/push" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
+<th align="center">Fanda Group</th>
+</tr>
+<tr>
+<td>Porn</td>
+<td align="center"><a href="/index" rel="nofollow">-</a></td>
+<td align="center"><a href="/index" rel="nofollow">-</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/domain/porn" rel="nofollow">Link</a></td>
+<th align="center">Random</th>
 </tr>
 </tbody>
 </table>

@@ -194,3 +194,12 @@
 0.0.0.0 logsdk.kwai-pro.com
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 gjapplog.ucweb.com
+0.0.0.0 xlog16-normal-c-useast2a.tiktokv.com
+0.0.0.0 toblog.tobsnssdk.com
+0.0.0.0 tobapplog.tobsnssdk.com
+0.0.0.0 rtlog22-normal-alisg.tiktokv.com
+0.0.0.0 rtlog22-normal-useast2a.tiktokv.com
+0.0.0.0 mobile-http-intake.logs.datadoghq.eu
+0.0.0.0 eu.webhook.logs.insight.rapid7.com
+0.0.0.0 clientlog.baechat.my
+0.0.0.0 api16-log-sg.pangle-b.io

@@ -135,6 +135,7 @@
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 ff.doubleclick.net
 0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 secureads.g.doubleclick.net
 
 # [ Amazon-adsystem.com ]
 0.0.0.0 c.amazon-adsystem.com
@@ -389,3 +390,17 @@
 0.0.0.0 samsungads.com
 0.0.0.0 longitudeads-com.videoplayerhub.com
 0.0.0.0 data-sg.ads.oppomobile.com
+0.0.0.0 push.adsconverts.com
+0.0.0.0 prs.pinkyads.quest
+0.0.0.0 video.adsparc.com
+0.0.0.0 sb.bcc-ads.com
+0.0.0.0 ads.digitalcaramel.com
+0.0.0.0 lp9.amulet-id-2.adsssite.com
+0.0.0.0 adsssite.com
+0.0.0.0 in-adsjssdk.vivoglobal.com
+0.0.0.0 ads.gadsme.com
+0.0.0.0 static.gadsme.gg
+0.0.0.0 revboostprocdnadsprod.azureedge.net
+0.0.0.0 t-id.ads.heytapmobile.com
+0.0.0.0 adserver.kl-youniverse.com
+0.0.0.0 ads.playground.xyz

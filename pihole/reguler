@@ -356,47 +356,11 @@
 # [googlesyndication.com]
 0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
-0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 buttons.googlesyndication.com
 0.0.0.0 safeframe.googlesyndication.com
 0.0.0.0 video-ad-stats.googlesyndication.com
-0.0.0.0 buttons.googlesyndication.com
-0.0.0.0 df9783bff5034b2f28fb4af2d239e817.safeframe.googlesyndication.com
-0.0.0.0 ecca567364710c9c8c754f98c9ebe4ae.safeframe.googlesyndication.com
-0.0.0.0 9ba829b0c7087442a97ee68f999ba466.safeframe.googlesyndication.com
-0.0.0.0 86d52e0b06d5f0c6d0228713f78771ff.safeframe.googlesyndication.com
-0.0.0.0 04ef6b7d5799a5102e43fc3ee16b861c.safeframe.googlesyndication.com
-0.0.0.0 0dea3b40f08e8c2f1da01e9b72768f04.safeframe.googlesyndication.com
-0.0.0.0 0e4d7ca5752b16259defbc22ab5636ac.safeframe.googlesyndication.com
-0.0.0.0 2aa6daa40124fa1830d2143d22d18fa9.safeframe.googlesyndication.com
-0.0.0.0 369684cb346cffbaf7f1818bc8062260.safeframe.googlesyndication.com
-0.0.0.0 40a2838620e2364a958b891ffddba0ce.safeframe.googlesyndication.com
-0.0.0.0 4c37779ca8ed2d1779a5d08df1ed26b6.safeframe.googlesyndication.com
-0.0.0.0 4cb48ae7e126983eb2295407b0c67b73.safeframe.googlesyndication.com
-0.0.0.0 526e8626ddcb46e28e036ed302619d65.safeframe.googlesyndication.com
-0.0.0.0 5e9f1f29313f88cd3960513d382fdaa4.safeframe.googlesyndication.com
-0.0.0.0 61122612ea209c136b0cc43848284317.safeframe.googlesyndication.com
-0.0.0.0 7f5cecd4bbc22fa33a66c98103871713.safeframe.googlesyndication.com
-0.0.0.0 8a4af3fe69d082e863dd16b3788cf0d3.safeframe.googlesyndication.com
-0.0.0.0 8f84575ef5f220e61f3aec4d2e7424a5.safeframe.googlesyndication.com
-0.0.0.0 b1597bc3c31f7b37fbdc7524b57c7293.safeframe.googlesyndication.com
-0.0.0.0 b28fd4aa9013c7ecc31d96e8bc4d5338.safeframe.googlesyndication.com
-0.0.0.0 b33651339f3cc368b1cf6ed232900db6.safeframe.googlesyndication.com
-0.0.0.0 b4a53de4c2b923753548cfd2be6f08e5.safeframe.googlesyndication.com
-0.0.0.0 b60f621c63f5e2210e7455fc86952408.safeframe.googlesyndication.com
-0.0.0.0 b90f4f410455bedf6b672ba9a6774665.safeframe.googlesyndication.com
-0.0.0.0 ce5ae765dab042601b63c2bde9620503.safeframe.googlesyndication.com
-0.0.0.0 cfc952f4d16869f79b8df23935cbe5d6.safeframe.googlesyndication.com
-0.0.0.0 dfcc4ae1c55c0e2b3c2cac8ee83ae11e.safeframe.googlesyndication.com
-0.0.0.0 e9fb7f067adda7237a3b89081b13bfcd.safeframe.googlesyndication.com
-0.0.0.0 ebd0b3daa832b268782e0378a72dfd4a.safeframe.googlesyndication.com
-0.0.0.0 eee82ef6111b95f3f28d5086dc2eb6a5.safeframe.googlesyndication.com
-0.0.0.0 fa7cac73b617ed5e34aa6914a5c8fb1b.safeframe.googlesyndication.com
-0.0.0.0 b9ae6426ad193aeae1f6f23d4c7a1dbf.safeframe.googlesyndication.com
-0.0.0.0 683ae7ff00dff6b8fd794888dc1e7faf.safeframe.googlesyndication.com
-0.0.0.0 21b69a95127efb8a8fc8ad9ca4399db0.safeframe.googlesyndication.com
-0.0.0.0 0ee8313525504b19c59c51a7967904ea.safeframe.googlesyndication.com
-0.0.0.0 c56eb28be04ee01c4b22cbad885c25cc.safeframe.googlesyndication.com
 
 # [ QQ ]
 0.0.0.0 data.ab.qq.com
@@ -410,7 +374,7 @@
 0.0.0.0 aiqua-sdk.c.appier.net
 0.0.0.0 aiqua-user.c.appier.net
 
-# [goadservices.com]
+# [Goadservices.com]
 0.0.0.0 goadservices.com
 0.0.0.0 bo.goadservices.com
 
@@ -452,7 +416,7 @@
 0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 us-east-1.telemetry.insights.video.a2z.com
 
-# Adcolony Domains
+# [Adcolony]
 0.0.0.0 wd.adcolony.xyz
 0.0.0.0 ads20.adcolony.com
 0.0.0.0 ads30.adcolony.com
@@ -493,7 +457,7 @@
 0.0.0.0 androidads4-6.adcolony.com
 0.0.0.0 androidads4-7.adcolony.com
 
-# DDOS MRIS BOTNET
+# [DDOS MRIS BOTNET]
 0.0.0.0 1abcnews.xyz
 0.0.0.0 1awesome.net
 0.0.0.0 7standby.com

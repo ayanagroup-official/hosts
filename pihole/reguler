@@ -360,7 +360,6 @@
 
 # [ QQ ]
 0.0.0.0 data.ab.qq.com
-0.0.0.0 h.trace.qq.com
 0.0.0.0 otheve.beacon.qq.com
 0.0.0.0 oth.str.beacon.qq.com
 

@@ -1,8 +1,14 @@
 # Selamat datang pengunjung
 
-DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & ShopeePay)
+<b>💸💸💸💸💸 DONASI 💸💸💸💸💸</b> 
 
-<img src="https://user-images.githubusercontent.com/94752371/166851078-7768997c-42dd-4cdf-b094-8fb590107a47.png" height="500" style="max-width: 100%;">
+<details>
+  <summary><b> 🔎 Lihat Kode QR Standar Indonesia</summary>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/94752371/166851078-7768997c-42dd-4cdf-b094-8fb590107a47.png"><img src="https://user-images.githubusercontent.com/94752371/166851078-7768997c-42dd-4cdf-b094-8fb590107a47.png" height="500" style="max-width: 100%;"></a></p>
+</details>
+Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & ShopeePay)
+
+<hr>
 
 # Daftar semua varian file host
 <table>
@@ -18,57 +24,57 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 <tbody>
 <tr>
 <td>Reguler</td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/reguler" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/reguler" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/reguler" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/reguler" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">Fanda Group</th>
 </tr>
 <tr>
 <td>Advertising</td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/ads" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/ads" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/ads" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/ads" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">Fanda Group</th>
 </tr>
 <tr>
 <td>Analytics</td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/analytics" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/analytics" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/analytics" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/analytics" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">Fanda Group</th>
 </tr>
 <tr>
 <td>Log</td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/log" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/log" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/log" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/log" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">Fanda Group</th>
 </tr>
 <tr>
 <td>Malware</td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/malware" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/malware" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/malware" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/malware" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">Fanda Group</th>
 </tr>
 <tr>
 <td>Trackers</td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/trackers" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/trackers" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/trackers" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/trackers" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">Fanda Group</th>
 </tr>
 <tr>
 <td>Ublock</td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/ublock" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/ublock" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/ublock" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/ublock" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">uBlock Origin</th>
 </tr>
 <tr>
 <td>Push</td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/pihole/push" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/adaway/push" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/push" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/push" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">Fanda Group</th>
 </tr>
@@ -76,7 +82,7 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 <td>Porn</td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/hosts/main/domain/porn" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/domain/porn" rel="nofollow">Link</a></td>
 <th align="center">Random</th>
 </tr>
 </tbody>
@@ -136,5 +142,7 @@ Berikut sistem operasi secara resmi didukung oleh pi-hole :
 </tr>
 </tbody>
 </table>
-  
-# Hubungi Kami : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a>
+
+
+  <hr>
+<center><h1> ☎️ Hubungi Kami : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a> </h1></center>

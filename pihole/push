@@ -178,6 +178,44 @@
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 init-p01md-lb.push-apple.com.akadns.net
 0.0.0.0 burningpushing.info
+0.0.0.0 push.idugc.com
+0.0.0.0 pushapi.thinkyeah.com
+0.0.0.0 img-push.zthd.io
+0.0.0.0 api2.push.ilovexclub.com
+0.0.0.0 snackvideo.in.edgesuite.net
+0.0.0.0 k-api.kwaipros.com.akadns.net
+0.0.0.0 k-api.kwaipros.com.edgesuite.net
+0.0.0.0 push.app-ofcr.com
+0.0.0.0 statsonline.pushct.baidu.com
+0.0.0.0 48.courier-push-apple.com.akadns.net
+0.0.0.0 push-rtmp-f5-gcp01.ttlivecdn.com.c.worldfcdn.com
+0.0.0.0 push-rtmp-l11.ttlivecdn.livepush.myqcloud.com
+0.0.0.0 22-courier2.push.apple.com
+0.0.0.0 push-rtmp-l11.tiktokcdn.livepush.myqcloud.com
+0.0.0.0 lbsonline.pushct.baidu.com
+0.0.0.0 mqtt-gw.pushnotifs.com
+
+# Push.io
+0.0.0.0 mqtt-1652711752.pushy.io
+0.0.0.0 mqtt-1652712004.pushy.io
+0.0.0.0 mqtt-1652723346.pushy.io
+0.0.0.0 mqtt-1652731331.pushy.io
+0.0.0.0 mqtt-1652742527.pushy.io
+0.0.0.0 mqtt-1652749373.pushy.io
+0.0.0.0 mqtt-1652747326.pushy.io
+0.0.0.0 mqtt-1652750553.pushy.io
+0.0.0.0 mqtt-1652751024.pushy.io
+0.0.0.0 mqtt-1652679303.pushy.io
+0.0.0.0 mqtt-1652676172.pushy.io
+0.0.0.0 mqtt-1652671961.pushy.io
+0.0.0.0 mqtt-1652671957.pushy.io
+0.0.0.0 mqtt-1652669469.pushy.io
+0.0.0.0 mqtt-1652664539.pushy.io
+0.0.0.0 mqtt-1652663790.pushy.io
+0.0.0.0 mqtt-1652659852.pushy.io
+0.0.0.0 mqtt-1652656492.pushy.io
+0.0.0.0 mqtt-1652649322.pushy.io
+0.0.0.0 mqtt-1652649291.pushy.io
 
 #HEYTAMOBIILE
 0.0.0.0 httpdns-push.heytapmobile.com

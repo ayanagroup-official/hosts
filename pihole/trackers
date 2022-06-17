@@ -4,6 +4,8 @@
 # Facebook : https://www.facebook.com/fandagroup.id
 # Title = Trackers
 
+
+# Random
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.seanear.com
 0.0.0.0 track.paddlewaver.com
@@ -111,6 +113,24 @@
 0.0.0.0 track.swaptrap.live
 0.0.0.0 track.special-promotions.online
 0.0.0.0 track.analitycs.net
+0.0.0.0 tracker.nitropay.com
+0.0.0.0 gwtrack.ymmobi.com
+0.0.0.0 us-dsptrack.ymmobi.com
+0.0.0.0 track.aguard.org
+0.0.0.0 tracker.fuckbookmobile.com
+0.0.0.0 track.rendan-compto.com
+0.0.0.0 offerit-track-lb-653047011.us-east-1.elb.amazonaws.com
+0.0.0.0 track.pusatpalinggacor11.com
+0.0.0.0 etracker.plg.dev
+0.0.0.0 track.oasis.magictavern.com
+0.0.0.0 track.bima-up.com
+0.0.0.0 tracker.arc.io
+0.0.0.0 tracker-grd.ortb.net
+0.0.0.0 track.mialltrack.com
+0.0.0.0 track-eu.adformnet.akadns.net
+0.0.0.0 sh2-sg7.rtbtrackers.com
+0.0.0.0 sctrack.sendcloud.net
+0.0.0.0 sig-dsptrack.ymmobi.com
 
 # Trackers Unidentified
 0.0.0.0 certify-js.alexametrics.com

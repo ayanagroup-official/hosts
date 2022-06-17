@@ -392,7 +392,6 @@
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 analytics.twitter.com
-0.0.0.0 abs-0.twimg.com
 
 # [a2z.com]
 0.0.0.0 prod.cm.publishers.advertising.a2z.com

@@ -11,6 +11,9 @@ Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & Shope
 <hr>
 
 # Daftar semua varian file host
+  
+<details>
+<summary><b> 🔎 Lihat Daftar Link</summary>
 <table>
 <thead>
 <tr>
@@ -27,42 +30,42 @@ Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & Shope
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/reguler" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/reguler" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<th align="center">Fanda Group</th>
+<th align="center">Fanda Network</th>
 </tr>
 <tr>
 <td>Advertising</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/ads" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/ads" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<th align="center">Fanda Group</th>
+<th align="center">Fanda Network</th>
 </tr>
 <tr>
 <td>Analytics</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/analytics" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/analytics" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<th align="center">Fanda Group</th>
+<th align="center">Fanda Network</th>
 </tr>
 <tr>
 <td>Log</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/log" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/log" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<th align="center">Fanda Group</th>
+<th align="center">Fanda Network</th>
 </tr>
 <tr>
 <td>Malware</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/malware" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/malware" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<th align="center">Fanda Group</th>
+<th align="center">Fanda Network</th>
 </tr>
 <tr>
 <td>Trackers</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/trackers" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/trackers" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<th align="center">Fanda Group</th>
+<th align="center">Fanda Network</th>
 </tr>
 <tr>
 <td>Ublock</td>
@@ -76,7 +79,7 @@ Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & Shope
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/push" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/push" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<th align="center">Fanda Group</th>
+<th align="center">Fanda Network</th>
 </tr>
 <tr>
 <td>Porn</td>
@@ -87,6 +90,7 @@ Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & Shope
 </tr>
 </tbody>
 </table>
+</details>
 
 # AdAway
 Mode pemblokiran yang direkomendasi pengembang AdAway adalah <b>127.0.0.1</b>

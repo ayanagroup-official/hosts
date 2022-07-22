@@ -396,14 +396,6 @@
 0.0.0.0 goadservices.com
 0.0.0.0 bo.goadservices.com
 
-# [hotjar.com]
-0.0.0.0 script.hotjar.com
-0.0.0.0 static.hotjar.com
-0.0.0.0 vars.hotjar.com
-
-# [hotjar.io]
-0.0.0.0 vc.hotjar.io
-
 # [adjust.com]
 0.0.0.0 s2s.adjust.com
 0.0.0.0 ulink.adjust.com

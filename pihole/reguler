@@ -86,7 +86,6 @@
 0.0.0.0 script.crazyegg.com
 0.0.0.0 a.pub.network
 0.0.0.0 flatcapspriggy.cam
-0.0.0.0 cdn.unblockia.com
 0.0.0.0 report.yukbacaberita.com
 0.0.0.0 cdn-static.ap4r.com
 0.0.0.0 obus-sg.dc.heytapmobile.com
@@ -202,15 +201,12 @@
 0.0.0.0 beacons-online5.glance-internal.inmobi.com
 
 # [ detik.com ]
-0.0.0.0 kayumanis.detik.com
 0.0.0.0 analytic.detik.com
 0.0.0.0 analytic20.detik.com
 0.0.0.0 mobile-analytic.detik.com
 0.0.0.0 pushads.detik.com
-0.0.0.0 cdnstatic.detik.com
 0.0.0.0 displaybanner.detik.com
 0.0.0.0 adsmart.detik.com
-0.0.0.0 newrevive.detik.com
 0.0.0.0 push.detik.com
 
 # [ rsc.cdn77.org ]

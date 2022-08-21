@@ -1,5 +1,5 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 1 Mei 2022 22:50
+# Last Update : 1 Agust 2022 22:50
 # Home Page : https://github.com/fandagroupofficial
 # Facebook : https://www.facebook.com/fandagroup.id
 # Title = Push
@@ -56,71 +56,9 @@
 127.0.0.1 48-courier.push.apple.com
 127.0.0.1 49-courier.push.apple.com
 127.0.0.1 50-courier.push.apple.com
-127.0.0.1 0-courier.push.apple.com.akadns.net
-127.0.0.1 1-courier.push.apple.com.akadns.net
-127.0.0.1 2-courier.push.apple.com.akadns.net
-127.0.0.1 3-courier.push.apple.com.akadns.net
-127.0.0.1 4-courier.push.apple.com.akadns.net
-127.0.0.1 5-courier.push.apple.com.akadns.net
-127.0.0.1 6-courier.push.apple.com.akadns.net
-127.0.0.1 7-courier.push.apple.com.akadns.net
-127.0.0.1 8-courier.push.apple.com.akadns.net
-127.0.0.1 9-courier.push.apple.com.akadns.net
-127.0.0.1 10-courier.push.apple.com.akadns.net
-127.0.0.1 11-courier.push.apple.com.akadns.net
-127.0.0.1 12-courier.push.apple.com.akadns.net
-127.0.0.1 13-courier.push.apple.com.akadns.net
-127.0.0.1 14-courier.push.apple.com.akadns.net
-127.0.0.1 15-courier.push.apple.com.akadns.net
-127.0.0.1 16-courier.push.apple.com.akadns.net
-127.0.0.1 17-courier.push.apple.com.akadns.net
-127.0.0.1 18-courier.push.apple.com.akadns.net
-127.0.0.1 19-courier.push.apple.com.akadns.net
-127.0.0.1 20-courier.push.apple.com.akadns.net
-127.0.0.1 21-courier.push.apple.com.akadns.net
-127.0.0.1 22-courier.push.apple.com.akadns.net
-127.0.0.1 23-courier.push.apple.com.akadns.net
-127.0.0.1 24-courier.push.apple.com.akadns.net
-127.0.0.1 25-courier.push.apple.com.akadns.net
-127.0.0.1 26-courier.push.apple.com.akadns.net
-127.0.0.1 27-courier.push.apple.com.akadns.net
-127.0.0.1 28-courier.push.apple.com.akadns.net
-127.0.0.1 29-courier.push.apple.com.akadns.net
-127.0.0.1 30-courier.push.apple.com.akadns.net
-127.0.0.1 31-courier.push.apple.com.akadns.net
-127.0.0.1 32-courier.push.apple.com.akadns.net
-127.0.0.1 33-courier.push.apple.com.akadns.net
-127.0.0.1 34-courier.push.apple.com.akadns.net
-127.0.0.1 35-courier.push.apple.com.akadns.net
-127.0.0.1 36-courier.push.apple.com.akadns.net
-127.0.0.1 35-courier.push.apple.com.akadns.net
-127.0.0.1 37-courier.push.apple.com.akadns.net
-127.0.0.1 35-courier.push.apple.com.akadns.net
-127.0.0.1 38-courier.push.apple.com.akadns.net
-127.0.0.1 35-courier.push.apple.com.akadns.net
-127.0.0.1 39-courier.push.apple.com.akadns.net
-127.0.0.1 35-courier.push.apple.com.akadns.net
-127.0.0.1 40-courier.push.apple.com.akadns.net
-127.0.0.1 35-courier.push.apple.com.akadns.net
-127.0.0.1 41-courier.push.apple.com.akadns.net
-127.0.0.1 35-courier.push.apple.com.akadns.net
-127.0.0.1 42-courier.push.apple.com.akadns.net
-127.0.0.1 43-courier.push.apple.com.akadns.net
-127.0.0.1 44-courier.push.apple.com.akadns.net
-127.0.0.1 45-courier.push.apple.com.akadns.net
-127.0.0.1 46-courier.push.apple.com.akadns.net
-127.0.0.1 47-courier.push.apple.com.akadns.net
-127.0.0.1 48-courier.push.apple.com.akadns.net
-127.0.0.1 49-courier.push.apple.com.akadns.net
-127.0.0.1 50-courier.push.apple.com.akadns.net
-127.0.0.1 courier-ab-vs.push-apple.com.akadns.net
 127.0.0.1 courier-ab-vs.push.apple.com
-127.0.0.1 init.push-apple.com.akadns.net
-127.0.0.1 apac-asia-courier-vs.push-apple.com.akadns.net
 127.0.0.1 init-p01st.push.apple.com
-127.0.0.1 apac-asia-courier-4.push-apple.com.akadns.net
 127.0.0.1 init.push.apple.com
-127.0.0.1 init-sb.push-apple.com.akadns.net
 
 #RANDOM
 127.0.0.1 ali-stats.jpush.cn
@@ -173,15 +111,46 @@
 127.0.0.1 bjuser.jpush.cn
 127.0.0.1 app.pushbrothers.com
 127.0.0.1 tsis.jpush.cn
-127.0.0.1 k-api.kwaipros.com
-127.0.0.1 g-api.kwaipros.com
-127.0.0.1 k-api.kwai-pro.com
-127.0.0.1 g-api.kwai-pro.com
 127.0.0.1 push.beatracing.net
 127.0.0.1 push.papermobi.com
 127.0.0.1 push.zhanzhang.baidu.com
-127.0.0.1 init-p01md-lb.push-apple.com.akadns.net
 127.0.0.1 burningpushing.info
+127.0.0.1 push.idugc.com
+127.0.0.1 pushapi.thinkyeah.com
+127.0.0.1 img-push.zthd.io
+127.0.0.1 api2.push.ilovexclub.com
+127.0.0.1 snackvideo.in.edgesuite.net
+127.0.0.1 k-api.kwaipros.com.edgesuite.net
+127.0.0.1 push.app-ofcr.com
+127.0.0.1 statsonline.pushct.baidu.com
+127.0.0.1 push-rtmp-f5-gcp01.ttlivecdn.com.c.worldfcdn.com
+127.0.0.1 push-rtmp-l11.ttlivecdn.livepush.myqcloud.com
+127.0.0.1 22-courier2.push.apple.com
+127.0.0.1 push-rtmp-l11.tiktokcdn.livepush.myqcloud.com
+127.0.0.1 lbsonline.pushct.baidu.com
+127.0.0.1 mqtt-gw.pushnotifs.com
+
+# Push.io
+127.0.0.1 mqtt-1652711752.pushy.io
+127.0.0.1 mqtt-1652712004.pushy.io
+127.0.0.1 mqtt-1652723346.pushy.io
+127.0.0.1 mqtt-1652731331.pushy.io
+127.0.0.1 mqtt-1652742527.pushy.io
+127.0.0.1 mqtt-1652749373.pushy.io
+127.0.0.1 mqtt-1652747326.pushy.io
+127.0.0.1 mqtt-1652750553.pushy.io
+127.0.0.1 mqtt-1652751024.pushy.io
+127.0.0.1 mqtt-1652679303.pushy.io
+127.0.0.1 mqtt-1652676172.pushy.io
+127.0.0.1 mqtt-1652671961.pushy.io
+127.0.0.1 mqtt-1652671957.pushy.io
+127.0.0.1 mqtt-1652669469.pushy.io
+127.0.0.1 mqtt-1652664539.pushy.io
+127.0.0.1 mqtt-1652663790.pushy.io
+127.0.0.1 mqtt-1652659852.pushy.io
+127.0.0.1 mqtt-1652656492.pushy.io
+127.0.0.1 mqtt-1652649322.pushy.io
+127.0.0.1 mqtt-1652649291.pushy.io
 
 #HEYTAMOBIILE
 127.0.0.1 httpdns-push.heytapmobile.com

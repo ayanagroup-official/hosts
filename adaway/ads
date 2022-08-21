@@ -135,6 +135,7 @@
 127.0.0.1 partnerad.l.doubleclick.net
 127.0.0.1 ff.doubleclick.net
 127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 secureads.g.doubleclick.net
 
 # [ Amazon-adsystem.com ]
 127.0.0.1 c.amazon-adsystem.com
@@ -202,7 +203,7 @@
 127.0.0.1 ads.youtube.com
 127.0.0.1 ads.rvg.co.id
 127.0.0.1 ads.appbundledownload.com
-127.0.0.1 ads.sticky127.0.0.1 ads.v.com
+127.0.0.1 ads.sticky0.0.0.0 ads.v.com
 127.0.0.1 ads.avocet.io
 127.0.0.1 ads.dfastapp.com
 127.0.0.1 ads.realsrv.com
@@ -389,3 +390,58 @@
 127.0.0.1 samsungads.com
 127.0.0.1 longitudeads-com.videoplayerhub.com
 127.0.0.1 data-sg.ads.oppomobile.com
+127.0.0.1 push.adsconverts.com
+127.0.0.1 prs.pinkyads.quest
+127.0.0.1 video.adsparc.com
+127.0.0.1 sb.bcc-ads.com
+127.0.0.1 ads.digitalcaramel.com
+127.0.0.1 lp9.amulet-id-2.adsssite.com
+127.0.0.1 adsssite.com
+127.0.0.1 in-adsjssdk.vivoglobal.com
+127.0.0.1 ads.gadsme.com
+127.0.0.1 static.gadsme.gg
+127.0.0.1 revboostprocdnadsprod.azureedge.net
+127.0.0.1 t-id.ads.heytapmobile.com
+127.0.0.1 adserver.kl-youniverse.com
+127.0.0.1 ads.playground.xyz
+127.0.0.1 163fd0cbd6.ad2608fb9c.com
+127.0.0.1 xlaxiata2.md-apis.medallia.com
+127.0.0.1 xlaxiata-udc.digital-cloud-sin1.medallia.com
+127.0.0.1 delivery.adnuntius.com
+127.0.0.1 dsp.adfarm1.adition.com
+127.0.0.1 p16-ad.byteoversea.com
+127.0.0.1 premiumvertising.com
+127.0.0.1 www.premiumvertising.com
+127.0.0.1 cdn.connectad.io
+127.0.0.1 ad.dreame.com
+127.0.0.1 pok.mintegral.net
+127.0.0.1 play.mintegral.com
+127.0.0.1 assets.mintegral.com
+127.0.0.1 playable.mintegral.com
+127.0.0.1 cdn.adskeeper.co.uk
+127.0.0.1 thinkbigads.g2afse.com
+127.0.0.1 goodjoyads.clickv2.offerplus.net
+127.0.0.1 ads.a-static.com
+127.0.0.1 ads.adxadserv.com
+127.0.0.1 xml.admeridianads.com
+127.0.0.1 ads.gamaads.com
+127.0.0.1 redirect.appleads-trk.com
+127.0.0.1 iosads4-8.adcolony.com
+127.0.0.1 ads61.adtelligent.com
+127.0.0.1 s-odx.oleads.com
+127.0.0.1 track.adsforward.com
+127.0.0.1 3ads.tri.co.id
+127.0.0.1 s3.buysellads.com
+127.0.0.1 data-cl-f-ads.realmemobile.com
+127.0.0.1 adservice.google.se
+127.0.0.1 events.ads.vungle.com
+127.0.0.1 rtb-useast.rtbflairads.com
+127.0.0.1 hx-adsdk-us.us-west-1.log.aliyuncs.com
+127.0.0.1 adserver-alb-v7-534597132.ap-southeast-1.elb.amazonaws.com
+127.0.0.1 adsdk.easyxapp.com
+127.0.0.1 config.unityads.unity3d.col
+127.0.0.1 req.appads.in
+127.0.0.1 adserve2.mahimeta.com
+127.0.0.1 adserve.mahimeta.com
+127.0.0.1 track.stopadsnow.org
+127.0.0.1 ads2.uptobox.com

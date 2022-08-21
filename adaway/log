@@ -1,8 +1,8 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 15 Mei 2022 22:50
+# Last Update : 15 Agust 2022 22:50
 # Home Page : https://github.com/fandagroupofficial
 # Facebook : https://www.facebook.com/fandagroup.id
-# Title = LOG
+# Title = Log
 
 127.0.0.1 log.byteoversea.com
 127.0.0.1 log.avlyun.com
@@ -93,9 +93,9 @@
 127.0.0.1 xlog.tiktokv.com
 127.0.0.1 xlog.byteoversea.com
 127.0.0.1 xlog-va.byteoversea.com
-127.0.0.1 x127.0.0.1 log16-normal-c-useast2a.tiktokv.com
+127.0.0.1 x0.0.0.0 log16-normal-c-useast2a.tiktokv.com
 127.0.0.1 xlog.tiktokv.com.edgesuite.net
-127.0.0.1 x127.0.0.1 log16-normal-c-useast2a.tiktokv.com.edgekey.net
+127.0.0.1 x0.0.0.0 log16-normal-c-useast2a.tiktokv.com.edgekey.net
 127.0.0.1 log16.byteoversea.com
 127.0.0.1 log15.byteoversea.com
 127.0.0.1 log16-normal-alisg.tiktokv.com
@@ -194,3 +194,43 @@
 127.0.0.1 logsdk.kwai-pro.com
 127.0.0.1 logserver.insight.ucweb.com
 127.0.0.1 gjapplog.ucweb.com
+127.0.0.1 xlog16-normal-c-useast2a.tiktokv.com
+127.0.0.1 toblog.tobsnssdk.com
+127.0.0.1 tobapplog.tobsnssdk.com
+127.0.0.1 rtlog22-normal-alisg.tiktokv.com
+127.0.0.1 rtlog22-normal-useast2a.tiktokv.com
+127.0.0.1 mobile-http-intake.logs.datadoghq.eu
+127.0.0.1 eu.webhook.logs.insight.rapid7.com
+127.0.0.1 clientlog.baechat.my
+127.0.0.1 api16-log-sg.pangle-b.io
+127.0.0.1 log.snssdk.com
+127.0.0.1 k-ulog.kwai-pro.com.akadns.net
+127.0.0.1 publiclog.zhiyan.tencent-cloud.net
+127.0.0.1 hwth.log.slb.avlyun.com
+127.0.0.1 log.360moddownload.com
+127.0.0.1 log.allapkdown.com
+127.0.0.1 log.downloadatoz.com
+127.0.0.1 log.modapkandroid.ru
+127.0.0.1 log.tube60.com
+127.0.0.1 log.vostic.net
+127.0.0.1 g-ulog.uvfuns.com
+127.0.0.1 trend-log.aifrwk.com
+127.0.0.1 log.strm.yandex.ru
+127.0.0.1 log.down41.com
+127.0.0.1 hx-luckyfarm.us-west-1.log.aliyuncs.com
+127.0.0.1 hx-richthinker.us-west-1.log.aliyuncs.com
+127.0.0.1 applog.matrix.easebar.com
+127.0.0.1 log.play53.com
+127.0.0.1 tap-snow-hk.cn-hongkong.log.aliyuncs.com
+127.0.0.1 k8s-log-cac0362478afd4856b7e8a863ff00d031.cn-hongkong.log.aliyuncs.com
+127.0.0.1 uploadlog.wetvinfo.com
+127.0.0.1 log.gamehorror.com
+127.0.0.1 gj.applog.ucdns.uc.cn
+127.0.0.1 log.al-hiwar.com
+127.0.0.1 tx-ulog.snackvideo.com
+127.0.0.1 hw.log.functionads.com
+127.0.0.1 api16-log-sg.pangle-b.io
+127.0.0.1 log-api.mintkeyboard.com
+127.0.0.1 ilog-sea-aliyun.alipayplus.com
+127.0.0.1 hitlog-new.tvonenews.com
+127.0.0.1 global-client-log-gf-sg-turbine-da.sausage.xd.com

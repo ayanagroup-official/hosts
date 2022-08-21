@@ -1,9 +1,11 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 15 Mei 2022 16:00
+# Last Update : 15 Agust 2022 16:00
 # Home Page : https://github.com/fandagroupofficial
 # Facebook : https://www.facebook.com/fandagroup.id
 # Title = Trackers
 
+
+# Random
 127.0.0.1 track.hubspot.com
 127.0.0.1 track.seanear.com
 127.0.0.1 track.paddlewaver.com
@@ -81,12 +83,6 @@
 127.0.0.1 go.ts-tracker.me
 127.0.0.1 ctrack.trafficjunky.net
 127.0.0.1 ets-us-east-1.track.smaato.net
-127.0.0.1 btrace.qq.com
-127.0.0.1 mtrace.qq.com
-127.0.0.1 btrace.wetvinfo.com
-127.0.0.1 htrace.wetvinfo.com
-127.0.0.1 mtrace.wetvinfo.com
-127.0.0.1 vtrace.wetvinfo.com
 127.0.0.1 track-mixer.ru
 127.0.0.1 midas-tracker.hellay.net
 127.0.0.1 icotrack.net
@@ -107,6 +103,34 @@
 127.0.0.1 adtrack.appcpi.net
 127.0.0.1 usertrack.appcpi.net
 127.0.0.1 tracks.liftyad.xyz
+127.0.0.1 torahtracks.com
+127.0.0.1 track.affbay.com
+127.0.0.1 aurora-data-tracker-ivs.iv.shopee.com
+127.0.0.1 track.mmsvc.io
+127.0.0.1 track.traffic.name
+127.0.0.1 trackmytraff.lol
+127.0.0.1 tracksing.com
+127.0.0.1 track.swaptrap.live
+127.0.0.1 track.special-promotions.online
+127.0.0.1 track.analitycs.net
+127.0.0.1 tracker.nitropay.com
+127.0.0.1 gwtrack.ymmobi.com
+127.0.0.1 us-dsptrack.ymmobi.com
+127.0.0.1 track.aguard.org
+127.0.0.1 tracker.fuckbookmobile.com
+127.0.0.1 track.rendan-compto.com
+127.0.0.1 offerit-track-lb-653047011.us-east-1.elb.amazonaws.com
+127.0.0.1 track.pusatpalinggacor11.com
+127.0.0.1 etracker.plg.dev
+127.0.0.1 track.oasis.magictavern.com
+127.0.0.1 track.bima-up.com
+127.0.0.1 tracker.arc.io
+127.0.0.1 tracker-grd.ortb.net
+127.0.0.1 track.mialltrack.com
+127.0.0.1 track-eu.adformnet.akadns.net
+127.0.0.1 sh2-sg7.rtbtrackers.com
+127.0.0.1 sctrack.sendcloud.net
+127.0.0.1 sig-dsptrack.ymmobi.com
 
 # Trackers Unidentified
 127.0.0.1 certify-js.alexametrics.com

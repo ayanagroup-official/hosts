@@ -28,56 +28,56 @@ Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & Shope
 <tr>
 <td>Reguler</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/reguler" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/reguler" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adguard-home/reguler" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">Fanda Network</th>
 </tr>
 <tr>
 <td>Advertising</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/ads" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/ads" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adguard-home/ads" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">Fanda Network</th>
 </tr>
 <tr>
 <td>Analytics</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/analytics" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/analytics" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adguard-home/analytics" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">Fanda Network</th>
 </tr>
 <tr>
 <td>Log</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/log" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/log" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adguard-home/log" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">Fanda Network</th>
 </tr>
 <tr>
 <td>Malware</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/malware" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/malware" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adguard-home/malware" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">Fanda Network</th>
 </tr>
 <tr>
 <td>Trackers</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/trackers" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/trackers" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adguard-home/trackers" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">Fanda Network</th>
 </tr>
 <tr>
 <td>Ublock</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/ublock" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/ublock" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adguard-home/ublock" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">uBlock Origin</th>
 </tr>
 <tr>
 <td>Push</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/push" rel="nofollow">Link</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adaway/push" rel="nofollow">Link</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adguard-home/push" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
 <th align="center">Fanda Network</th>
 </tr>

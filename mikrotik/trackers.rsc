@@ -1,5 +1,7 @@
 # From : Indonesia (Jawa Timur)
 # Last Update : 15 Agust 2022 16:00
+#
+#
 # Title = Trackers
 /ip dns static
 add comment=Adblock-Tracker address=127.0.0.1 name=track.hubspot.com

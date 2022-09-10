@@ -1,5 +1,7 @@
 # From : Indonesia (Jawa Timur)
 # Last Update : 15 Agust 2022 01:50
+#
+#
 # Title =  Iklan Peter Lowe dan daftar server pelacakan (uBlock Origin)
 /ip dns static
 add comment=Adblock-Ublock address=127.0.0.1 name=101com.com

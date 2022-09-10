@@ -1,65 +1,7 @@
 # From : Indonesia (Jawa Timur)
 # Last Update : 15 Agust 2022 22:50
 # Title = Push
-
-/ip/dns/static
-# APPLE
-add comment=Adblock-Push address=127.0.0.1 name=0-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=1-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=2-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=3-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=4-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=5-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=6-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=7-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=8-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=9-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=10-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=11-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=12-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=13-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=14-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=15-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=16-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=17-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=18-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=19-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=20-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=21-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=22-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=23-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=24-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=25-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=26-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=27-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=28-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=29-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=30-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=31-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=32-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=33-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=34-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=35-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=36-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=37-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=38-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=39-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=40-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=41-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=42-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=43-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=44-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=45-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=46-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=47-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=48-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=49-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=50-courier.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=courier-ab-vs.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=init-p01st.push.apple.com
-add comment=Adblock-Push address=127.0.0.1 name=init.push.apple.com
-
-#RANDOM
+/ip dns static
 add comment=Adblock-Push address=127.0.0.1 name=ali-stats.jpush.cn
 add comment=Adblock-Push address=127.0.0.1 name=codepush.appcenter.ms
 add comment=Adblock-Push address=127.0.0.1 name=codepush.akulaku.net
@@ -128,7 +70,61 @@ add comment=Adblock-Push address=127.0.0.1 name=22-courier2.push.apple.com
 add comment=Adblock-Push address=127.0.0.1 name=push-rtmp-l11.tiktokcdn.livepush.myqcloud.com
 add comment=Adblock-Push address=127.0.0.1 name=lbsonline.pushct.baidu.com
 add comment=Adblock-Push address=127.0.0.1 name=mqtt-gw.pushnotifs.com
-
+# APPLE
+add comment=Adblock-Push address=127.0.0.1 name=0-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=1-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=2-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=3-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=4-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=5-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=6-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=7-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=8-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=9-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=10-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=11-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=12-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=13-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=14-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=15-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=16-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=17-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=18-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=19-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=20-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=21-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=22-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=23-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=24-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=25-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=26-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=27-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=28-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=29-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=30-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=31-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=32-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=33-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=34-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=35-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=36-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=37-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=38-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=39-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=40-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=41-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=42-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=43-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=44-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=45-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=46-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=47-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=48-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=49-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=50-courier.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=courier-ab-vs.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=init-p01st.push.apple.com
+add comment=Adblock-Push address=127.0.0.1 name=init.push.apple.com
 # Push.io
 add comment=Adblock-Push address=127.0.0.1 name=mqtt-1652711752.pushy.io
 add comment=Adblock-Push address=127.0.0.1 name=mqtt-1652712004.pushy.io
@@ -150,14 +146,12 @@ add comment=Adblock-Push address=127.0.0.1 name=mqtt-1652659852.pushy.io
 add comment=Adblock-Push address=127.0.0.1 name=mqtt-1652656492.pushy.io
 add comment=Adblock-Push address=127.0.0.1 name=mqtt-1652649322.pushy.io
 add comment=Adblock-Push address=127.0.0.1 name=mqtt-1652649291.pushy.io
-
 #HEYTAMOBIILE
 add comment=Adblock-Push address=127.0.0.1 name=httpdns-push.heytapmobile.com
 add comment=Adblock-Push address=127.0.0.1 name=shortintl.push.heytapmobile.com
 add comment=Adblock-Push address=127.0.0.1 name=dcintl1.push.heytapmobile.com
 add comment=Adblock-Push address=127.0.0.1 name=dcintl.push.heytapmobile.com
 add comment=Adblock-Push address=127.0.0.1 name=httpdns-push-heytapmobile-com-155585118.ap-southeast-1.elb.amazonaws.com
-
 # TIKTOK
 add comment=Adblock-Push address=127.0.0.1 name=push-rtmp-f5-sg01.tiktokcdn.com
 add comment=Adblock-Push address=127.0.0.1 name=push-rtmp-l1-sg01.ttlivecdn.com

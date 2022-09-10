@@ -19,7 +19,6 @@ add comment=Adblock-Ads address=127.0.0.1 name=ads.wartaekonomi.co.id
 add comment=Adblock-Ads address=127.0.0.1 name=ads.cloudgames.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.vidoomy.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.roblox.com
-add comment=Adblock-Ads address=127.0.0.1 name=ads.mopub.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.bulldogcpi.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.exosrv.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.adfox.ru
@@ -41,11 +40,8 @@ add comment=Adblock-Ads address=127.0.0.1 name=ads.avct.cloud
 add comment=Adblock-Ads address=127.0.0.1 name=ads.tiktok.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.baca.co.id.mcchcdn.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.gridtechno.com
-add comment=Adblock-Ads address=127.0.0.1 name=ads.appbundledownload.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.sibernetworks.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.outfit7.com
-add comment=Adblock-Ads address=127.0.0.1 name=ads.inmobi.com
-add comment=Adblock-Ads address=127.0.0.1 name=ads.playground.xyz
 add comment=Adblock-Ads address=127.0.0.1 name=ads.viralize.tv
 add comment=Adblock-Ads address=127.0.0.1 name=ads.yahoo.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.facebook.com
@@ -61,15 +57,12 @@ add comment=Adblock-Ads address=127.0.0.1 name=ads.bullfrogapp.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.api.vungle.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.playground.xyz
 add comment=Adblock-Ads address=127.0.0.1 name=ads.skor.id
-add comment=Adblock-Ads address=127.0.0.1 name=ads.mopub.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.bid
 add comment=Adblock-Ads address=127.0.0.1 name=ads.grid.id
 add comment=Adblock-Ads address=127.0.0.1 name=ads.pubmatic.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.goclean.tech
 add comment=Adblock-Ads address=127.0.0.1 name=ads.mopub.com
-add comment=Adblock-Ads address=127.0.0.1 name=ads.mspremium.io
 add comment=Adblock-Ads address=127.0.0.1 name=ads.shtranssion.com
-add comment=Adblock-Ads address=127.0.0.1 name=ads.pubmatic.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.baca.co.id
 add comment=Adblock-Ads address=127.0.0.1 name=ads.inmobi.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.turbomobi.com
@@ -91,7 +84,6 @@ add comment=Adblock-Ads address=127.0.0.1 name=ads-ap.v.ssp.yahoo.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads-mumbai.qury.me
 add comment=Adblock-Ads address=127.0.0.1 name=ads-partner-noneu.truecaller.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads-service.tiktok.com
-add comment=Adblock-Ads address=127.0.0.1 name=ads-sg.tiktok.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads-cloud.rovio.com
 add comment=Adblock-Ads address=127.0.0.1 name=apads.mspremium.io
 add comment=Adblock-Ads address=127.0.0.1 name=adx-tracking.mcoreads.com
@@ -144,7 +136,6 @@ add comment=Adblock-Ads address=127.0.0.1 name=coln-prd-sg-s3-ads-pub.s3.ap-sout
 add comment=Adblock-Ads address=127.0.0.1 name=sync-amz.ads.yieldmo.com
 add comment=Adblock-Ads address=127.0.0.1 name=tapjoyads.com
 add comment=Adblock-Ads address=127.0.0.1 name=ws.tapjoyads.com
-add comment=Adblock-Ads address=127.0.0.1 name=adstracking.io
 add comment=Adblock-Ads address=127.0.0.1 name=edge.ads.twitch.tv
 add comment=Adblock-Ads address=127.0.0.1 name=adsperfection.g2afse.com
 add comment=Adblock-Ads address=127.0.0.1 name=control-ads.nasrulloh83.repl.co
@@ -250,8 +241,6 @@ add comment=Adblock-Ads address=127.0.0.1 name=ads.gadsme.com
 add comment=Adblock-Ads address=127.0.0.1 name=static.gadsme.gg
 add comment=Adblock-Ads address=127.0.0.1 name=revboostprocdnadsprod.azureedge.net
 add comment=Adblock-Ads address=127.0.0.1 name=t-id.ads.heytapmobile.com
-add comment=Adblock-Ads address=127.0.0.1 name=adserver.kl-youniverse.com
-add comment=Adblock-Ads address=127.0.0.1 name=ads.playground.xyz
 add comment=Adblock-Ads address=127.0.0.1 name=163fd0cbd6.ad2608fb9c.com
 add comment=Adblock-Ads address=127.0.0.1 name=xlaxiata2.md-apis.medallia.com
 add comment=Adblock-Ads address=127.0.0.1 name=xlaxiata-udc.digital-cloud-sin1.medallia.com
@@ -379,11 +368,8 @@ add comment=Adblock-Ads address=127.0.0.1 name=acds-uset1-ext-prod-a-2089480832.
 add comment=Adblock-Ads address=127.0.0.1 name=adx-id.ads.heytapmobi.com
 add comment=Adblock-Ads address=127.0.0.1 name=adsfs-id.heytapimg.com
 add comment=Adblock-Ads address=127.0.0.1 name=cl-data-id.ads.heytapmobi.com
-add comment=Adblock-Ads address=127.0.0.1 name=stg-data-id.ads.heytapmobile.com
-add comment=Adblock-Ads address=127.0.0.1 name=cl-data-id.ads.heytapmobile.com
 add comment=Adblock-Ads address=127.0.0.1 name=bdapi-f.ads.heytapmobile.com
 add comment=Adblock-Ads address=127.0.0.1 name=stg-data-id.ads.heytapmobile.com
-add comment=Adblock-Ads address=127.0.0.1 name=adx-id.ads.heytapmobile.com
 add comment=Adblock-Ads address=127.0.0.1 name=adx-mm.ads.heytapmobile.com
 add comment=Adblock-Ads address=127.0.0.1 name=stg-data-mm.ads.heytapmobile.com
 add comment=Adblock-Ads address=127.0.0.1 name=bdapi-id.ads.heytapmobile.com

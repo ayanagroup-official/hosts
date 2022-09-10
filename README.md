@@ -93,14 +93,14 @@ Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & Shope
 </details>
 
 # AdAway
-Mode pemblokiran yang direkomendasi pengembang AdAway adalah <b>127.0.0.1</b>
+Mode pemblokiran yang direkomendasi adalah <b>127.0.0.1</b>
 
 Download aplikasi AdAway untuk android : 
 <p dir="auto"><a href="https://app.adaway.org/adaway.apk" rel="nofollow"><img src="https://raw.githubusercontent.com/AdAway/AdAway/master/Resources/get-it-on-fdroid.png" alt="Get it on official AdAway website" height="80" style="max-width: 100%;"></a>
 
 # Pi-Hole
 
-  Mode pemblokiran yang direkomendasi pengembang Pi-hole adalah <b>0.0.0.0</b>
+  Mode pemblokiran yang direkomendasi adalah <b>0.0.0.0</b>
 <p><blockquote>Following <a href="https://tools.ietf.org/html/rfc3513#section-2.5.2">RFC 3513, Internet Protocol Version 6 (<abbr title="Internet Protocol version 6 (addresses like 2001:db8::ff00:42:8329)">IPv6</abbr>) Addressing Architecture, section 2.5.2</a>, the address <code>0:0:0:0:0:0:0:0</code> (or <code>::</code> for short) is the unspecified address. It must never be assigned to any node and indicates the absence of an address. Following <a href="https://tools.ietf.org/html/rfc1122#section-3.2">RFC1122, section 3.2</a>, the address <code>0.0.0.0</code> can be understood as the <abbr title="Internet Protocol version 4 (addresses like 192.168.0.1)">IPv4</abbr> equivalent of <code>::</code>.</blockquote></p>
   
 Berikut sistem operasi secara resmi didukung oleh pi-hole :

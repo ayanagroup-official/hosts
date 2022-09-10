@@ -91,9 +91,9 @@ add comment=Adblock-Log address=127.0.0.1 name=ulog-sdk.gifshow.com
 add comment=Adblock-Log address=127.0.0.1 name=xlog.tiktokv.com
 add comment=Adblock-Log address=127.0.0.1 name=xlog.byteoversea.com
 add comment=Adblock-Log address=127.0.0.1 name=xlog-va.byteoversea.com
-add comment=Adblock-Log address=127.0.0.1 name=x0.0.0.0 log16-normal-c-useast2a.tiktokv.com
+add comment=Adblock-Log address=127.0.0.1 name=xlog16-normal-c-useast2a.tiktokv.com
 add comment=Adblock-Log address=127.0.0.1 name=xlog.tiktokv.com.edgesuite.net
-add comment=Adblock-Log address=127.0.0.1 name=x0.0.0.0 log16-normal-c-useast2a.tiktokv.com.edgekey.net
+add comment=Adblock-Log address=127.0.0.1 name=xlog16-normal-c-useast2a.tiktokv.com.edgekey.net
 add comment=Adblock-Log address=127.0.0.1 name=log16.byteoversea.com
 add comment=Adblock-Log address=127.0.0.1 name=log15.byteoversea.com
 add comment=Adblock-Log address=127.0.0.1 name=log16-normal-alisg.tiktokv.com

@@ -52,7 +52,6 @@ add comment=Adblock-Ads address=127.0.0.1 name=ads.facebook.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.youtube.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.rvg.co.id
 add comment=Adblock-Ads address=127.0.0.1 name=ads.appbundledownload.com
-add comment=Adblock-Ads address=127.0.0.1 name=ads.sticky0.0.0.0 ads.v.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.avocet.io
 add comment=Adblock-Ads address=127.0.0.1 name=ads.dfastapp.com
 add comment=Adblock-Ads address=127.0.0.1 name=ads.realsrv.com

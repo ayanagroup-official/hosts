@@ -1,13 +1,11 @@
 # From : Indonesia (Jawa Timur)
 # Last Update : 15 Mei 2022 15:50
 # Title = Ads
-
 /ip/dns/static
 # AcuityAds
 add comment=Adblock-Ads address=127.0.0.1 name=acuityads.com
 add comment=Adblock-Ads address=127.0.0.1 name=acuityplatform.com
 add comment=Adblock-Ads address=127.0.0.1 name=e7125.d.akamaiedge.net
-
 # Adobe Ads
 add comment=Adblock-Ads address=127.0.0.1 name=2o7.net
 add comment=Adblock-Ads address=127.0.0.1 name=adobeaemcloud.com
@@ -47,42 +45,34 @@ add comment=Adblock-Ads address=127.0.0.1 name=tubemogul.com
 add comment=Adblock-Ads address=127.0.0.1 name=adobe-aem.map.fastly.net
 add comment=Adblock-Ads address=127.0.0.1 name=dcs-edge-apse-231350507.ap-southeast-1.elb.amazonaws.com
 add comment=Adblock-Ads address=127.0.0.1 name=everesttech.net.akadns.net
-
 # AdsWizz
 add comment=Adblock-Ads address=127.0.0.1 name=adswizz.com
 add comment=Adblock-Ads address=127.0.0.1 name=as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
-
 # Integral Ads
 add comment=Adblock-Ads address=127.0.0.1 name=adsafeprotected.com
 add comment=Adblock-Ads address=127.0.0.1 name=iasds01.com
 add comment=Adblock-Ads address=127.0.0.1 name=integralads.com
 add comment=Adblock-Ads address=127.0.0.1 name=stg-adsafeprotected.com
 add comment=Adblock-Ads address=127.0.0.1 name=dt-external-217593033.us-east-1.elb.amazonaws.com
-
 # Moat Ad Search
 add comment=Adblock-Ads address=127.0.0.1 name=moatads.com
 add comment=Adblock-Ads address=127.0.0.1 name=moat.com
 add comment=Adblock-Ads address=127.0.0.1 name=moatpixel.com
 add comment=Adblock-Ads address=127.0.0.1 name=e13136.d.akamaiedge.net
 add comment=Adblock-Ads address=127.0.0.1 name=moat-ads.s3.amazonaws.com
-
 # PopAds
 add comment=Adblock-Ads address=127.0.0.1 name=popads.net
-
 # Smart AdServer
 add comment=Adblock-Ads address=127.0.0.1 name=sascdn.com
 add comment=Adblock-Ads address=127.0.0.1 name=smartadserver.com
 add comment=Adblock-Ads address=127.0.0.1 name=cs410.wac.edgecastcdn.net
-
 # TANX Ads
 add comment=Adblock-Ads address=127.0.0.1 name=tanx.com
 add comment=Adblock-Ads address=127.0.0.1 name=tanx.com.gds.alibabadns.com
-
 # Teads
 add comment=Adblock-Ads address=127.0.0.1 name=teads.com
 add comment=Adblock-Ads address=127.0.0.1 name=teads.tv
 add comment=Adblock-Ads address=127.0.0.1 name=e9957.b.akamaiedge.net
-
 # Yahoo Ads
 add comment=Adblock-Ads address=127.0.0.1 name=adap.tv
 add comment=Adblock-Ads address=127.0.0.1 name=ads.yahoo.com
@@ -94,7 +84,6 @@ add comment=Adblock-Ads address=127.0.0.1 name=nexage.com
 add comment=Adblock-Ads address=127.0.0.1 name=onebyaol.com
 add comment=Adblock-Ads address=127.0.0.1 name=vidible.tv
 add comment=Adblock-Ads address=127.0.0.1 name=acds-uset1-ext-prod-a-2089480832.us-east-1.elb.amazonaws.com
-
 # [ Heytapmobile ]
 add comment=Adblock-Ads address=127.0.0.1 name=adx-id.ads.heytapmobi.com
 add comment=Adblock-Ads address=127.0.0.1 name=adsfs-id.heytapimg.com
@@ -112,7 +101,6 @@ add comment=Adblock-Ads address=127.0.0.1 name=stg-data-my.ads.heytapmobile.com
 add comment=Adblock-Ads address=127.0.0.1 name=adx-id.ads.heytapmobile.com
 add comment=Adblock-Ads address=127.0.0.1 name=adx-my.ads.heytapmobile.com
 add comment=Adblock-Ads address=127.0.0.1 name=sgp-ads-heytapmobile-pubgw-344151928.ap-southeast-1.elb.amazonaws.com
-
 # [ Doubleclick ]
 add comment=Adblock-Ads address=127.0.0.1 name=doubleclick.com
 add comment=Adblock-Ads address=127.0.0.1 name=doubleclickbygoogle.com
@@ -135,7 +123,6 @@ add comment=Adblock-Ads address=127.0.0.1 name=partnerad.l.doubleclick.net
 add comment=Adblock-Ads address=127.0.0.1 name=ff.doubleclick.net
 add comment=Adblock-Ads address=127.0.0.1 name=adclick.g.doubleclick.net
 add comment=Adblock-Ads address=127.0.0.1 name=secureads.g.doubleclick.net
-
 # [ Amazon-adsystem.com ]
 add comment=Adblock-Ads address=127.0.0.1 name=c.amazon-adsystem.com
 add comment=Adblock-Ads address=127.0.0.1 name=mads.amazon-adsystem.com
@@ -150,7 +137,6 @@ add comment=Adblock-Ads address=127.0.0.1 name=wms-na.amazon-adsystem.com
 add comment=Adblock-Ads address=127.0.0.1 name=fls-na.amazon-adsystem.com
 add comment=Adblock-Ads address=127.0.0.1 name=aax-us-east.amazon-adsystem.com
 add comment=Adblock-Ads address=127.0.0.1 name=aax.amazon-adsystem.com
-
 # Random
 add comment=Adblock-Ads address=127.0.0.1 name=dsp.ads.umeng.com
 add comment=Adblock-Ads address=127.0.0.1 name=dubaidriftads.dubaipolicegames.com

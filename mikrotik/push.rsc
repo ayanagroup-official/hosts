@@ -1,5 +1,7 @@
 # From : Indonesia (Jawa Timur)
 # Last Update : 15 Agust 2022 22:50
+#
+#
 # Title = Push
 /ip dns static
 add comment=Adblock-Push address=127.0.0.1 name=ali-stats.jpush.cn

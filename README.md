@@ -147,6 +147,9 @@ Berikut sistem operasi secara resmi didukung oleh pi-hole :
 </tbody>
 </table>
 
+# Mikrotik
 
-  <hr>
+  Mode pemblokiran yang direkomendasi adalah <b>127.0.0.1</b>
+
+<hr>
 <center><h1> ☎️ Hubungi Kami : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a> </h1></center>

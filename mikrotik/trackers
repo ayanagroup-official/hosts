@@ -1,9 +1,7 @@
 # From : Indonesia (Jawa Timur)
 # Last Update : 15 Agust 2022 16:00
 # Title = Trackers
-
-/ip/dns/static
-# Random
+/ip dns static
 add comment=Adblock-Tracker address=127.0.0.1 name=track.hubspot.com
 add comment=Adblock-Tracker address=127.0.0.1 name=track.seanear.com
 add comment=Adblock-Tracker address=127.0.0.1 name=track.paddlewaver.com
@@ -129,7 +127,6 @@ add comment=Adblock-Tracker address=127.0.0.1 name=track-eu.adformnet.akadns.net
 add comment=Adblock-Tracker address=127.0.0.1 name=sh2-sg7.rtbtrackers.com
 add comment=Adblock-Tracker address=127.0.0.1 name=sctrack.sendcloud.net
 add comment=Adblock-Tracker address=127.0.0.1 name=sig-dsptrack.ymmobi.com
-
 # Trackers Unidentified
 add comment=Adblock-Tracker address=127.0.0.1 name=certify-js.alexametrics.com
 add comment=Adblock-Tracker address=127.0.0.1 name=traid.jixie.io

@@ -1,9 +1,7 @@
 # From : Indonesia (Jawa Timur)
 # Last Update : 15 Agust 2022 15:50
 # Title = General
-
-/ip/dns/static
-# Random
+/ip dns static
 add comment=Adblock-Reguler address=127.0.0.1 name=123.xl.co.id
 add comment=Adblock-Reguler address=127.0.0.1 name=0.facebook.com
 add comment=Adblock-Reguler address=127.0.0.1 name=free.facebook.com
@@ -176,7 +174,6 @@ add comment=Adblock-Reguler address=127.0.0.1 name=bl.spamcop.net
 add comment=Adblock-Reguler address=127.0.0.1 name=all.s5h.net
 add comment=Adblock-Reguler address=127.0.0.1 name=sinewedretore.casa
 add comment=Adblock-Reguler address=127.0.0.1 name=outwhirlipedeer.com
-
 # Beacons
 add comment=Adblock-Reguler address=127.0.0.1 name=beacons.gvt1.com
 add comment=Adblock-Reguler address=127.0.0.1 name=beacons2.gvt1.com
@@ -198,7 +195,6 @@ add comment=Adblock-Reguler address=127.0.0.1 name=beacons.gcp.gvt2.com
 add comment=Adblock-Reguler address=127.0.0.1 name=beacons.gcp.gvt3.com
 add comment=Adblock-Reguler address=127.0.0.1 name=beacons.glance.inmobi.com
 add comment=Adblock-Reguler address=127.0.0.1 name=beacons-online5.glance-internal.inmobi.com
-
 # [ detik.com ]
 add comment=Adblock-Reguler address=127.0.0.1 name=analytic.detik.com
 add comment=Adblock-Reguler address=127.0.0.1 name=analytic20.detik.com
@@ -207,24 +203,6 @@ add comment=Adblock-Reguler address=127.0.0.1 name=pushads.detik.com
 add comment=Adblock-Reguler address=127.0.0.1 name=displaybanner.detik.com
 add comment=Adblock-Reguler address=127.0.0.1 name=adsmart.detik.com
 add comment=Adblock-Reguler address=127.0.0.1 name=push.detik.com
-
-# [ rsc.cdn77.org ]
-add comment=Adblock-Reguler address=127.0.0.1 name=1062222904.rsc.cdn77.org
-add comment=Adblock-Reguler address=127.0.0.1 name=1276298696.rsc.cdn77.org
-add comment=Adblock-Reguler address=127.0.0.1 name=1394501235.rsc.cdn77.org
-add comment=Adblock-Reguler address=127.0.0.1 name=1533248697.rsc.cdn77.org
-add comment=Adblock-Reguler address=127.0.0.1 name=1752375227.rsc.cdn77.org
-add comment=Adblock-Reguler address=127.0.0.1 name=1928505594.rsc.cdn77.org
-add comment=Adblock-Reguler address=127.0.0.1 name=1667776279.rsc.cdn77.org
-add comment=Adblock-Reguler address=127.0.0.1 name=1701399078.rsc.cdn77.org
-add comment=Adblock-Reguler address=127.0.0.1 name=1450622545.rsc.cdn77.org
-add comment=Adblock-Reguler address=127.0.0.1 name=1480222913.rsc.cdn77.org
-add comment=Adblock-Reguler address=127.0.0.1 name=1671639327.rsc.cdn77.org
-add comment=Adblock-Reguler address=127.0.0.1 name=1889303550.rsc.cdn77.org
-add comment=Adblock-Reguler address=127.0.0.1 name=1388344021.rsc.cdn77.org
-add comment=Adblock-Reguler address=127.0.0.1 name=1666945197.rsc.cdn77.org
-add comment=Adblock-Reguler address=127.0.0.1 name=1971296482.rsc.cdn77.org
-
 # [ Adsrvs ]
 add comment=Adblock-Reguler address=127.0.0.1 name=s.adsrvs.com
 add comment=Adblock-Reguler address=127.0.0.1 name=ad.adsrvr.org
@@ -236,12 +214,10 @@ add comment=Adblock-Reguler address=127.0.0.1 name=rtb.mfadsrvr.com
 add comment=Adblock-Reguler address=127.0.0.1 name=jp1-bid.adsrvr.org
 add comment=Adblock-Reguler address=127.0.0.1 name=ie1-bid.adsrvr.org
 add comment=Adblock-Reguler address=127.0.0.1 name=hk3-bid.adsrvr.org
-
 # [ tiktok ]
 add comment=Adblock-Reguler address=127.0.0.1 name=analytics.tiktok.com
 add comment=Adblock-Reguler address=127.0.0.1 name=analytics-sg.tiktok.com
 add comment=Adblock-Reguler address=127.0.0.1 name=analytics-attribution.tiktok.com
-
 # MALWARE
 add comment=Adblock-Reguler address=127.0.0.1 name=eqads.com
 add comment=Adblock-Reguler address=127.0.0.1 name=um2.eqads.com
@@ -256,7 +232,6 @@ add comment=Adblock-Reguler address=127.0.0.1 name=miliated.xyz
 add comment=Adblock-Reguler address=127.0.0.1 name=omnatuor.com
 add comment=Adblock-Reguler address=127.0.0.1 name=azkcqs.com
 add comment=Adblock-Reguler address=127.0.0.1 name=a.realsrv.com
-
 #SPYWARE 
 add comment=Adblock-Reguler address=127.0.0.1 name=applog.uc.cn
 add comment=Adblock-Reguler address=127.0.0.1 name=woodpecker.uc.cn
@@ -264,7 +239,6 @@ add comment=Adblock-Reguler address=127.0.0.1 name=gw.zamcs.com
 add comment=Adblock-Reguler address=127.0.0.1 name=braze-images.com
 add comment=Adblock-Reguler address=127.0.0.1 name=cutt.ly
 add comment=Adblock-Reguler address=127.0.0.1 name=b1.nel.goog
-
 # POP-UP
 add comment=Adblock-Reguler address=127.0.0.1 name=gossip-celeb-news.com
 add comment=Adblock-Reguler address=127.0.0.1 name=cleardexchange.com
@@ -273,11 +247,9 @@ add comment=Adblock-Reguler address=127.0.0.1 name=aftrangle.com
 add comment=Adblock-Reguler address=127.0.0.1 name=paychat.fuse-cloud.com
 add comment=Adblock-Reguler address=127.0.0.1 name=spotofspawn.com
 add comment=Adblock-Reguler address=127.0.0.1 name=topnews-24.com
-
 # [ googleapis.com ]
 add comment=Adblock-Reguler address=127.0.0.1 name=firebaselogging.googleapis.com
 add comment=Adblock-Reguler address=127.0.0.1 name=firebaselogging-pa.googleapis.com
-
 # GOOGLE ADSERVICE
 add comment=Adblock-Reguler address=127.0.0.1 name=adservice.google.ca
 add comment=Adblock-Reguler address=127.0.0.1 name=adservice.google.co.in
@@ -315,12 +287,10 @@ add comment=Adblock-Reguler address=127.0.0.1 name=pagead2.googleadservices.com
 add comment=Adblock-Reguler address=127.0.0.1 name=partner.googleadservices.com
 add comment=Adblock-Reguler address=127.0.0.1 name=www.googleadservices.com.lan
 add comment=Adblock-Reguler address=127.0.0.1 name=pagead2.googleadservices.com.lan
-
 # GOOGLE TAG MANAGER
 add comment=Adblock-Reguler address=127.0.0.1 name=www.googletagmanager.com
 add comment=Adblock-Reguler address=127.0.0.1 name=www.googletagservices.com
 add comment=Adblock-Reguler address=127.0.0.1 name=www-googletagmanager.l.google.com
-
 # GOOGLE ANALYTICS
 add comment=Adblock-Reguler address=127.0.0.1 name=analytics.google.com
 add comment=Adblock-Reguler address=127.0.0.1 name=google-analytics.com
@@ -330,7 +300,6 @@ add comment=Adblock-Reguler address=127.0.0.1 name=ssl.google-analytics.com.lan
 add comment=Adblock-Reguler address=127.0.0.1 name=ssl-google-analytics.l.google.com
 add comment=Adblock-Reguler address=127.0.0.1 name=ww-google-analytics.l.google.com
 add comment=Adblock-Reguler address=127.0.0.1 name=analyticssuitefrontend-pa.clients6.google.com
-
 # [ Xiaomi ]
 add comment=Adblock-Reguler address=127.0.0.1 name=api.ad.intl.xiaomi.com
 add comment=Adblock-Reguler address=127.0.0.1 name=resolver.msg.global.xiaomi.net
@@ -356,7 +325,6 @@ add comment=Adblock-Reguler address=127.0.0.1 name=api.zhuti.intl.xiaomi.com
 add comment=Adblock-Reguler address=127.0.0.1 name=app.chat.global.xiaomi.net
 add comment=Adblock-Reguler address=127.0.0.1 name=api.ad.intl.xiaomi.com.itotolink.net
 add comment=Adblock-Reguler address=127.0.0.1 name=api.ad.intl.xiaomi.com.www.tendawifi.com
-
 # [ OPPO ]
 add comment=Adblock-Reguler address=127.0.0.1 name=api.push.oppomobile.com
 add comment=Adblock-Reguler address=127.0.0.1 name=dcintl1.push.oppomobile.com
@@ -370,7 +338,6 @@ add comment=Adblock-Reguler address=127.0.0.1 name=adx-id.ads.oppomobile.com
 add comment=Adblock-Reguler address=127.0.0.1 name=data-id.ads.oppomobile.com
 add comment=Adblock-Reguler address=127.0.0.1 name=bdapi-id.ads.oppomobile.com
 add comment=Adblock-Reguler address=127.0.0.1 name=data-cl-f.ads.oppomobile.com
-
 # [googlesyndication.com]
 add comment=Adblock-Reguler address=127.0.0.1 name=googlesyndication.com
 add comment=Adblock-Reguler address=127.0.0.1 name=ade.googlesyndication.com
@@ -379,22 +346,18 @@ add comment=Adblock-Reguler address=127.0.0.1 name=pagead2.googlesyndication.com
 add comment=Adblock-Reguler address=127.0.0.1 name=buttons.googlesyndication.com
 add comment=Adblock-Reguler address=127.0.0.1 name=safeframe.googlesyndication.com
 add comment=Adblock-Reguler address=127.0.0.1 name=video-ad-stats.googlesyndication.com
-
 # [ QQ ]
 add comment=Adblock-Reguler address=127.0.0.1 name=data.ab.qq.com
 add comment=Adblock-Reguler address=127.0.0.1 name=otheve.beacon.qq.com
 add comment=Adblock-Reguler address=127.0.0.1 name=oth.str.beacon.qq.com
-
 # [ appier.net ]
 add comment=Adblock-Reguler address=127.0.0.1 name=gocm.c.appier.net
 add comment=Adblock-Reguler address=127.0.0.1 name=aiqua-config.c.appier.net
 add comment=Adblock-Reguler address=127.0.0.1 name=aiqua-sdk.c.appier.net
 add comment=Adblock-Reguler address=127.0.0.1 name=aiqua-user.c.appier.net
-
 # [Goadservices.com]
 add comment=Adblock-Reguler address=127.0.0.1 name=goadservices.com
 add comment=Adblock-Reguler address=127.0.0.1 name=bo.goadservices.com
-
 # [adjust.com]
 add comment=Adblock-Reguler address=127.0.0.1 name=s2s.adjust.com
 add comment=Adblock-Reguler address=127.0.0.1 name=ulink.adjust.com
@@ -402,14 +365,12 @@ add comment=Adblock-Reguler address=127.0.0.1 name=app.us.adjust.com
 add comment=Adblock-Reguler address=127.0.0.1 name=view.adjust.com
 add comment=Adblock-Reguler address=127.0.0.1 name=go.adjust.com
 add comment=Adblock-Reguler address=127.0.0.1 name=unbotify.adjust.com
-
 # [twitter.com]
 add comment=Adblock-Reguler address=127.0.0.1 name=ads-twitter.com
 add comment=Adblock-Reguler address=127.0.0.1 name=ads.twitter.com
 add comment=Adblock-Reguler address=127.0.0.1 name=ads-api.twitter.com
 add comment=Adblock-Reguler address=127.0.0.1 name=ads-bidder-api.twitter.com
 add comment=Adblock-Reguler address=127.0.0.1 name=analytics.twitter.com
-
 # [a2z.com]
 add comment=Adblock-Reguler address=127.0.0.1 name=prod.cm.publishers.advertising.a2z.com
 add comment=Adblock-Reguler address=127.0.0.1 name=analytics.console.aws.a2z.com
@@ -423,7 +384,6 @@ add comment=Adblock-Reguler address=127.0.0.1 name=pw.analytics.console.aws.a2z.
 add comment=Adblock-Reguler address=127.0.0.1 name=prod.pw.analytics.console.aws.a2z.com
 add comment=Adblock-Reguler address=127.0.0.1 name=global.telemetry.insights.video.a2z.com
 add comment=Adblock-Reguler address=127.0.0.1 name=us-east-1.telemetry.insights.video.a2z.com
-
 # [Adcolony]
 add comment=Adblock-Reguler address=127.0.0.1 name=wd.adcolony.xyz
 add comment=Adblock-Reguler address=127.0.0.1 name=ads20.adcolony.com
@@ -464,7 +424,6 @@ add comment=Adblock-Reguler address=127.0.0.1 name=androidads4-4.adcolony.com
 add comment=Adblock-Reguler address=127.0.0.1 name=androidads4-5.adcolony.com
 add comment=Adblock-Reguler address=127.0.0.1 name=androidads4-6.adcolony.com
 add comment=Adblock-Reguler address=127.0.0.1 name=androidads4-7.adcolony.com
-
 # [DDOS MRIS BOTNET]
 add comment=Adblock-Reguler address=127.0.0.1 name=1abcnews.xyz
 add comment=Adblock-Reguler address=127.0.0.1 name=1awesome.net

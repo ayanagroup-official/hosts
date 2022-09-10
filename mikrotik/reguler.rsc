@@ -1,5 +1,7 @@
 # From : Indonesia (Jawa Timur)
 # Last Update : 15 Agust 2022 15:50
+#
+#
 # Title = General
 /ip dns static
 add comment=Adblock-Reguler address=127.0.0.1 name=123.xl.co.id

@@ -1,5 +1,7 @@
 # From : Indonesia (Jawa Timur)
 # Last Update : 15 Mei 2022 15:50
+#
+#
 # Title = Ads
 /ip dns static
 add comment=Adblock-Ads address=127.0.0.1 name=dsp.ads.umeng.com

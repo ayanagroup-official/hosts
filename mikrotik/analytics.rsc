@@ -1,5 +1,7 @@
 # From : Indonesia (Jawa Timur)
 # Last Update : 15 Agust 2022 5:50
+#
+#
 # Title = Analytics
 /ip dns static
 add comment=Adblock-Analytics address=127.0.0.1 name=analytics.zen.ly

@@ -87,7 +87,6 @@ add comment=Adblock-Log address=127.0.0.1 name=ulog.kwai-pro.com
 add comment=Adblock-Log address=127.0.0.1 name=ulog.kwaipros.com
 add comment=Adblock-Log address=127.0.0.1 name=ulog-sdk.gifshow.com
 add comment=Adblock-Log address=127.0.0.1 name=ulog-sdk.ksapisrv.com
-add comment=Adblock-Log address=127.0.0.1 name=ulog-sdk.gifshow.com
 add comment=Adblock-Log address=127.0.0.1 name=xlog.tiktokv.com
 add comment=Adblock-Log address=127.0.0.1 name=xlog.byteoversea.com
 add comment=Adblock-Log address=127.0.0.1 name=xlog-va.byteoversea.com
@@ -173,7 +172,6 @@ add comment=Adblock-Log address=127.0.0.1 name=detaillog329707676-api.zegocloud.
 add comment=Adblock-Log address=127.0.0.1 name=dualstack-logs.amap.com
 add comment=Adblock-Log address=127.0.0.1 name=gj.applog.uc.cn
 add comment=Adblock-Log address=127.0.0.1 name=api16-log-sg.pangle.io
-add comment=Adblock-Log address=127.0.0.1 name=g-logsdk.uvfuns.com
 add comment=Adblock-Log address=127.0.0.1 name=rtlog.sgsnssdk.com
 add comment=Adblock-Log address=127.0.0.1 name=asia-adlog.vivoglobal.com
 add comment=Adblock-Log address=127.0.0.1 name=asia-ex-adlog.vivoglobal.com
@@ -192,7 +190,6 @@ add comment=Adblock-Log address=127.0.0.1 name=aws-logsdk.snackvideo.com
 add comment=Adblock-Log address=127.0.0.1 name=logsdk.kwai-pro.com
 add comment=Adblock-Log address=127.0.0.1 name=logserver.insight.ucweb.com
 add comment=Adblock-Log address=127.0.0.1 name=gjapplog.ucweb.com
-add comment=Adblock-Log address=127.0.0.1 name=xlog16-normal-c-useast2a.tiktokv.com
 add comment=Adblock-Log address=127.0.0.1 name=toblog.tobsnssdk.com
 add comment=Adblock-Log address=127.0.0.1 name=tobapplog.tobsnssdk.com
 add comment=Adblock-Log address=127.0.0.1 name=rtlog22-normal-alisg.tiktokv.com
@@ -227,7 +224,6 @@ add comment=Adblock-Log address=127.0.0.1 name=gj.applog.ucdns.uc.cn
 add comment=Adblock-Log address=127.0.0.1 name=log.al-hiwar.com
 add comment=Adblock-Log address=127.0.0.1 name=tx-ulog.snackvideo.com
 add comment=Adblock-Log address=127.0.0.1 name=hw.log.functionads.com
-add comment=Adblock-Log address=127.0.0.1 name=api16-log-sg.pangle-b.io
 add comment=Adblock-Log address=127.0.0.1 name=log-api.mintkeyboard.com
 add comment=Adblock-Log address=127.0.0.1 name=ilog-sea-aliyun.alipayplus.com
 add comment=Adblock-Log address=127.0.0.1 name=hitlog-new.tvonenews.com

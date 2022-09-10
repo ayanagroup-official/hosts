@@ -1,5 +1,7 @@
 # From : Indonesia (Jawa Timur)
 # Last Update : 15 Agust 2022 22:50
+#
+#
 # Title = Log
 /ip dns static
 add comment=Adblock-Log address=127.0.0.1 name=log.byteoversea.com

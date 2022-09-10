@@ -294,7 +294,6 @@ add comment=Adblock-Ads address=127.0.0.1 name=adserve2.mahimeta.com
 add comment=Adblock-Ads address=127.0.0.1 name=adserve.mahimeta.com
 add comment=Adblock-Ads address=127.0.0.1 name=track.stopadsnow.org
 add comment=Adblock-Ads address=127.0.0.1 name=ads2.uptobox.com
-
 # AcuityAds
 add comment=Adblock-Ads address=127.0.0.1 name=acuityads.com
 add comment=Adblock-Ads address=127.0.0.1 name=acuityplatform.com

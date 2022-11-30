@@ -1,4 +1,3 @@
-# Selamat datang pengunjung
 
 # Daftar semua varian file host
   

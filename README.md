@@ -144,4 +144,4 @@ Berikut sistem operasi secara resmi didukung oleh pi-hole :
 
   Mode pemblokiran yang direkomendasi adalah <b>0.0.0.0 atau 127.0.0.1</b>
 <hr>
-<center><h1> ☎️ Hubungi Kami : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a> </h1></center>
+<center><h1> ☎️ Hubungi Kami : <a href="https://s.id/ayanagroup" target="_blank" class="text-bold">Disini</a> </h1></center>

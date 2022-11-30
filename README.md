@@ -1,15 +1,5 @@
 # Selamat datang pengunjung
 
-<b>💸💸💸💸💸 DONASI 💸💸💸💸💸</b> 
-
-<details>
-  <summary><b> 🔎 Lihat Kode QR Standar Indonesia</summary>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/94752371/166851078-7768997c-42dd-4cdf-b094-8fb590107a47.png"><img src="https://user-images.githubusercontent.com/94752371/166851078-7768997c-42dd-4cdf-b094-8fb590107a47.png" height="500" style="max-width: 100%;"></a></p>
-</details>
-Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & ShopeePay)
-
-<hr>
-
 # Daftar semua varian file host
   
 <details>
@@ -30,42 +20,42 @@ Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & Shope
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/reguler" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adguard-home/reguler" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<th align="center">Fanda Network</th>
+<th align="center">Ayana</th>
 </tr>
 <tr>
 <td>Advertising</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/ads" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adguard-home/ads" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<th align="center">Fanda Network</th>
+<th align="center">Ayana</th>
 </tr>
 <tr>
 <td>Analytics</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/analytics" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adguard-home/analytics" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<th align="center">Fanda Network</th>
+<th align="center">Ayana</th>
 </tr>
 <tr>
 <td>Log</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/log" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adguard-home/log" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<th align="center">Fanda Network</th>
+<th align="center">Ayana</th>
 </tr>
 <tr>
 <td>Malware</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/malware" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adguard-home/malware" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<th align="center">Fanda Network</th>
+<th align="center">Ayana</th>
 </tr>
 <tr>
 <td>Trackers</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/trackers" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adguard-home/trackers" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<th align="center">Fanda Network</th>
+<th align="center">Ayana</th>
 </tr>
 <tr>
 <td>Ublock</td>
@@ -79,7 +69,7 @@ Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & Shope
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/pihole/push" rel="nofollow">Link</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandanetwork/hosts/main/adguard-home/push" rel="nofollow">Link</a></td>
 <td align="center"><a href="/index" rel="nofollow">-</a></td>
-<th align="center">Fanda Network</th>
+<th align="center">Ayana</th>
 </tr>
 <tr>
 <td>Porn</td>

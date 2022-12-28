@@ -119,8 +119,6 @@
 ||cdnstatic.detik.com^
 ||wordadsmediafiles.wordpress.com^
 ||wordadsmediafiles.files.wordpress.com^
-||client.wns.windows.com^$client='172.16.20.130'
-||telem-edge.smartscreen.microsoft.com^$client='172.16.20.130'
 ||cu1pehnswssenglogs.servicebus.windows.net^
 ||bokepmama.porn^
 ||g-api.kibads.com^
@@ -311,7 +309,7 @@
 ||adpointrtb.com^
 ||launcher-api.bignox.com^
 ||jwaihhceub.com^
-||history.google.com^$client='172.16.20.130'
+||history.google.com^
 ||officialbanisters.com^
 ||pahadada.icu^
 ||soopukib.net^
@@ -330,7 +328,7 @@
 ||feed1.yukbacaberita.com^
 ||nunzozmwv^$important
 ||3xplanet.net^$important
-||crl.prod.cagenerator.pki.strln.net^$important
+||crl.prod.cagenerator.pki.strln.net^
 ||3xplanetimg.com^$important
 ||nonecss.com^$important
 ||www.javmost.cx^$important

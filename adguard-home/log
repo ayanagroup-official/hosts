@@ -3,7 +3,6 @@
 # Home Page : https://github.com/fandanetwork
 # Facebook : https://www.facebook.com/fandagroup.id
 # Title = Log
-
 127.0.0.1 log.byteoversea.com
 127.0.0.1 log.avlyun.com
 127.0.0.1 log.api.useinsider.com
@@ -234,7 +233,7 @@
 127.0.0.1 ilog-sea-aliyun.alipayplus.com
 127.0.0.1 hitlog-new.tvonenews.com
 127.0.0.1 global-client-log-gf-sg-turbine-da.sausage.xd.com
-# Last update 28/12/2022
+#
 ||an-sm-log.tantanapp.com^$important
 ||log.rewardpumpkin.com^$important
 ||lgs-log.wapcar.com^$important

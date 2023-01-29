@@ -174,7 +174,6 @@
 127.0.0.1 all.s5h.net
 127.0.0.1 sinewedretore.casa
 127.0.0.1 outwhirlipedeer.com
-
 # Beacons
 127.0.0.1 beacons.gvt1.com
 127.0.0.1 beacons2.gvt1.com
@@ -196,7 +195,6 @@
 127.0.0.1 beacons.gcp.gvt3.com
 127.0.0.1 beacons.glance.inmobi.com
 127.0.0.1 beacons-online5.glance-internal.inmobi.com
-
 # [ detik.com ]
 127.0.0.1 analytic.detik.com
 127.0.0.1 analytic20.detik.com
@@ -205,7 +203,6 @@
 127.0.0.1 displaybanner.detik.com
 127.0.0.1 adsmart.detik.com
 127.0.0.1 push.detik.com
-
 # [ rsc.cdn77.org ]
 127.0.0.1 1062222904.rsc.cdn77.org
 127.0.0.1 1276298696.rsc.cdn77.org
@@ -222,7 +219,6 @@
 127.0.0.1 1388344021.rsc.cdn77.org
 127.0.0.1 1666945197.rsc.cdn77.org
 127.0.0.1 1971296482.rsc.cdn77.org
-
 # [ Adsrvs ]
 127.0.0.1 s.adsrvs.com
 127.0.0.1 ad.adsrvr.org
@@ -234,7 +230,6 @@
 127.0.0.1 jp1-bid.adsrvr.org
 127.0.0.1 ie1-bid.adsrvr.org
 127.0.0.1 hk3-bid.adsrvr.org
-
 # [ tiktok ]
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analytics-sg.tiktok.com
@@ -254,7 +249,6 @@
 127.0.0.1 omnatuor.com
 127.0.0.1 azkcqs.com
 127.0.0.1 a.realsrv.com
-
 #SPYWARE 
 127.0.0.1 applog.uc.cn
 127.0.0.1 woodpecker.uc.cn
@@ -262,7 +256,6 @@
 127.0.0.1 braze-images.com
 127.0.0.1 cutt.ly
 127.0.0.1 b1.nel.goog
-
 # POP-UP
 127.0.0.1 gossip-celeb-news.com
 127.0.0.1 cleardexchange.com
@@ -271,11 +264,9 @@
 127.0.0.1 paychat.fuse-cloud.com
 127.0.0.1 spotofspawn.com
 127.0.0.1 topnews-24.com
-
 # [ googleapis.com ]
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 firebaselogging-pa.googleapis.com
-
 # GOOGLE ADSERVICE
 127.0.0.1 adservice.google.ca
 127.0.0.1 adservice.google.co.in
@@ -313,12 +304,10 @@
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 www.googleadservices.com.lan
 127.0.0.1 pagead2.googleadservices.com.lan
-
 # GOOGLE TAG MANAGER
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
 127.0.0.1 www-googletagmanager.l.google.com
-
 # GOOGLE ANALYTICS
 127.0.0.1 analytics.google.com
 127.0.0.1 google-analytics.com
@@ -328,7 +317,6 @@
 127.0.0.1 ssl-google-analytics.l.google.com
 127.0.0.1 ww-google-analytics.l.google.com
 127.0.0.1 analyticssuitefrontend-pa.clients6.google.com
-
 # [ Xiaomi ]
 127.0.0.1 api.ad.intl.xiaomi.com
 127.0.0.1 resolver.msg.global.xiaomi.net
@@ -354,7 +342,6 @@
 127.0.0.1 app.chat.global.xiaomi.net
 127.0.0.1 api.ad.intl.xiaomi.com.itotolink.net
 127.0.0.1 api.ad.intl.xiaomi.com.www.tendawifi.com
-
 # [ OPPO ]
 127.0.0.1 api.push.oppomobile.com
 127.0.0.1 dcintl1.push.oppomobile.com
@@ -368,7 +355,6 @@
 127.0.0.1 data-id.ads.oppomobile.com
 127.0.0.1 bdapi-id.ads.oppomobile.com
 127.0.0.1 data-cl-f.ads.oppomobile.com
-
 # [googlesyndication.com]
 127.0.0.1 googlesyndication.com
 127.0.0.1 ade.googlesyndication.com
@@ -377,22 +363,18 @@
 127.0.0.1 buttons.googlesyndication.com
 127.0.0.1 safeframe.googlesyndication.com
 127.0.0.1 video-ad-stats.googlesyndication.com
-
 # [ QQ ]
 127.0.0.1 data.ab.qq.com
 127.0.0.1 otheve.beacon.qq.com
 127.0.0.1 oth.str.beacon.qq.com
-
 # [ appier.net ]
 127.0.0.1 gocm.c.appier.net
 127.0.0.1 aiqua-config.c.appier.net
 127.0.0.1 aiqua-sdk.c.appier.net
 127.0.0.1 aiqua-user.c.appier.net
-
 # [Goadservices.com]
 127.0.0.1 goadservices.com
 127.0.0.1 bo.goadservices.com
-
 # [adjust.com]
 127.0.0.1 s2s.adjust.com
 127.0.0.1 ulink.adjust.com
@@ -400,14 +382,12 @@
 127.0.0.1 view.adjust.com
 127.0.0.1 go.adjust.com
 127.0.0.1 unbotify.adjust.com
-
 # [twitter.com]
 127.0.0.1 ads-twitter.com
 127.0.0.1 ads.twitter.com
 127.0.0.1 ads-api.twitter.com
 127.0.0.1 ads-bidder-api.twitter.com
 127.0.0.1 analytics.twitter.com
-
 # [a2z.com]
 127.0.0.1 prod.cm.publishers.advertising.a2z.com
 127.0.0.1 analytics.console.aws.a2z.com
@@ -421,7 +401,6 @@
 127.0.0.1 prod.pw.analytics.console.aws.a2z.com
 127.0.0.1 global.telemetry.insights.video.a2z.com
 127.0.0.1 us-east-1.telemetry.insights.video.a2z.com
-
 # [Adcolony]
 127.0.0.1 wd.adcolony.xyz
 127.0.0.1 ads20.adcolony.com
@@ -462,7 +441,6 @@
 127.0.0.1 androidads4-5.adcolony.com
 127.0.0.1 androidads4-6.adcolony.com
 127.0.0.1 androidads4-7.adcolony.com
-
 # [DDOS MRIS BOTNET]
 127.0.0.1 1abcnews.xyz
 127.0.0.1 1awesome.net

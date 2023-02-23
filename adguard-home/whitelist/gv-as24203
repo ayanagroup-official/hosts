@@ -1,4 +1,5 @@
 # Googlevodeo = Official
 @@||redirector.googlevideo.com^
+@@/r[0-9].sn-.*.googlevideo.com/
 # Googlevideo = XL Axiata
 @@/r[0-9].sn-xmjxajvh-.*.googlevideo.com/

@@ -14,5 +14,9 @@
 @@/.*.fmdc5-[0-9].fna.fbcdn.net/
 @@/.*.fsrg9-[0-9].fna.fbcdn.net/
 # Facebook = Official
+@@||graph.facebook.com^
+@@||b-graph.facebook.com^
+@@||graph.instagram.com^
+@@||b-graph.instagram.com^
 @@/.*.ffjr1-[0-9].fna.fbcdn.net/
 @@/.*.fhio3-[0-9].fna.fbcdn.net/

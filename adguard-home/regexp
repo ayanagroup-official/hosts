@@ -41,6 +41,7 @@
 /.*.proxysite.*./
 /.*.steganos.*./
 /.*.blockaway.*./
+/.*.proxy.web.id/
 /.*.hidester.*./
 /.*.proxyscrape.*./
 /.*.4everproxy.*./

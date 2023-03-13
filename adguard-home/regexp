@@ -1,4 +1,5 @@
 /.*.network.lan/
+/.*._tcp.lan/
 /.*.mobi.lan/
 /.*.org.lan/
 /.*.com.lan/

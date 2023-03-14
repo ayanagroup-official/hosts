@@ -1,5 +1,7 @@
 # Blokir Metode Bypass
-# Mencegah atau menghalangi penggunaan metode DNS terenkripsi yang dapat membantu melewati pemfilteran di jaringan.
+# Mencegah atau menghalangi penggunaan metode DNS terenkripsi yang dapat membantu melewati pemfilteran di jaringan
+#
+# Notice = jangan lupa masukkan DNS yang anda gunakan dalam daftar putih (White list)
 127.0.0.1 dns.adguard.com
 127.0.0.1 dns-family.adguard.com
 127.0.0.1 dns-unfiltered.adguard.com

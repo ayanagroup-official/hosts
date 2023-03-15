@@ -1,9 +1,16 @@
 /.*.network.lan/
+/.*.monster.lan/
+/.*.online.lan/
 /.*._tcp.lan/
 /.*.mobi.lan/
 /.*.org.lan/
 /.*.com.lan/
+/.*.co.lan/
 /.*.net.lan/
+/.*.biz.lan/
+/.*.info.lan/
+/.*.xyz.lan/
+/.*.me.lan/
 /.*.id.lan/
 /.*.jp.lan/
 /.*.io.lan/

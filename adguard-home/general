@@ -303,8 +303,6 @@
 127.0.0.1 www.googleadservices.com
 127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 partner.googleadservices.com
-127.0.0.1 www.googleadservices.com.lan
-127.0.0.1 pagead2.googleadservices.com.lan
 # GOOGLE TAG MANAGER
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
@@ -314,7 +312,6 @@
 127.0.0.1 google-analytics.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 www.google-analytics.com
-127.0.0.1 ssl.google-analytics.com.lan
 127.0.0.1 ssl-google-analytics.l.google.com
 127.0.0.1 ww-google-analytics.l.google.com
 127.0.0.1 analyticssuitefrontend-pa.clients6.google.com
@@ -332,12 +329,9 @@
 127.0.0.1 tracking.india.miui.com
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
-127.0.0.1 api.ad.intl.xiaomi.com.lan
 127.0.0.1 sdkconfig.ad.india.xiaomi.com
-127.0.0.1 sdkconfig.ad.intl.xiaomi.com.lan
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 zeus.ad.intl.xiaomi.com
-127.0.0.1 zeus.ad.intl.xiaomi.com.lan
 127.0.0.1 logupdate.avlyun.sec.miui.com
 127.0.0.1 api.zhuti.intl.xiaomi.com
 127.0.0.1 app.chat.global.xiaomi.net
@@ -420,7 +414,6 @@
 127.0.0.1 rtb.adcolony.com
 127.0.0.1 wd.adcolony.com
 127.0.0.1 go-pardot.adcolony.com
-127.0.0.1 adc3-launch.adcolony.com.lan
 127.0.0.1 iosads4-1.adcolony.com
 127.0.0.1 iosads4-2.adcolony.com
 127.0.0.1 iosads4-3.adcolony.com
@@ -486,8 +479,6 @@
 ||yiport.com^
 ||bufedr.com^
 ||bwukxn.com^
-||com.lan^
-||net.lan^
 ||asia^
 ||xnxx-cdn.com^
 ||mypage.blocked.bltsel^
@@ -561,7 +552,6 @@
 ||init.supersonicads.col^
 ||beeg.porn^
 ||bokepindoxxi.me^
-||a.teads.tv.lan^
 ||msadsscale.azureedge.net^
 ||adx-tracking.rcoreads.com^
 ||rtb.getads.cn^
@@ -689,7 +679,6 @@
 ||haypaydig.club^
 ||risksdk.ihago.net^
 ||kuaishou.com^
-||hnorwtq.lan^
 ||load18.biz^
 ||sg-trk.bluevoox.com^
 ||cookies-data.onetrust.io^
@@ -824,7 +813,6 @@
 ||sv.rebbredbe.com^$important
 ||cs.upskipmalum.com^$important
 ||href.li^$important
-||CPE200-4GLTE.lan^$important
 ||client-log.super-chameleon.com^$important
 ||disturbcesti.digital^$important
 ||gaesataigal.uno^$important

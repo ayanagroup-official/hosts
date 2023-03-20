@@ -15,3 +15,5 @@
 @@||v16s.topbuzzcdn.com^
 @@||bstream.hzmklvdieo.com^
 @@||gw-dana.ebuckler.com^
+# Regexp
+/.*.lan.*./

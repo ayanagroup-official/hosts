@@ -2,7 +2,15 @@
 # Last Update : 23 Maret 2023
 # Mode : 127.0.0.1
 # Title : Ads, Analytics, Log, Malware, Tracker & General
-#
+127.0.0.1 yandex.ru
+127.0.0.1 yandex.com
+127.0.0.1 amazon.com
+127.0.0.1 wikipedia.org
+127.0.0.1 pool.ntp.org
+127.0.0.1 cn.pool.ntp.org
+127.0.0.1 sg.pool.ntp.org
+127.0.0.1 europe.pool.ntp.org
+127.0.0.1 v31.tsel.byteoversea.net
 # AcuityAds
 127.0.0.1 acuityads.com
 127.0.0.1 acuityplatform.com

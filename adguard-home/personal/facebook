@@ -2,6 +2,8 @@
 # Last Update : 23 Maret 2023
 # Mode : Adguard Home
 # Title : Facebook
+# Data Buana Nusantara
+/.*.fmlg5-[0-9].fna.fbcdn.net/
 # Hutchison
 /.*.fcgk1-[0-9].fna.fbcdn.net/
 /.*.fmlg2-[0-9].fna.fbcdn.net/

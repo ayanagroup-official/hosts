@@ -18,5 +18,6 @@
 @@||my.nextdns.io^
 @@||www.quad9.net^
 @@||auth.split.io^
+@@||api-js.mixpanel.com^
 # Regexp
 /.*.lan.*./

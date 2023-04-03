@@ -3,8 +3,36 @@
 # Mode : Adguard Home
 # Title : General, Log & Regex
 # Last Update
-||jaavnacsdw.com^
-||ausoafab.net^
+||jaavnacsdw.com^$important
+||ausoafab.net^$important
+||interstitial-07.com^$important
+||voleran.com^$important
+||duckduckgo.com^$important
+||ilifkgxzi^$important
+||yfslhiymd^$important
+||pxvthvla^$important
+||lxvmufsjm^$important
+||hwjpcbv^$important
+||qkzxilp^$important
+||ehcrpmjid^$important
+||ddfwqmljje^$important
+||explainpompeywistful.com^
+||ezcgojaamg.com^
+||sh-content.xyz^$important
+||ads.adnuntius.delivery^$important
+||c.popsads.net^$important
+||sdk-api.maticooads.com^$important
+||ytadskip.com^$important
+||cookinghither.com^$important
+||bracketknolls.uno^$important
+||colinuncaps.com^$important
+||ezcgojaamg.com^$important
+||ad-log-upload-os.hoyoverse.com^$important
+||ephebedori.life^$important
+||www-hzc9228.ssl0d.com^$important
+||default.exp-tas.com^$important
+||filemoon.sx^$important
+||slmaxed.com^$important
 # Regex Reguler
 /.*.push.*./
 /.*.analytics.*./

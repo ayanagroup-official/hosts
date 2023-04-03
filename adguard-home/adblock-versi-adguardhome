@@ -33,6 +33,9 @@
 ||default.exp-tas.com^$important
 ||filemoon.sx^$important
 ||slmaxed.com^$important
+||yourcoolwords.com^$important
+||live.for-j.com^$important
+||glersakr.com^$important
 # Regex Reguler
 /.*.push.*./
 /.*.analytics.*./

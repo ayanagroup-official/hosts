@@ -43,7 +43,7 @@
 /.*.appmeasurements.com/
 /.*.ebay.com/
 /.*.ebaystatic.com/
-/.*.awsdns-[0-9].com/
+/.*.awsdns.*[0-9].com/
 /[0-9]*.rsc.cdn77.org/
 /uc-[0-9].telemetry.eyeo.com/
 /.*.appmeasurements.com/

@@ -1,5 +1,5 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 23 Maret 2023
+# Last Update : 6 April 2023
 # Mode : Mikrotik
 /ip dns static
 add comment=Adblock-Ayana address=127.0.0.1 name=indoanh1.bokepindosange.info
@@ -45155,3 +45155,36 @@ add comment=Adblock-Ayana address=127.0.0.1 name=geo-applefinance-cache.internal
 add comment=Adblock-Ayana address=127.0.0.1 name=ww55.affinity.net
 add comment=Adblock-Ayana address=127.0.0.1 name=icosa-service-sg.allawnos.com
 add comment=Adblock-Ayana address=127.0.0.1 name=xlaxiata-resources.digital-cloud-sin1.medallia.com
+add comment=Adblock-Ayana address=127.0.0.1 name="jaavnacsdw.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="ausoafab.net"
+add comment=Adblock-Ayana address=127.0.0.1 name="interstitial-07.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="voleran.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="duckduckgo.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="ilifkgxzi"
+add comment=Adblock-Ayana address=127.0.0.1 name="yfslhiymd"
+add comment=Adblock-Ayana address=127.0.0.1 name="pxvthvla"
+add comment=Adblock-Ayana address=127.0.0.1 name="lxvmufsjm"
+add comment=Adblock-Ayana address=127.0.0.1 name="hwjpcbv"
+add comment=Adblock-Ayana address=127.0.0.1 name="qkzxilp"
+add comment=Adblock-Ayana address=127.0.0.1 name="ehcrpmjid"
+add comment=Adblock-Ayana address=127.0.0.1 name="ddfwqmljje"
+add comment=Adblock-Ayana address=127.0.0.1 name="explainpompeywistful.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="ezcgojaamg.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="sh-content.xyz"
+add comment=Adblock-Ayana address=127.0.0.1 name="ads.adnuntius.delivery"
+add comment=Adblock-Ayana address=127.0.0.1 name="c.popsads.net"
+add comment=Adblock-Ayana address=127.0.0.1 name="sdk-api.maticooads.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="ytadskip.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="cookinghither.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="bracketknolls.uno"
+add comment=Adblock-Ayana address=127.0.0.1 name="colinuncaps.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="ezcgojaamg.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="ad-log-upload-os.hoyoverse.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="ephebedori.life"
+add comment=Adblock-Ayana address=127.0.0.1 name="www-hzc9228.ssl0d.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="default.exp-tas.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="filemoon.sx"
+add comment=Adblock-Ayana address=127.0.0.1 name="slmaxed.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="yourcoolwords.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="live.for-j.com"
+add comment=Adblock-Ayana address=127.0.0.1 name="glersakr.com"

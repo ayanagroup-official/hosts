@@ -48,9 +48,6 @@
 /.*.ebaystatic.com/
 /[0-9]*.rsc.cdn77.org/
 /.*.appmeasurements.com/
-# Regex DNS
-/.*.azure-dns.*./
-/.*.awsdns.*[0-9].com/
 # Regex Porn
 /.*.porn.*./
 /.*.bokep.*./

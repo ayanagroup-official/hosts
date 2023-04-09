@@ -27,5 +27,18 @@
 @@||assets.alicdn.com^
 @@||laz-g-cdn.alicdn.com^
 @@||laz-img-cdn.alicdn.com^
+# My DNS
+@@||a.resolvers.level3.net^
+@@||b.resolvers.level3.net^
+@@||c.resolvers.level3.net^
+@@||d.resolvers.level3.net^
+@@||e.resolvers.level3.net^
+@@||f.resolvers.level3.net^
+@@||doh.familyshield.opendns.com^
+@@||dns.quad9.net^
+@@||dns11.quad9.net^
+@@||resolver1-fs.opendns.com^
+@@||resolver2-fs.opendns.com^
+@@||familyshield.opendns.com^
 # Regexp
 /.*.lan.*./

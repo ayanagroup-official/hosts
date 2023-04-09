@@ -20,5 +20,7 @@
 @@||www.quad9.net^
 @@||*.top^
 @@||*.cfd^
+@@||laz-g-cdn.alicdn.com^
+@@||laz-img-cdn.alicdn.com^
 # Regexp
 /.*.lan.*./

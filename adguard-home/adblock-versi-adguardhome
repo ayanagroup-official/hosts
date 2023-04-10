@@ -3,6 +3,12 @@
 # Mode : Adguard Home
 # Title : General, Log & Regex
 # Last Update
+||ns1.indosat.com^$important
+||ns2.indosat.com^$important
+||ns3.indosat.com^$important
+||ns4.indosat.com^$important
+||rirns.arin.net^$important
+||apnic1.dnsnode.net^$important
 ||appmetrica.yandex.ru^$important
 ||jaavnacsdw.com^$important
 ||ausoafab.net^$important

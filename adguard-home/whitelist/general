@@ -17,12 +17,16 @@
 @@||bstream.hzmklvdieo.com^
 # Dana [E-Wallet]
 @@||forter.com^
-@@||auth.split.io^
+@@||dana.id^
+@@||gw-dana.ebuckler.com^
+# Mix Panel
 @@||api-js.mixpanel.com^
 @@||decide.mixpanel.com^
 @@||api.mixpanel.com^
-@@||dana.id^
-@@||gw-dana.ebuckler.com^
+# Split.io
+@@||auth.split.io^
+@@||streaming.split.io^
+# Branch
 @@||api2.branch.io^
 @@||cdn.branch.io^
 # Lazada

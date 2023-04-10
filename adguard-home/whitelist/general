@@ -1,5 +1,6 @@
-# Last update : 28 - 3 - 2023
-@@||link.dana.id^
+# Last update : 10 - April - 2023
+@@||*.top^
+@@||*.cfd^
 @@||streamtape.com^
 @@||ngefilm21.pw^
 @@||t.co^
@@ -10,16 +11,14 @@
 @@||mirror.ossplanet.net^
 @@||similarweb.com^
 @@||whoer.net^
-@@||p16.topbuzzcdn.com^
 @@||v9.topbuzzcdn.com^
+@@||p16.topbuzzcdn.com^
 @@||v16s.topbuzzcdn.com^
 @@||bstream.hzmklvdieo.com^
+# Dana [E-Wallet]
+@@||link.dana.id^
 @@||gw-dana.ebuckler.com^
-@@||api.nextdns.io^
-@@||my.nextdns.io^
-@@||www.quad9.net^
-@@||*.top^
-@@||*.cfd^
+# Lazada
 @@||g.lazcdn.com^
 @@||o.lazcdn.com^
 @@||g.alicdn.com^
@@ -27,18 +26,21 @@
 @@||assets.alicdn.com^
 @@||laz-g-cdn.alicdn.com^
 @@||laz-img-cdn.alicdn.com^
-# My DNS
+# Website DNS
+@@||api.nextdns.io^
+@@||my.nextdns.io^
+@@||www.quad9.net^
+# DNS Public
+@@||dns11.quad9.net^
 @@||a.resolvers.level3.net^
 @@||b.resolvers.level3.net^
 @@||c.resolvers.level3.net^
 @@||d.resolvers.level3.net^
 @@||e.resolvers.level3.net^
 @@||f.resolvers.level3.net^
-@@||doh.familyshield.opendns.com^
-@@||dns.quad9.net^
-@@||dns11.quad9.net^
 @@||resolver1-fs.opendns.com^
 @@||resolver2-fs.opendns.com^
 @@||familyshield.opendns.com^
+@@||doh.familyshield.opendns.com^
 # Regexp
 /.*.lan.*./

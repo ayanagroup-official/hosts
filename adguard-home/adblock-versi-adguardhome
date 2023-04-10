@@ -1,8 +1,9 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 2 April 2023
+# Last Update : 10 April 2023
 # Mode : Adguard Home
 # Title : General, Log & Regex
 # Last Update
+||appmetrica.yandex.ru^$important
 ||jaavnacsdw.com^$important
 ||ausoafab.net^$important
 ||interstitial-07.com^$important

@@ -6,6 +6,8 @@
 ||*.10.in-addr.arpa^$important
 ||*.16.172.in-addr.arpa^$important
 ||*.168.192.in-addr.arpa^$important
+||*.120.152.192.in-addr.arpa^$important
+||*.132.172.192.in-addr.arpa^$important
 ||push-rtmp-l1-va01.tiktokcdn.com^$important
 ||push-rtmp-l1-va01.tiktokcdn.com.wsdvs.com^$important
 ||push-rtmp-f5-va01.tiktokcdn.com^$important

@@ -3,6 +3,9 @@
 # Mode : Adguard Home
 # Title : General, Log & Regex
 # Last Update
+||*.10.in-addr.arpa^$important
+||*.16.172.in-addr.arpa^$important
+||*.168.192.in-addr.arpa^$important
 ||push-rtmp-l1-va01.tiktokcdn.com^$important
 ||push-rtmp-l1-va01.tiktokcdn.com.wsdvs.com^$important
 ||push-rtmp-f5-va01.tiktokcdn.com^$important
@@ -43,7 +46,6 @@
 ||sameradar-2.online^$important
 ||nancontrast.com^$important
 ||log22.resso.app^$important
-||*.168.192.in-addr.arpa^$important
 ||ads.playforhigh.com^$important
 ||appmetrica.yandex.ru^$important
 ||jaavnacsdw.com^$important

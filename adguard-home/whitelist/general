@@ -29,9 +29,5 @@
 @@||www.quad9.net^
 # DNS Public
 @@||dns11.quad9.net^
-@@||resolver1-fs.opendns.com^
-@@||resolver2-fs.opendns.com^
-@@||familyshield.opendns.com^
-@@||doh.familyshield.opendns.com^
 # Regexp
 /.*.lan.*./

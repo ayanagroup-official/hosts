@@ -3,6 +3,8 @@
 # Mode : Adguard Home
 # Title : General, Log & Regex
 # Last Update
+||*.google.us
+||*.google.cn
 ||appconf.heytapdownload.com^
 ||*.10.in-addr.arpa^$important
 ||*.16.172.in-addr.arpa^$important

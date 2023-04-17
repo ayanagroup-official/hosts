@@ -9,6 +9,8 @@
 ||dm06.biz^$important
 ||*.google.us
 ||*.google.cn
+||*.googleapis.us
+||*.googleapis.cn
 ||appconf.heytapdownload.com^
 ||*.10.in-addr.arpa^$important
 ||*.16.172.in-addr.arpa^$important

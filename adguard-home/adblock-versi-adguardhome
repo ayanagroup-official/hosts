@@ -90,6 +90,10 @@
 ||pettishhansom.digital^$important
 ||public-dns-a.baidu.com^$important
 # Regex Reguler
+/push.*./
+/analytics.*./
+/telemetry.*./
+# Regex Reguler
 /.*.push.*./
 /.*.analytics.*./
 /.*.telemetry.*./
@@ -98,7 +102,16 @@
 /.*.ebaystatic.com/
 /[0-9]*.rsc.cdn77.org/
 /.*.appmeasurements.com/
-# Regex Porn
+# Regex Porn v1
+/porn.*./
+/bokep.*./
+/xhcdn.*./
+/xhamster.*./
+/xnxx.*./
+/xnxx-cdn.*./
+/xvideos.*./
+/xvideos-cdn.*./
+# Regex Porn v2
 /.*.porn.*./
 /.*.bokep.*./
 /.*.xhcdn.*./

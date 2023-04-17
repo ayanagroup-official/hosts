@@ -1,8 +1,12 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 10 April 2023
+# Last Update : 17 April 2023
 # Mode : Adguard Home
 # Title : General, Log & Regex
 # Last Update
+||littlecdn.com^$important
+||m.sohu.com^$important
+||lib1.biz^$important
+||dm06.biz^$important
 ||*.google.us
 ||*.google.cn
 ||appconf.heytapdownload.com^

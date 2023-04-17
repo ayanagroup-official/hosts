@@ -3,6 +3,7 @@
 # Mode : Adguard Home
 # Title : General, Log & Regex
 # Last Update
+||*.files.wordpress.com
 ||littlecdn.com^$important
 ||m.sohu.com^$important
 ||lib1.biz^$important

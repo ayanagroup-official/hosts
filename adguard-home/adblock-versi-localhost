@@ -14,6 +14,7 @@
 127.0.0.1 sg.pool.ntp.org
 127.0.0.1 europe.pool.ntp.org
 127.0.0.1 v31.tsel.byteoversea.net
+127.0.0.1 watchx.top
 # AcuityAds
 127.0.0.1 acuityads.com
 127.0.0.1 acuityplatform.com

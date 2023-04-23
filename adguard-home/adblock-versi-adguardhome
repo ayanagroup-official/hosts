@@ -3,16 +3,17 @@
 # Mode : Adguard Home
 # Title : General, Log & Regex
 # Last Update
-||*.files.wordpress.com
+||btrace.play.aiseet.atianqi.com^$important
+||*.files.wordpress.com^$important
 ||littlecdn.com^$important
 ||m.sohu.com^$important
 ||lib1.biz^$important
 ||dm06.biz^$important
-||*.google.us
-||*.google.cn
-||*.googleapis.us
-||*.googleapis.cn
-||appconf.heytapdownload.com^
+||*.google.us^$important
+||*.google.cn^$important
+||*.googleapis.us^$important
+||*.googleapis.cn^$important
+||appconf.heytapdownload.com^$important
 ||*.10.in-addr.arpa^$important
 ||*.16.172.in-addr.arpa^$important
 ||*.168.192.in-addr.arpa^$important

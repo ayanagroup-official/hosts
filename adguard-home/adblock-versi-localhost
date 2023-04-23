@@ -15,6 +15,7 @@
 127.0.0.1 europe.pool.ntp.org
 127.0.0.1 v31.tsel.byteoversea.net
 127.0.0.1 watchx.top
+127.0.0.1 router.miwifi.com
 # AcuityAds
 127.0.0.1 acuityads.com
 127.0.0.1 acuityplatform.com

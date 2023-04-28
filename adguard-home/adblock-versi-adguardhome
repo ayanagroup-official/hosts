@@ -150,6 +150,7 @@
 /.*.vpnbook.*./
 # Router
 ||*.lan
+||*.local
 ||*.tendawifi.com
 ||*.itotolink.net
 # Log

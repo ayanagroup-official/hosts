@@ -1,8 +1,9 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 30 April 2023
+# Last Update : 2 Mei 2023
 # Mode : Adguard Home
 # Title : General, Log & Regex
 # Last Update
+||geordieapojove.life^$important
 ||loucegle.net^$important
 ||btrace.play.aiseet.atianqi.com^$important
 ||*.files.wordpress.com^$important

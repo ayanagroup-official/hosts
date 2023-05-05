@@ -1,9 +1,11 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 23 Maret 2023
+# Last Update : 5 Mei 2023
 # Mode : Adguard Home
 # Title : Facebook
 # Data Buana Nusantara
 /.*.fmlg5-[0-9].fna.fbcdn.net/
+# Data Multidata Rancana Prima
+/.*.fcgk13-[0-9].fna.fbcdn.net/
 # Hutchison
 /.*.fcgk1-[0-9].fna.fbcdn.net/
 /.*.fmlg2-[0-9].fna.fbcdn.net/
@@ -13,6 +15,7 @@
 /.*.fsrg1-[0-9].fna.fbcdn.net/
 /.*.fpku4-[0-9].fna.fbcdn.net/
 /.*.fsoc1-[0-9].fna.fbcdn.net/
+/.*.fdjb1-[0-9].fna.fbcdn.net/
 /.*.fcgk11-[0-9].fna.fbcdn.net/
 # Indosat
 /.*.fbdo6-[0-9].fna.fbcdn.net/

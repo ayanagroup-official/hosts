@@ -6,7 +6,6 @@
 @@||analytics.google.com^
 @@||marketingplatform.google.com^
 @@||seller-push-ws.shopee.co.id^
-@@||mirror.ossplanet.net^
 @@||similarweb.com^
 @@||whoer.net^
 @@||p16.topbuzzcdn.com^
@@ -14,6 +13,7 @@
 @@||bstream.hzmklvdieo.com^
 # Dana [E-Wallet]
 @@||dana.id^
+@@||*.dana.id^$popup
 # Lazada
 @@||g.lazcdn.com^
 @@||o.lazcdn.com^

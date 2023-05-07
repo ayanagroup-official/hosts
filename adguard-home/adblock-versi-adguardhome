@@ -2,11 +2,15 @@
 # Last Update : 7 Mei 2023
 # Mode : Adguard Home
 # Title : General, Log & Regex
-# Last Update
+# HTML filtering rules
+gomov.bio$$script[class="banner"]
+ngefilm21.club$$script[class="banner"]
+# Basic rules modifiers
 ||gomov.bio^$popup
 ||ngefilm21.club^$popup
 ||watchx.top^$popup
 ||bestx.stream^$popup
+# Last Update
 ||geordieapojove.life^$important
 ||loucegle.net^$important
 ||btrace.play.aiseet.atianqi.com^$important

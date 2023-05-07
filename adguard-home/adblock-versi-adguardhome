@@ -1,8 +1,12 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 2 Mei 2023
+# Last Update : 7 Mei 2023
 # Mode : Adguard Home
 # Title : General, Log & Regex
 # Last Update
+||gomov.bio^$popup
+||ngefilm21.club^$popup
+||watchx.top^$popup
+||bestx.stream^$popup
 ||geordieapojove.life^$important
 ||loucegle.net^$important
 ||btrace.play.aiseet.atianqi.com^$important

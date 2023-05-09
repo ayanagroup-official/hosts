@@ -13,7 +13,7 @@
 @@||bstream.hzmklvdieo.com^
 # Dana [E-Wallet]
 @@||dana.id^
-@@||*.dana.id^$popup
+@@||dana.id^$popup
 # Lazada
 @@||g.lazcdn.com^
 @@||o.lazcdn.com^
@@ -23,9 +23,8 @@
 @@||laz-g-cdn.alicdn.com^
 @@||laz-img-cdn.alicdn.com^
 # Website DNS
-@@||api.nextdns.io^
-@@||my.nextdns.io^
-@@||www.quad9.net^
+@@||nextdns.io^
+@@||quad9.net^
 # DNS Public
 @@||dns11.quad9.net^
 @@||dns.google^

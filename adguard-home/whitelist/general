@@ -22,9 +22,6 @@
 @@||assets.alicdn.com^
 @@||laz-g-cdn.alicdn.com^
 @@||laz-img-cdn.alicdn.com^
-# Website DNS
-@@||nextdns.io^
-@@||quad9.net^
 # DNS Public
 @@||dns.google^
 @@||cloudflare-dns.com^

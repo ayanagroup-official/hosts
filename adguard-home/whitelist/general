@@ -26,7 +26,7 @@
 @@||nextdns.io^
 @@||quad9.net^
 # DNS Public
-@@||dns11.quad9.net^
 @@||dns.google^
+@@||cloudflare-dns.com^
 # Regexp
 /.*.lan.*./

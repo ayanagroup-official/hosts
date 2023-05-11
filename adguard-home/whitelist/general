@@ -24,6 +24,6 @@
 @@||laz-img-cdn.alicdn.com^
 # DNS Public
 @@||dns.google^
-@@||cloudflare-dns.com^
+@@||family.cloudflare-dns.com^
 # Regexp
 /.*.lan.*./

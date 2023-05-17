@@ -108,6 +108,7 @@ ngefilm21.club$$script[class="banner"]
 ||pettishhansom.digital^$important
 ||public-dns-a.baidu.com^$important
 # Regex Reguler
+/ip6.arpa/
 /push.*./
 /analytics.*./
 /telemetry.*./

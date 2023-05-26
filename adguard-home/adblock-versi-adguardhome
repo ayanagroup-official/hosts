@@ -1,5 +1,5 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 7 Mei 2023
+# Last Update : 26 Mei 2023
 # Mode : Adguard Home
 # Title : General, Log & Regex
 # HTML filtering rules
@@ -9,6 +9,12 @@ ngefilm21.club$$script[class="banner"]
 ||watchx.top^$popup
 ||bestx.stream^$popup
 # Last Update
+||*.highrevenuecpm.com
+||*.highrevenuecpmnetrok.com
+||*.highrevenuecpmnetwork.com
+||*.highrevenuegate.com
+||s4.histats.com
+||nosebleedlonerdays.com^
 ||g-ulog.sg.snackvideo.com^
 ||errors.house^$important
 ||history.l.google.com^$important

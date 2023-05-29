@@ -36,8 +36,6 @@ ngefilm21.club$$script[class="banner"]
 ||livelbs.ukyuh.tech^$important
 ||zbdhwvi.v.ecdnx.com^$important
 ||v9.topbuzzcdn.com^$important
-||bytedance.map.fastly.net^$important
-||s.youtube.com^$important
 ||a.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com^$important
 ||adsbidding.togothermany.com^$important
 ||adscfg.togothermany.com^$important
@@ -235,8 +233,10 @@ ngefilm21.club$$script[class="banner"]
 ||dm06.biz^$important
 ||*.google.us^$important
 ||*.google.cn^$important
+||*.google.co.in^$important
 ||*.googleapis.us^$important
 ||*.googleapis.cn^$important
+||*.googleapis.co.in^$important
 ||appconf.heytapdownload.com^$important
 ||*.10.in-addr.arpa^$important
 ||*.16.172.in-addr.arpa^$important

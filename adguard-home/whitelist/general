@@ -22,7 +22,5 @@
 @@||assets.alicdn.com^
 @@||laz-g-cdn.alicdn.com^
 @@||laz-img-cdn.alicdn.com^
-# DNS Public
-@@||dns.google^
 # Regexp
 /.*.lan.*./

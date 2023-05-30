@@ -27,19 +27,6 @@
 /.*.fcgk4-[0-9].fna.fbcdn.net/
 /.*.fkno9-[0-9].fna.fbcdn.net/
 /.*.fsrg5-[0-9].fna.fbcdn.net/
-# Telkom
-/.*.fsub8-[0-9].fna.fbcdn.net/
-/.*.fdps5-[0-9].fna.fbcdn.net/
-/.*.fbdo9-[0-9].fna.fbcdn.net/
-/.*.fcgk27-[0-9].fna.fbcdn.net/
-/.*.fcgk33-[0-9].fna.fbcdn.net/
-/.*.fmnl6-[0-9].fna.fbcdn.net/
-/.*.fbpn3-[0-9].fna.fbcdn.net/
-/.*.fcgk18-[0-9].fna.fbcdn.net/
-/.*.fbpn2-[0-9].fna.fbcdn.net/
-/.*.fsrg6-[0-9].fna.fbcdn.net/
-/.*.fbdj4-[0-9].fna.fbcdn.net/
-/.*.fkno6-[0-9].fna.fbcdn.net/
 # Telkomsel
 /.*.ftim1-[0-9].fna.fbcdn.net/
 /.*.fbdj2-[0-9].fna.fbcdn.net/
@@ -67,6 +54,20 @@
 /.*.fplm3-[0-9].fna.fbcdn.net/
 /.*.fcgk38-[0-9].fna.fbcdn.net/
 /.*.fsoc2-[0-9].fna.fbcdn.net/
+/.*.fdps10-[0-9].fna.fbcdn.net/
+# Telkom
+/.*.fsub8-[0-9].fna.fbcdn.net/
+/.*.fdps5-[0-9].fna.fbcdn.net/
+/.*.fbdo9-[0-9].fna.fbcdn.net/
+/.*.fcgk27-[0-9].fna.fbcdn.net/
+/.*.fcgk33-[0-9].fna.fbcdn.net/
+/.*.fmnl6-[0-9].fna.fbcdn.net/
+/.*.fbpn3-[0-9].fna.fbcdn.net/
+/.*.fcgk18-[0-9].fna.fbcdn.net/
+/.*.fbpn2-[0-9].fna.fbcdn.net/
+/.*.fsrg6-[0-9].fna.fbcdn.net/
+/.*.fbdj4-[0-9].fna.fbcdn.net/
+/.*.fkno6-[0-9].fna.fbcdn.net/
 # Icon Plus
 /.*.fcgk22-[0-9].fna.fbcdn.net/
 /.*.fsub15-[0-9].fna.fbcdn.net/

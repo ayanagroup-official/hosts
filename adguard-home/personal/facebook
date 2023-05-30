@@ -1,5 +1,5 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 29 Mei 2023
+# Last Update : 30 Mei 2023
 # Mode : Adguard Home
 # Title : Facebook
 # Data Buana Nusantara
@@ -67,3 +67,8 @@
 /.*.fplm3-[0-9].fna.fbcdn.net/
 /.*.fcgk38-[0-9].fna.fbcdn.net/
 /.*.fsoc2-[0-9].fna.fbcdn.net/
+# Icon Plus
+/.*.fcgk22-[0-9].fna.fbcdn.net/
+/.*.fsub15-[0-9].fna.fbcdn.net/
+# Biznet
+/.*.fsub9-[0-9].fna.fbcdn.net/

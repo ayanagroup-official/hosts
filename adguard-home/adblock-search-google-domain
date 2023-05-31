@@ -1,4 +1,5 @@
 # Searching Google Domains
+# Kecuali United States & Indonesia
 # Samoa
 ||google.ws
 # Vanuatu
@@ -289,10 +290,6 @@
 ||google.com.ag
 # Afghanistan
 ||google.com.af
-# Worldwide (Original for the United States)
-||google.com
-# United States
-||google.com
 # Zimbabwe
 ||google.co.zw
 # Zambia
@@ -333,8 +330,6 @@
 ||google.co.in
 # Israel
 ||google.co.il
-# Indonesia
-||google.co.id
 # Costa Rica
 ||google.co.cr
 # Cook Islands
@@ -399,5 +394,5 @@
 ||google.ad
 # Ascension Island
 ||google.ac
-# US
+# United States
 ||google.us

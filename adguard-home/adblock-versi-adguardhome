@@ -289,12 +289,7 @@ ngefilm21.club$$script[class="banner"]
 ||gsdk-va.bytegsdk.com^$important
 ||gpm-mon-va.bytegsdk.com^$important
 ||www.msn.com^$important
-||vulcan5.branch.io^$important
 ||fsr.lenovomm.com^$important
-||vulcan2.branch.io^
-||vulcan3.branch.io^
-||vulcan4.branch.io^
-||vulcan1.branch.io^
 ||d3vk40ihlliju7.cloudfront.net^$important
 ||fancifylucific.guru^$important
 ||ujooshog.com^$important
@@ -540,6 +535,7 @@ ngefilm21.club$$script[class="banner"]
 /.*.kproxy.*./
 /.*.vpnbook.*./
 # Regex Reguler
+/vulcan[0-9].branch.io/
 /conn[0-9].oppomobile.com/
 /logpost[0-9].miniworldgame.com/
 /conn-service-gl-0[0-9].allawnos.com/

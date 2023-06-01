@@ -12,8 +12,6 @@ ngefilm21.club$$script[class="banner"]
 ||*.ingest.sentry.io^$important
 ||uki-mobile-log.oss-cn-hangzhou.aliyuncs.com^$important
 ||b-www.facebook.com^$important
-||mepodownload.mediatek.com^$important
-||sfepodownload.mediatek.com^$important
 ||graph.fb.gg^$important
 ||configure-tcp.rayjump.com^$important
 ||vulcan2.branch.io^$important

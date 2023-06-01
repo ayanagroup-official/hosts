@@ -540,6 +540,10 @@ ngefilm21.club$$script[class="banner"]
 /conn-service-gl-1[0-9].allawnos.com/
 /conn-service-us-0[0-9].allawnos.com/
 /conn-service-us-1[0-9].allawnos.com/
+/conn-service-gl-0[0-9].allawntech.com/
+/conn-service-gl-1[0-9].allawntech.com/
+/conn-service-us-0[0-9].allawntech.com/
+/conn-service-us-1[0-9].allawntech.com/
 /[a-z]epodownload.mediatek.com/
 # Router
 ||*.lan

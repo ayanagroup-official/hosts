@@ -2,15 +2,14 @@
 # Last Update : 2 Juni 2023
 # Mode : Adguard Home
 # TLDs the adult 
-||cam
-||xxx
-||porn
-||sex
-||sexy
-||adult
-||webcam
+||cam^
+||xxx^
+||porn^
+||sex^
+||sexy^
+||adult^
+||webcam^
 # Regex Reguler
-/ip6.arpa/
 /.*.appmeasurements.com/
 /.*.ebay.com/
 /.*.ebaystatic.com/
@@ -73,12 +72,21 @@
 /.*.kproxy.*./
 /.*.vpnbook.*./
 # Router Local
-||*.lan
-||*.local
-||*.tendawifi.com
-||*.itotolink.net
+||*.lan^
+||*.local^
+||*.tendawifi.com^
+||*.itotolink.net^
+||*.ip6.arpa^$important
+||*.10.in-addr.arpa^$important
+||*.16.172.in-addr.arpa^$important
+||*.168.192.in-addr.arpa^$important
+||*.120.152.192.in-addr.arpa^$important
+||*.132.172.192.in-addr.arpa^$important
 # Title : General, Log & Others
 ||*.ingest.sentry.io^$important
+||*.surahusa.beauty^$important
+||*.rcs.telephony.goog^$important
+||*.files.wordpress.com^$important
 ||uki-mobile-log.oss-cn-hangzhou.aliyuncs.com^$important
 ||b-www.facebook.com^$important
 ||graph.fb.gg^$important
@@ -238,7 +246,6 @@
 ||a.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com^$important
 ||a.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com^$important
 ||asia-exmagazineunlock-proxy.vivoglobal.com^$important
-||*.surahusa.beauty^$important
 ||cdn.fbsbx.com^$important
 ||aefd.nelreports.net^$important
 ||cdn.unistream.io^$important
@@ -270,10 +277,10 @@
 ||apa.vap.lijit.com^
 ||ap.lijit.com^
 ||anchor.fm^
-||*.highrevenuecpm.com^
-||*.highrevenuecpmnetrok.com^
-||*.highrevenuecpmnetwork.com^
-||*.highrevenuegate.com^
+||highrevenuecpm.com^
+||highrevenuecpmnetrok.com^
+||highrevenuecpmnetwork.com^
+||highrevenuegate.com^
 ||s4.histats.com^
 ||nosebleedlonerdays.com^
 ||g-ulog.sg.snackvideo.com^
@@ -436,7 +443,6 @@
 ||ds6.whatismyipaddress.com^$important
 ||global-news-blog.com^$important
 ||dedv3s8rtnohh.cloudfront.net^$important
-||*.rcs.telephony.goog^$important
 ||gos-api.gos-gsp.io^$important
 ||bf19405wzd.bf.dynatrace.com^$important
 ||www.afasterinternet.com^$important
@@ -465,17 +471,11 @@
 ||geordieapojove.life^$important
 ||loucegle.net^$important
 ||btrace.play.aiseet.atianqi.com^$important
-||*.files.wordpress.com^$important
 ||littlecdn.com^$important
 ||m.sohu.com^$important
 ||lib1.biz^$important
 ||dm06.biz^$important
 ||appconf.heytapdownload.com^$important
-||*.10.in-addr.arpa^$important
-||*.16.172.in-addr.arpa^$important
-||*.168.192.in-addr.arpa^$important
-||*.120.152.192.in-addr.arpa^$important
-||*.132.172.192.in-addr.arpa^$important
 ||push-rtmp-l1-va01.tiktokcdn.com^$important
 ||push-rtmp-l1-va01.tiktokcdn.com.wsdvs.com^$important
 ||push-rtmp-f5-va01.tiktokcdn.com^$important

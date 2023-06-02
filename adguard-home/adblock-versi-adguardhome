@@ -1,7 +1,83 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 31 Mei 2023
+# Last Update : 2 Juni 2023
 # Mode : Adguard Home
-# Title : General, Log & Regex
+# TLDs the adult 
+||cam
+||xxx
+||porn
+||sex
+||sexy
+||adult
+||webcam
+# Regex Reguler
+/ip6.arpa/
+/.*.appmeasurements.com/
+/.*.ebay.com/
+/.*.ebaystatic.com/
+/.*.appmeasurements.com/
+/[0-9]*.rsc.cdn77.org/
+/vulcan[0-9].branch.io/
+/conn[0-9].oppomobile.com/
+/logpost[0-9].miniworldgame.com/
+/conn-service-gl-0[0-9].allawnos.com/
+/conn-service-gl-1[0-9].allawnos.com/
+/conn-service-us-0[0-9].allawnos.com/
+/conn-service-us-1[0-9].allawnos.com/
+/conn-service-gl-0[0-9].allawntech.com/
+/conn-service-gl-1[0-9].allawntech.com/
+/conn-service-us-0[0-9].allawntech.com/
+/conn-service-us-1[0-9].allawntech.com/
+/[a-z]epodownload.mediatek.com/
+/push.*./
+/.*.push.*./
+/analytics.*./
+/.*.analytics.*./
+/telemetry.*./
+/.*.telemetry.*./
+# Regex Porn v1
+/porn.*./
+/bokep.*./
+/xhcdn.*./
+/xhamster.*./
+/xnxx.*./
+/xnxx-cdn.*./
+/xvideos.*./
+/xvideos-cdn.*./
+# Regex Porn v2
+/.*.porn.*./
+/.*.bokep.*./
+/.*.xhcdn.*./
+/.*.xhamster.*./
+/.*.xnxx.*./
+/.*.xnxx-cdn.*./
+/.*.xvideos.*./
+/.*.xvideos-cdn.*./
+# Regex Proxy
+/.*.croxyproxy.*./
+/.*.proxysite.*./
+/.*.steganos.*./
+/.*.blockaway.*./
+/.*.proxy.web.id/
+/.*.hidester.*./
+/.*.proxyscrape.*./
+/.*.4everproxy.*./
+/.*.filterbypass.*./
+/.*.proxfree.*./
+/.*.best-server.*./
+/.*.freeproxy.*./
+/.*.unblockyoutube.*./
+/.*.unblockvideos.*./
+/.*.proxypx.*./
+/.*.proxy-youtube.*./
+/.*.genmirror.*./
+/.*.kproxy.*./
+/.*.vpnbook.*./
+# Router Local
+||*.lan
+||*.local
+||*.tendawifi.com
+||*.itotolink.net
+# Title : General, Log & Others
 ||*.ingest.sentry.io^$important
 ||uki-mobile-log.oss-cn-hangzhou.aliyuncs.com^$important
 ||b-www.facebook.com^$important
@@ -470,76 +546,6 @@
 ||droppalpateraft.com^$important
 ||pettishhansom.digital^$important
 ||public-dns-a.baidu.com^$important
-# Regex Reguler
-/ip6.arpa/
-/push.*./
-/analytics.*./
-/telemetry.*./
-# Regex Reguler
-/.*.push.*./
-/.*.analytics.*./
-/.*.telemetry.*./
-/.*.appmeasurements.com/
-/.*.ebay.com/
-/.*.ebaystatic.com/
-/[0-9]*.rsc.cdn77.org/
-/.*.appmeasurements.com/
-# Regex Porn v1
-/porn.*./
-/bokep.*./
-/xhcdn.*./
-/xhamster.*./
-/xnxx.*./
-/xnxx-cdn.*./
-/xvideos.*./
-/xvideos-cdn.*./
-# Regex Porn v2
-/.*.porn.*./
-/.*.bokep.*./
-/.*.xhcdn.*./
-/.*.xhamster.*./
-/.*.xnxx.*./
-/.*.xnxx-cdn.*./
-/.*.xvideos.*./
-/.*.xvideos-cdn.*./
-# Regex Proxy
-/.*.croxyproxy.*./
-/.*.proxysite.*./
-/.*.steganos.*./
-/.*.blockaway.*./
-/.*.proxy.web.id/
-/.*.hidester.*./
-/.*.proxyscrape.*./
-/.*.4everproxy.*./
-/.*.filterbypass.*./
-/.*.proxfree.*./
-/.*.best-server.*./
-/.*.freeproxy.*./
-/.*.unblockyoutube.*./
-/.*.unblockvideos.*./
-/.*.proxypx.*./
-/.*.proxy-youtube.*./
-/.*.genmirror.*./
-/.*.kproxy.*./
-/.*.vpnbook.*./
-# Regex Reguler
-/vulcan[0-9].branch.io/
-/conn[0-9].oppomobile.com/
-/logpost[0-9].miniworldgame.com/
-/conn-service-gl-0[0-9].allawnos.com/
-/conn-service-gl-1[0-9].allawnos.com/
-/conn-service-us-0[0-9].allawnos.com/
-/conn-service-us-1[0-9].allawnos.com/
-/conn-service-gl-0[0-9].allawntech.com/
-/conn-service-gl-1[0-9].allawntech.com/
-/conn-service-us-0[0-9].allawntech.com/
-/conn-service-us-1[0-9].allawntech.com/
-/[a-z]epodownload.mediatek.com/
-# Router
-||*.lan
-||*.local
-||*.tendawifi.com
-||*.itotolink.net
 # Log
 ||an-sm-log.tantanapp.com^$important
 ||log.rewardpumpkin.com^$important

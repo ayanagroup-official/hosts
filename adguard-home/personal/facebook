@@ -1,5 +1,5 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 30 Mei 2023
+# Last Update : 3 Juni 2023
 # Mode : Adguard Home
 # Title : Facebook
 # Data Buana Nusantara
@@ -12,17 +12,6 @@
 /.*.fcgk40-[0-9].fna.fbcdn.net/
 # Mora Telematika Indonesia
 /.*.fcgk12-[0-9].fna.fbcdn.net/
-# Hutchison
-/.*.fcgk1-[0-9].fna.fbcdn.net/
-/.*.fmlg2-[0-9].fna.fbcdn.net/
-/.*.fsub5-[0-9].fna.fbcdn.net/
-/.*.fpnk1-[0-9].fna.fbcdn.net/
-/.*.fbdo1-[0-9].fna.fbcdn.net/
-/.*.fsrg1-[0-9].fna.fbcdn.net/
-/.*.fpku4-[0-9].fna.fbcdn.net/
-/.*.fsoc1-[0-9].fna.fbcdn.net/
-/.*.fdjb1-[0-9].fna.fbcdn.net/
-/.*.fcgk11-[0-9].fna.fbcdn.net/
 # Indosat
 /.*.fbdo6-[0-9].fna.fbcdn.net/
 /.*.fsub6-[0-9].fna.fbcdn.net/
@@ -72,6 +61,17 @@
 /.*.fbdj4-[0-9].fna.fbcdn.net/
 /.*.fkno6-[0-9].fna.fbcdn.net/
 /.*.fplm4-[0-9].fna.fbcdn.net/
+# Hutchison
+/.*.fcgk1-[0-9].fna.fbcdn.net/
+/.*.fmlg2-[0-9].fna.fbcdn.net/
+/.*.fsub5-[0-9].fna.fbcdn.net/
+/.*.fpnk1-[0-9].fna.fbcdn.net/
+/.*.fbdo1-[0-9].fna.fbcdn.net/
+/.*.fsrg1-[0-9].fna.fbcdn.net/
+/.*.fpku4-[0-9].fna.fbcdn.net/
+/.*.fsoc1-[0-9].fna.fbcdn.net/
+/.*.fdjb1-[0-9].fna.fbcdn.net/
+/.*.fcgk11-[0-9].fna.fbcdn.net/
 # Icon Plus
 /.*.fcgk22-[0-9].fna.fbcdn.net/
 /.*.fsub15-[0-9].fna.fbcdn.net/

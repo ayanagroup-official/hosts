@@ -87,8 +87,9 @@
 ||*.surahusa.beauty^$important
 ||*.rcs.telephony.goog^$important
 ||*.files.wordpress.com^$important
+||*.hk.pool.ntp.org^$important
+||*.us.pool.ntp.org^$important
 ||uki-mobile-log.oss-cn-hangzhou.aliyuncs.com^$important
-||graph.fb.gg^$important
 ||configure-tcp.rayjump.com^$important
 ||cst2022.org^$important
 ||trustwebimportant.fun^$important
@@ -99,13 +100,8 @@
 ||sxevghgm^$important
 ||jdetysspjo^$important
 ||net77.club^$important
-||s.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com^$important
-||x-eu.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com^$important
-||x-eu.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com^$important
 ||advice-ads.s3.amazonaws.com^$important
 ||fwtracks.freshmarketer.com^$important
-||google.co.in^$important
-||googleapis.co.in^$important
 ||beacon.cdn.qq.com^$important
 ||se-new-cdn-ap-northeast-2c-hb.rayjump.com^$important
 ||event.maribacaberita.com^$important
@@ -117,7 +113,6 @@
 ||sogou.govwza.cn^$important
 ||wcm-ru.frontend.weborama.fr^$important
 ||an.yandex.ru^$important
-||us.pool.ntp.org^$important
 ||rus-service-sg.allawnos.com^$important
 ||classify-app-sg.allawnos.com^$important
 ||component-ota-sg.allawnos.com^$important
@@ -130,7 +125,6 @@
 ||tdsdk.cpatrk.net^$important
 ||lds.lenovomm.com^$important
 ||wp-log.api.useinsider.com^$important
-||hk.pool.ntp.org^$important
 ||survey-site.com^$important
 ||www.latestgrowing.com^$important
 ||www.litatom.com^$important
@@ -228,7 +222,6 @@
 ||thedise.me^$important
 ||sgp-conf.dropz-k.com^$important
 ||resapk.vanced.pro^$important
-||res.gotube.pro^$important
 ||ape-androids.isappcloud.com^$important
 ||l.otidapi.com^$important
 ||co.dewrain.site^$important
@@ -239,10 +232,7 @@
 ||tnc16-alisg.byteoversea.com^$important
 ||sdk-api.kidoz.net^$important
 ||taigasdoeskin.guru^$important
-||x-eu.1a5e9f4fb74fcd8db788ea67ba40e68423c0443c2a03ff7c9f035d1e.com^$important
 ||blroqdhxkury.sh-content.com^$important
-||a.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com^$important
-||a.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com^$important
 ||asia-exmagazineunlock-proxy.vivoglobal.com^$important
 ||aefd.nelreports.net^$important
 ||cdn.unistream.io^$important
@@ -293,14 +283,12 @@
 ||livelbs.ukyuh.tech^$important
 ||zbdhwvi.v.ecdnx.com^$important
 ||v9.topbuzzcdn.com^$important
-||a.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com^$important
 ||adsbidding.togothermany.com^$important
 ||adscfg.togothermany.com^$important
 ||da.toponadss.com^$important
 ||tk.toponadss.com^$important
 ||adsup.togothermany.com^$important
 ||track.adsdays.com^$important
-||sonar6.xy.fbcdn.net^$important
 ||log.meetpvp.com^$important
 ||tracking.eu.wawadoga.com^$important
 ||event-tracking-event-tracking-yilmpoxsgb.ap-southeast-5.fcapp.run^$important

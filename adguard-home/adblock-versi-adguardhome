@@ -88,7 +88,6 @@
 ||*.rcs.telephony.goog^$important
 ||*.files.wordpress.com^$important
 ||uki-mobile-log.oss-cn-hangzhou.aliyuncs.com^$important
-||b-www.facebook.com^$important
 ||graph.fb.gg^$important
 ||configure-tcp.rayjump.com^$important
 ||cst2022.org^$important
@@ -247,7 +246,6 @@
 ||asia-exmagazineunlock-proxy.vivoglobal.com^$important
 ||aefd.nelreports.net^$important
 ||cdn.unistream.io^$important
-||www.fbsbx.com^$important
 ||greasyfork.org^$important
 ||lf19-pkgcdn.pitaya-clientai.com^$important
 ||browser.cdn.intl.miui.com^$important

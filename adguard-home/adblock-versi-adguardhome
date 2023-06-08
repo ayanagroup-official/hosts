@@ -1,6 +1,6 @@
-# From : Indonesia (Jawa Timur)
-# Last Update : 6 Juni 2023
+# From : Indonesia
 # Mode : Adguard Home
+# Last Update : 9 Juni 2023
 # TLDs the adult 
 ||cam^
 ||xxx^
@@ -10,14 +10,22 @@
 ||adult^
 ||webcam^
 # Regex Reguler
-/.*.appmeasurements.com/
-/.*.ebay.com/
-/.*.ebaystatic.com/
-/.*.appmeasurements.com/
+/log.*./
+/ads.*./
 /[0-9]*.rsc.cdn77.org/
 /vulcan[0-9].branch.io/
 /conn[0-9].oppomobile.com/
+/[a-z]epodownload.mediatek.com/
 /logpost[0-9].miniworldgame.com/
+/log-.*.tiktokv.com/
+/mon-.*.tiktokv.com/
+/mssdk-.*.tiktokv.com/
+/log1[0-9]-.*.tiktokv.com/
+/log2[0-9]-.*.tiktokv.com/
+/mon1[0-9]-.*.tiktokv.com/
+/mon2[0-9]-.*.tiktokv.com/
+/mssdk1[0-9]-.*.tiktokv.com/
+/mssdk2[0-9]-.*.tiktokv.com/
 /conn-service-gl-0[0-9].allawnos.com/
 /conn-service-gl-1[0-9].allawnos.com/
 /conn-service-us-0[0-9].allawnos.com/
@@ -26,7 +34,6 @@
 /conn-service-gl-1[0-9].allawntech.com/
 /conn-service-us-0[0-9].allawntech.com/
 /conn-service-us-1[0-9].allawntech.com/
-/[a-z]epodownload.mediatek.com/
 /push.*./
 /.*.push.*./
 /analytics.*./
@@ -36,11 +43,11 @@
 # Regex Porn v1
 /porn.*./
 /bokep.*./
-/xhcdn.*./
-/xhamster.*./
 /xnxx.*./
-/xnxx-cdn.*./
+/xhcdn.*./
 /xvideos.*./
+/xhamster.*./
+/xnxx-cdn.*./
 /xvideos-cdn.*./
 # Regex Porn v2
 /.*.porn.*./
@@ -51,7 +58,27 @@
 /.*.xnxx-cdn.*./
 /.*.xvideos.*./
 /.*.xvideos-cdn.*./
-# Regex Proxy
+# Regex Proxy v1
+/croxyproxy.*./
+/proxysite.*./
+/steganos.*./
+/blockaway.*./
+/proxy.web.id/
+/hidester.*./
+/proxyscrape.*./
+/4everproxy.*./
+/filterbypass.*./
+/proxfree.*./
+/best-server.*./
+/freeproxy.*./
+/unblockyoutube.*./
+/unblockvideos.*./
+/proxypx.*./
+/proxy-youtube.*./
+/genmirror.*./
+/kproxy.*./
+/vpnbook.*./
+# Regex Proxy v2
 /.*.croxyproxy.*./
 /.*.proxysite.*./
 /.*.steganos.*./
@@ -83,11 +110,15 @@
 ||*.120.152.192.in-addr.arpa^$important
 ||*.132.172.192.in-addr.arpa^$important
 # Title : General, Log & Others
+||*.appmeasurements.com^$important
+||*.appmeasurements.com^$important
 ||*.ingest.sentry.io^$important
 ||*.surahusa.beauty^$important
 ||*.rcs.telephony.goog^$important
 ||*.files.wordpress.com^$important
+||*.cn.pool.ntp.org^$important
 ||*.hk.pool.ntp.org^$important
+||*.sg.pool.ntp.org^$important
 ||*.us.pool.ntp.org^$important
 ||uki-mobile-log.oss-cn-hangzhou.aliyuncs.com^$important
 ||configure-tcp.rayjump.com^$important
@@ -113,9 +144,6 @@
 ||sogou.govwza.cn^$important
 ||wcm-ru.frontend.weborama.fr^$important
 ||an.yandex.ru^$important
-||rus-service-sg.allawnos.com^$important
-||classify-app-sg.allawnos.com^$important
-||component-ota-sg.allawnos.com^$important
 ||appconf-sgp.heytapdl.com^$important
 ||appconf-ocs-sgp.heytapdl.com^$important
 ||policy-tcp.rayjump.com^$important
@@ -138,9 +166,6 @@
 ||btrace.play.ptyg.gitv.tv^$important
 ||mtrace.play.aiseet.atianqi.com^$important
 ||feed-7121.feedfinder23.info^$important
-||iot-earbuds-sg.allawnos.com^$important
-||ota-recruit-sg.allawnos.com^$important
-||moa-upload-sg.allawnos.com^$important
 ||whartfidalgo.life^$important
 ||bergculpae.life^$important
 ||tirosagalite.com^$important
@@ -198,7 +223,6 @@
 ||datk.anythinktech.com^$important
 ||adx-os.anythinktech.com^$important
 ||adx-sg-req.anythinktech.com^$important
-||mssdk16-normal-useast1a.tiktokv.com^$important
 ||0.load14.biz^$important
 ||video-star.fun^$important
 ||sh0w-me-how.com^$important
@@ -289,7 +313,6 @@
 ||tk.toponadss.com^$important
 ||adsup.togothermany.com^$important
 ||track.adsdays.com^$important
-||log.meetpvp.com^$important
 ||tracking.eu.wawadoga.com^$important
 ||event-tracking-event-tracking-yilmpoxsgb.ap-southeast-5.fcapp.run^$important
 ||stracking.one^$important
@@ -392,8 +415,6 @@
 ||delivery.contextads.live^$important
 ||audience.contextads.live^$important
 ||adsmartmobi.com^$important
-||log.qchannel03.cn^$important
-||log.appcpi.net^$important
 ||kingzasialuck.com^$important
 ||ophophil.net^$important
 ||kuyecelxn.com^$important
@@ -440,7 +461,6 @@
 ||us01-cdn.rayjump.com^$important
 ||sg01-cdn.rayjump.com^$important
 ||net-se-cdn.rayjump.com^$important
-||log.9kill.com^$important
 ||prod.log.shortbread.aws.dev^$important
 ||me-ads.org^$important
 ||s16-12668.ap4r.com^$important
@@ -474,7 +494,6 @@
 ||hcdnl.push-rtmps.ovc.gslb.rocket-cdn.com^$important
 ||push.9458.com^$important
 ||pangolin16.sgsnssdk.com.ttdns2.com^$important
-||log-boot.tiktokv.com^$important
 ||hitlog-subdomain.viva.co.id^$important
 ||trace-log.kl-youniverse.com^$important
 ||sync.gonet-ads.com^$important
@@ -529,37 +548,19 @@
 ||public-dns-a.baidu.com^$important
 # Log
 ||an-sm-log.tantanapp.com^$important
-||log.rewardpumpkin.com^$important
 ||lgs-log.wapcar.com^$important
-||log22-normal-useast1a.tiktokv.com^$important
 ||app-log-lab.tantanapp.com^$important
-||log16-normal-useast1a.tiktokv.com^$important
 ||log-report.rtcplus.com^$important
-||log.pvpgab.com^$important
-||log.happymodstore.com^$important
-||log.123apkunduh.com^$important
-||log.luckyapkdown.com^$important
-||log.pvp-bar.com^$important
-||log.cintamobil.com^$important
-||log.movie200.com^$important
 ||logreport-all.zegocloud.com^
-||log.ipvpbar.com^
 ||mlog.wangsu.com^
-||log.play41.com^
 ||ads.brainly.blog^
 ||hitlog.vlix.id^
 ||api16-log-gcp.pangle.io.bytewlb.akadns.net^
-||khjlogpw^
 ||sdklogs.vesta.io^
-||log.360modapk.com^
 ||sdklogs.apac.vesta.io^
 ||logt.apkomega.com^
-||api16-log-sg.pangle-b.io.lan^
-||log.freeapkbaixar.com^
-||log.pvpchat.com^
 ||uplog.qbox.me^
 ||blog.twnic.tw^
-||log.modapkdescargar.com^
 ||kernellog-sg.browser.heytapmobile.com^
 ||element-sdk-logs.s3.amazonaws.com^
 ||tfm-log.vercel.app^
@@ -962,7 +963,6 @@
 ||xjp-msgacs.m.taobao.com^
 ||yn.wagbridge.taobao.com^
 ||adx-sg.toponadss.com^
-||log.getadblock.com^
 ||psougoar.com^
 ||cbsusiqkwqxbrmv.com^
 ||asia-err-up.vivoglobal.com^
@@ -986,41 +986,17 @@
 ||ads.pinterest.com^
 ||ads.twitter.com^
 ||proxy.web.id^
-||mssdk-va.tiktok.com^
-||mssdk19-normal-alisg.tiktokv.com^
-||mssdk-sg.tiktokv.com^
-||mon-va.tiktokv.com.edgesuite.net^
 ||ib.tiktokv.com^
-||gecko-va.tiktokv.com.edgesuite.net^
-||ad-instantpage.us.tiktokv.com^
-||mon-boot.tiktokv.com^
-||ad-format.us.tiktokv.com^
-||mcs-va-useast2a.tiktokv.com^
-||mssdk16-normal.tiktokv.com^
-||mssdk16-normal-useast2a.tiktokv.com^
-||mssdk-i18n.tiktokv.com^
-||mssdk-phx.tiktokv.com^
-||mssdk-ru.tiktokv.com^
-||mon15-normal-useast1a.tiktokv.com^
-||mon16-normal-useast1a.tiktokv.com^
-||mon16-platform-useast5.us.tiktokv.com^
-||mssdk16-platform-useast5.us.tiktokv.com^
-||mssdk19-normal-alisg.tiktokv.com^
-||mon-va.tiktokv.com.edgesuite.net^
-||frontier-va.tiktokv.com^
+||mcs-va.tiktokv.com^
 ||pitaya.tiktokv.com^
-||mon-va.tiktokv.com^
+||gecko-va.tiktokv.com^
+||frontier-va.tiktokv.com^
+||ad-format.us.tiktokv.com^
 ||pitaya-task-va.tiktokv.com^
-||mssdk22-normal-useast1a.tiktokv.com^
-||mssdk22-normal-alisg.tiktokv.com^
-||mssdk16-normal-alisg.tiktokv.com^
+||mcs-va-useast2a.tiktokv.com^
+||ad-instantpage.us.tiktokv.com^
 ||mssdk-sg-bu.byteoversea.com^
 ||mssdk-sg.byteoversea.com^
-||mon-sg.tiktokv.com^
-||mon-us.tiktokv.com^
-||mssdk-va.tiktokv.com^
-||mcs-va.tiktokv.com^
-||mon-i18n.tiktokv.com^
 ||sc-report.tantanapp.com^
 ||tnc31-normal-alisg.isnssdk.com^
 ||cdn.content.prod.cms.msn.com^
@@ -1059,4 +1035,11 @@
 ||geo-applefinance-cache.internal.query.g03.yahoodns.net^$important
 ||ww55.affinity.net^$important
 ||icosa-service-sg.allawnos.com^$important
+||rus-service-sg.allawnos.com^$important
+||classify-app-sg.allawnos.com^$important
+||component-ota-sg.allawnos.com^$important
+||iot-earbuds-sg.allawnos.com^$important
+||ota-recruit-sg.allawnos.com^$important
+||moa-upload-sg.allawnos.com^$important
+||123.xl.co.id^$important
 ||xlaxiata-resources.digital-cloud-sin1.medallia.com^$important

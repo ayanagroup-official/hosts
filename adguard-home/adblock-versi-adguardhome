@@ -37,6 +37,8 @@
 /conn-service-us-1[0-9].allawntech.com/
 /push-*.tiktokcdn.com/
 /push-*.tiktokcdn-us.com/
+/.*.cdn.rayjump.com/
+/[a-z]trace.wetvinfo.com/
 # Regex Porn
 /porn.*./
 /bokep.*./
@@ -134,8 +136,10 @@
 ||imapi2.isnssdk.com^$important
 ||1.ssiloc.com^$important
 ||sponsor.ajay.app^$important
+||mtrace.play.ptyg.gitv.tv^$important
 ||btrace.play.ptyg.gitv.tv^$important
 ||mtrace.play.aiseet.atianqi.com^$important
+||btrace.play.aiseet.atianqi.com^$important
 ||feed-7121.feedfinder23.info^$important
 ||whartfidalgo.life^$important
 ||bergculpae.life^$important
@@ -184,7 +188,6 @@
 ||hbevents.mz.unity3d.com^$important
 ||g-api.ekatox.com^$important
 ||acs.m.taobao.com^$important
-||mtrace.play.ptyg.gitv.tv^$important
 ||dollarsurveysuccess.top^$important
 ||ramtoto.com^$important
 ||heylink.me^$important
@@ -429,9 +432,6 @@
 ||o468184.ingest.sentry.io^$important
 ||se-new-cdn-ap-northeast-2a-hb.rayjump.com^$important
 ||vg-aws-cdn-us-east-1a-hb.rayjump.com^$important
-||us01-cdn.rayjump.com^$important
-||sg01-cdn.rayjump.com^$important
-||net-se-cdn.rayjump.com^$important
 ||prod.log.shortbread.aws.dev^$important
 ||me-ads.org^$important
 ||s16-12668.ap4r.com^$important
@@ -442,27 +442,16 @@
 ||indosat.ncnd.services^$important
 ||geordieapojove.life^$important
 ||loucegle.net^$important
-||btrace.play.aiseet.atianqi.com^$important
 ||littlecdn.com^$important
 ||m.sohu.com^$important
 ||lib1.biz^$important
 ||dm06.biz^$important
 ||appconf.heytapdownload.com^$important
-||push-rtmp-l1-va01.tiktokcdn.com^$important
-||push-rtmp-l1-va01.tiktokcdn.com.wsdvs.com^$important
-||push-rtmp-f5-va01.tiktokcdn.com^$important
-||push-rtmp-l16-va01.tiktokcdn.com^$important
-||push-rtmp-f5-va01.tiktokcdn.com.c.bytetcdn.com^$important
 ||push-fcdn-self-oversea.s.bytetcdn.com^$important
-||push-rtmp-l16-va01.tiktokcdn.com.relvesta.com^$important
-||push-rtmp-l16-va01.tiktokcdn.com.atomile.com^$important
-||push-rtmp-l1-va01.tiktokcdn.com.wsdvs.com^$important
+||hcdnl.push-rtmps.ovc.gslb.rocket-cdn.com^$important
 ||push.apple.com^$important
 ||push.meetyouintl.com^$important
 ||pushservice.info^$important
-||push-rtmp-l10-gcp01.tiktokcdn.com^$important
-||push-rtmp-l10-gcp01.tiktokcdn.com.rocket-cdn.com^$important
-||hcdnl.push-rtmps.ovc.gslb.rocket-cdn.com^$important
 ||push.9458.com^$important
 ||pangolin16.sgsnssdk.com.ttdns2.com^$important
 ||hitlog-subdomain.viva.co.id^$important
@@ -557,9 +546,6 @@
 ||bwukxn.com^
 ||xnxx-cdn.com^
 ||mypage.blocked.bltsel^
-||push-rtmp-l10-gcp01.tiktokcdn.com^
-||hcdnl.push-rtmps.ovc.gslb.rocket-cdn.com^
-||push-rtmp-l10-gcp01.tiktokcdn.com.rocket-cdn.com^
 ||ws-ap1.pusher.com^
 ||cdn.getads.cn^
 ||aws-api.kibads.com^
@@ -581,10 +567,6 @@
 ||arbiku.com^
 ||location-traceroute-sg.bytedance.com^
 ||vibeaconstr.onezapp.com
-||htrace.wetvinfo.com^
-||mtrace.wetvinfo.com^
-||btrace.wetvinfo.com^
-||vtrace.wetvinfo.com^
 ||events.backtrace.io^
 ||sync.bav.baidu.com^
 ||acs.maribacaberita.com^

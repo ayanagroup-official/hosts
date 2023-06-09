@@ -110,6 +110,8 @@
 ||*.120.152.192.in-addr.arpa^$important
 ||*.132.172.192.in-addr.arpa^$important
 # Title : General, Log & Others
+||*.ads.heytapmobi.com^
+||*.ads.heytapmobile.com^
 ||*.appmeasurements.com^$important
 ||*.appmeasurements.com^$important
 ||*.ingest.sentry.io^$important

@@ -10,8 +10,10 @@
 ||adult^
 ||webcam^
 # Regex Reguler
-/log-*/
 /ads-*/
+/log-*/
+/analytics./
+/telemetry./
 /[0-9]*.rsc.cdn77.org/
 /vulcan[0-9].branch.io/
 /conn[0-9].oppomobile.com/
@@ -93,6 +95,8 @@
 ||*.hk.pool.ntp.org^$important
 ||*.sg.pool.ntp.org^$important
 ||*.us.pool.ntp.org^$important
+||ads.*^
+||log.*^
 ||uki-mobile-log.oss-cn-hangzhou.aliyuncs.com^$important
 ||configure-tcp.rayjump.com^$important
 ||cst2022.org^$important

@@ -10,8 +10,6 @@
 ||adult^
 ||webcam^
 # Regex Reguler
-/log./
-/ads./
 /[0-9]*.rsc.cdn77.org/
 /vulcan[0-9].branch.io/
 /conn[0-9].oppomobile.com/
@@ -19,6 +17,7 @@
 /logpost[0-9].miniworldgame.com/
 /log-.*.tiktokv.com/
 /mon-.*.tiktokv.com/
+/push.*.tiktokv.com/
 /mssdk-.*.tiktokv.com/
 /log1[0-9]-.*.tiktokv.com/
 /log2[0-9]-.*.tiktokv.com/
@@ -34,13 +33,7 @@
 /conn-service-gl-1[0-9].allawntech.com/
 /conn-service-us-0[0-9].allawntech.com/
 /conn-service-us-1[0-9].allawntech.com/
-/push./
-/.push./
-/analytics./
-/.analytics./
-/telemetry./
-/.telemetry./
-# Regex Porn v1
+# Regex Porn
 /porn.*./
 /bokep.*./
 /xnxx.*./
@@ -49,16 +42,7 @@
 /xhamster.*./
 /xnxx-cdn.*./
 /xvideos-cdn.*./
-# Regex Porn v2
-/.porn./
-/.xnxx./
-/.bokep./
-/.xhcdn./
-/.xvideos./
-/.xhamster./
-/.xnxx-cdn./
-/.xvideos-cdn./
-# Regex Proxy v1
+# Regex Proxy
 /croxyproxy.*./
 /proxysite.*./
 /steganos.*./
@@ -78,26 +62,6 @@
 /genmirror.*./
 /kproxy.*./
 /vpnbook.*./
-# Regex Proxy v2
-/.*.croxyproxy.*./
-/.*.proxysite.*./
-/.*.steganos.*./
-/.*.blockaway.*./
-/.*.proxy.web.id/
-/.*.hidester.*./
-/.*.proxyscrape.*./
-/.*.4everproxy.*./
-/.*.filterbypass.*./
-/.*.proxfree.*./
-/.*.best-server.*./
-/.*.freeproxy.*./
-/.*.unblockyoutube.*./
-/.*.unblockvideos.*./
-/.*.proxypx.*./
-/.*.proxy-youtube.*./
-/.*.genmirror.*./
-/.*.kproxy.*./
-/.*.vpnbook.*./
 # Router Local
 ||*.lan^
 ||*.local^

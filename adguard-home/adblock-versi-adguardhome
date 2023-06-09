@@ -10,6 +10,8 @@
 ||adult^
 ||webcam^
 # Regex Reguler
+/log-*/
+/ads-*/
 /[0-9]*.rsc.cdn77.org/
 /vulcan[0-9].branch.io/
 /conn[0-9].oppomobile.com/
@@ -33,8 +35,8 @@
 /conn-service-gl-1[0-9].allawntech.com/
 /conn-service-us-0[0-9].allawntech.com/
 /conn-service-us-1[0-9].allawntech.com/
-/push.*.tiktokcdn.com/
-/push.*.tiktokcdn-us.com/
+/push-*.tiktokcdn.com/
+/push-*.tiktokcdn-us.com/
 # Regex Porn
 /porn.*./
 /bokep.*./

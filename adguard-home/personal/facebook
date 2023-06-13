@@ -1,5 +1,5 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 3 Juni 2023
+# Last Update : 13 Juni 2023
 # Mode : Adguard Home
 # Title : Facebook
 # Data Buana Nusantara
@@ -63,6 +63,7 @@
 /.*.fkno6-[0-9].fna.fbcdn.net/
 /.*.fplm4-[0-9].fna.fbcdn.net/
 /.*.fjog3-[0-9].fna.fbcdn.net/
+/.*.fcgk43-[0-9].fna.fbcdn.net/
 # Hutchison
 /.*.fcgk1-[0-9].fna.fbcdn.net/
 /.*.fmlg2-[0-9].fna.fbcdn.net/

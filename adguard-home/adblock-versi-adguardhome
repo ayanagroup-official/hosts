@@ -10,8 +10,8 @@
 ||adult^
 ||webcam^
 # Regex Reguler
-/ads-*/
-/log-*/
+/ads-.*./
+/log-.*./
 /analytics./
 /telemetry./
 /stat[0-9].notoldrb.monster/
@@ -38,8 +38,8 @@
 /conn-service-gl-1[0-9].allawntech.com/
 /conn-service-us-0[0-9].allawntech.com/
 /conn-service-us-1[0-9].allawntech.com/
-/push-*.tiktokcdn.com/
-/push-*.tiktokcdn-us.com/
+/push-.*.tiktokcdn.com/
+/push-.*.tiktokcdn-us.com/
 /.*.cdn.rayjump.com/
 /[a-z]trace.wetvinfo.com/
 # Regex Porn

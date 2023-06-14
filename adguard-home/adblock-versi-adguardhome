@@ -1,6 +1,15 @@
 # From : Indonesia
 # Mode : Adguard Home
 # Last Update : 10 Juni 2023
+# Router Local
+||*.lan^
+||*.local^
+||*.itotolink.net^
+||*.www.tendawifi.com^
+||*.ip6.arpa^$important
+||*.10.in-addr.arpa^$important
+||*.16.172.in-addr.arpa^$important
+||*.168.192.in-addr.arpa^$important
 # TLDs the adult 
 ||cam^
 ||xxx^
@@ -12,14 +21,15 @@
 # Regex Reguler
 /ads-.*./
 /log-.*./
-/analytics./
-/telemetry./
+/.*.analytics.*./
+/.*.telemetry.*./
 /stat[0-9].notoldrb.monster/
 /[0-9]*.rsc.cdn77.org/
 /vulcan[0-9].branch.io/
 /conn[0-9].oppomobile.com/
 /[a-z]epodownload.mediatek.com/
 /logpost[0-9].miniworldgame.com/
+/mssdk-.*.tiktok.com/
 /log-.*.tiktokv.com/
 /mon-.*.tiktokv.com/
 /push-.*.tiktokv.com/
@@ -30,6 +40,7 @@
 /mon2[0-9]-.*.tiktokv.com/
 /mssdk1[0-9]-.*.tiktokv.com/
 /mssdk2[0-9]-.*.tiktokv.com/
+/mssdk-.*.byteoversea.com/
 /conn-service-gl-0[0-9].allawnos.com/
 /conn-service-gl-1[0-9].allawnos.com/
 /conn-service-us-0[0-9].allawnos.com/
@@ -42,7 +53,10 @@
 /push-.*.tiktokcdn-us.com/
 /.*.cdn.rayjump.com/
 /[a-z]trace.wetvinfo.com/
-# Regex Porn
+/.*.-appconf-.*.heytapdl.com/
+/[a-z]trace.play.*./
+/s[0-9].histats.com/
+# Regex Porn v1
 /porn.*./
 /bokep.*./
 /xnxx.*./
@@ -51,7 +65,16 @@
 /xhamster.*./
 /xnxx-cdn.*./
 /xvideos-cdn.*./
-# Regex Proxy
+# Regex Porn v2
+/.*.porn.*./
+/.*.bokep.*./
+/.*.xnxx.*./
+/.*.xhcdn.*./
+/.*.xvideos.*./
+/.*.xhamster.*./
+/.*.xnxx-cdn.*./
+/.*.xvideos-cdn.*./
+# Regex Proxy v1
 /croxyproxy.*./
 /proxysite.*./
 /steganos.*./
@@ -71,18 +94,31 @@
 /genmirror.*./
 /kproxy.*./
 /vpnbook.*./
-# Router Local
-||*.lan^
-||*.local^
-||*.itotolink.net^
-||*.www.tendawifi.com^
-||*.ip6.arpa^$important
-||*.10.in-addr.arpa^$important
-||*.16.172.in-addr.arpa^$important
-||*.168.192.in-addr.arpa^$important
-||*.120.152.192.in-addr.arpa^$important
-||*.132.172.192.in-addr.arpa^$important
+# Regex Proxy v2
+/.*.croxyproxy.*./
+/.*.proxysite.*./
+/.*.steganos.*./
+/.*.blockaway.*./
+/.*.proxy.web.id/.*.
+/.*.hidester.*./
+/.*.proxyscrape.*./
+/.*.4everproxy.*./
+/.*.filterbypass.*./
+/.*.proxfree.*./
+/.*.best-server.*./
+/.*.freeproxy.*./
+/.*.unblockyoutube.*./
+/.*.unblockvideos.*./
+/.*.proxypx.*./
+/.*.proxy-youtube.*./
+/.*.genmirror.*./
+/.*.kproxy.*./
+/.*.vpnbook.*./
 # Title : General, Log & Others
+||ads.*^
+||log.*^
+||analytics.*^
+||telemetry.*^
 ||*.ads.heytapdl.com^
 ||*.ads.heytapmobi.com^
 ||*.ads.heytapmobile.com^
@@ -97,8 +133,6 @@
 ||*.sg.pool.ntp.org^$important
 ||*.us.pool.ntp.org^$important
 ||*.palmplaystore.com^$important
-||ads.*^
-||log.*^
 ||v9999.adv.admeme.net^$important
 ||http-intake.logs.datadoghq.com^$important
 ||dfspfypjbxnadsl.com^$important
@@ -109,8 +143,6 @@
 ||bf19405wzd.bf.dynatrace.com^$important
 ||history.google.com^$important
 ||vsmedia.triyakom.me^$important
-||mdp-appconf-us.heytapdl.com^$important
-||mdp-appconf-in.heytapdl.com^$important
 ||suggestqueries.l.google.com^$important
 ||query.ess-apple.com.akadns.net^$important
 ||s.youtube.com^$important
@@ -142,9 +174,6 @@
 ||mp3juices.nu^$important
 ||swearanalogous.com^$important
 ||ssdk.adkmob.jp^$important
-||bizfkwjz^$important
-||sxevghgm^$important
-||jdetysspjo^$important
 ||net77.club^$important
 ||advice-ads.s3.amazonaws.com^$important
 ||fwtracks.freshmarketer.com^$important
@@ -159,8 +188,6 @@
 ||sogou.govwza.cn^$important
 ||wcm-ru.frontend.weborama.fr^$important
 ||an.yandex.ru^$important
-||appconf-sgp.heytapdl.com^$important
-||appconf-ocs-sgp.heytapdl.com^$important
 ||policy-tcp.rayjump.com^$important
 ||vg-aws-cdn-us-east-1b-hb.rayjump.com^$important
 ||mtg-native.rayjump.com^$important
@@ -178,10 +205,6 @@
 ||imapi2.isnssdk.com^$important
 ||1.ssiloc.com^$important
 ||sponsor.ajay.app^$important
-||mtrace.play.ptyg.gitv.tv^$important
-||btrace.play.ptyg.gitv.tv^$important
-||mtrace.play.aiseet.atianqi.com^$important
-||btrace.play.aiseet.atianqi.com^$important
 ||feed-7121.feedfinder23.info^$important
 ||whartfidalgo.life^$important
 ||bergculpae.life^$important
@@ -195,7 +218,6 @@
 ||click.tracksummer.com^$important
 ||wdupxxoljsdhc.com^$important
 ||mon.byteoversea.com^$important
-||in-adreq.vivoglobal.com^$important
 ||global-tokenserver-la.headline.uodoo.com^$important
 ||img.mobon.net^$important
 ||ak.jeekomih.com^$important
@@ -273,7 +295,6 @@
 ||sdk-api.kidoz.net^$important
 ||taigasdoeskin.guru^$important
 ||blroqdhxkury.sh-content.com^$important
-||asia-exmagazineunlock-proxy.vivoglobal.com^$important
 ||aefd.nelreports.net^$important
 ||cdn.unistream.io^$important
 ||greasyfork.org^$important
@@ -306,7 +327,6 @@
 ||highrevenuecpmnetrok.com^
 ||highrevenuecpmnetwork.com^
 ||highrevenuegate.com^
-||s4.histats.com^
 ||nosebleedlonerdays.com^
 ||g-ulog.sg.snackvideo.com^
 ||errors.house^$important
@@ -397,14 +417,12 @@
 ||services.insurads.com^$important
 ||2812.owlskysex.live^$important
 ||browserproxy.vivo.com^$important
-||in-exmagazineunlock-proxy.vivoglobal.com^$important
 ||proxyium.com^$important
 ||proxyf.apps.oppomobile.com^$important
 ||tracker.xstart.click^$important
 ||getdatafrom.top^$important
 ||flexapiserver.ru^$important
 ||ipv6.msftconnecttest.com^$important
-||asia-browserplat.vivoglobal.com^$important
 ||moderningvigil.org^$important
 ||ntoftheusysia.info^$important
 ||ckgroundan.info^$important
@@ -709,10 +727,9 @@
 ||api.flat-ads.com^
 ||adsimg.kompas.com^
 ||match.adsby.bidtheatre.com^
-||cl-data-id.ads.heytapmobi.com^
 ||innovads-server.poster.appsinnova.com^
-||pmklwcbr^
-||ffpiwyqqxj^
+||123.xl.co.id^$important
+||xlaxiata-resources.digital-cloud-sin1.medallia.com^$important
 ||www.sexindrag.com^
 ||www.germansextube.biz^
 ||sex18.fun^
@@ -904,8 +921,7 @@
 ||dt.beyla.site^$important
 ||dzbkjh1.myoppo.com^$important
 ||www.265.com^$important
-||in-joviexscene.vivoglobal.com^$important
-||https://ynuf.aliapp.org/savewb.json?^$important
+||ynuf.aliapp.org^$important
 ||obus-dc20123-sg.heytapmobile.com^$important
 ||uxip-res.meizu.com^$important
 ||api.enginemob.xyz^$important
@@ -950,21 +966,16 @@
 ||stktipxl.com^$important
 ||glouxaih.net^
 ||whbrqgnixueme.com^
-||asia-compnrt-stsdk.vivoglobal.com^
 ||kix-apiv2.kibads.com^
 ||xjp-msgacs.m.taobao.com^
 ||yn.wagbridge.taobao.com^
 ||adx-sg.toponadss.com^
 ||psougoar.com^
 ||cbsusiqkwqxbrmv.com^
-||asia-err-up.vivoglobal.com^
-||asia-commonitor-stsdk.vivoglobal.com^
-||asia-stp.vivoglobal.com^
 ||app-measurement.com^
 ||api.mythad.com^
 ||asia^$important
 ||dragate-sg.dc.oppomobile.com^$important
-||asia-romsp-unifyconfig.vivoglobal.com^$important
 ||linkmonet.com^$important
 ||gsqiynysbvrivpd.com^$important
 ||vxvootaqvugx.com^$important
@@ -987,8 +998,6 @@
 ||pitaya-task-va.tiktokv.com^
 ||mcs-va-useast2a.tiktokv.com^
 ||ad-instantpage.us.tiktokv.com^
-||mssdk-sg-bu.byteoversea.com^
-||mssdk-sg.byteoversea.com^
 ||sc-report.tantanapp.com^
 ||tnc31-normal-alisg.isnssdk.com^
 ||cdn.content.prod.cms.msn.com^
@@ -1011,7 +1020,6 @@
 ||www.nozokuba.pro^$important
 ||bananalicious.xyz^$important
 ||human-tarantula-wy3gj0btg9vmv5qgdfoaab1p.herokudns.com^$important
-||mssdk-sg.tiktok.com^$important
 ||www.dogpile.com^$important
 ||s.flocdn.com^$important
 ||kkuodlkfapuw.com^$important
@@ -1019,13 +1027,25 @@
 ||youfindadate.top^$important
 ||jandaqu.xyz^$important
 ||aseeboftsurvey.space^$important
-||asia-comprt-stsdk.vivoglobal.com^$important
-||asia-vcode-or.vivoglobal.com^$important
-||domaincfg.vivoglobal.com^$important
 ||userstats.iris.touchtype-fluency.com^$important
 ||swiftkey-android.iris.touchtype-fluency.com^$important
 ||geo-applefinance-cache.internal.query.g03.yahoodns.net^$important
 ||ww55.affinity.net^$important
+# [ Vivo Global ]
+||asia-comprt-stsdk.vivoglobal.com^$important
+||asia-vcode-or.vivoglobal.com^$important
+||domaincfg.vivoglobal.com^$important
+||asia-romsp-unifyconfig.vivoglobal.com^$important
+||asia-err-up.vivoglobal.com^
+||asia-commonitor-stsdk.vivoglobal.com^
+||asia-stp.vivoglobal.com^
+||asia-compnrt-stsdk.vivoglobal.com^
+||in-joviexscene.vivoglobal.com^$important
+||asia-browserplat.vivoglobal.com^$important
+||asia-exmagazineunlock-proxy.vivoglobal.com^$important
+||in-adreq.vivoglobal.com^$important
+||in-exmagazineunlock-proxy.vivoglobal.com^$important
+# [ Allawnos ]
 ||icosa-service-sg.allawnos.com^$important
 ||rus-service-sg.allawnos.com^$important
 ||classify-app-sg.allawnos.com^$important
@@ -1033,5 +1053,3 @@
 ||iot-earbuds-sg.allawnos.com^$important
 ||ota-recruit-sg.allawnos.com^$important
 ||moa-upload-sg.allawnos.com^$important
-||123.xl.co.id^$important
-||xlaxiata-resources.digital-cloud-sin1.medallia.com^$important

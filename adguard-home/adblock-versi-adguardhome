@@ -123,7 +123,6 @@
 ||*.ads.heytapmobi.com^
 ||*.ads.heytapmobile.com^
 ||*.appmeasurements.com^$important
-||*.appmeasurements.com^$important
 ||*.ingest.sentry.io^$important
 ||*.surahusa.beauty^$important
 ||*.rcs.telephony.goog^$important

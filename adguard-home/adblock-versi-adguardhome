@@ -24,7 +24,7 @@
 /.*.analytics.*./
 /.*.telemetry.*./
 /stat[0-9].notoldrb.monster/
-/[0-9]*.rsc.cdn77.org/
+/[0-9].rsc.cdn77.org/
 /vulcan[0-9].branch.io/
 /conn[0-9].oppomobile.com/
 /[a-z]epodownload.mediatek.com/

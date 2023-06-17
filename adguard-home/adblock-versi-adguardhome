@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 14 Juni 2023
+# Last Update : 17 Juni 2023
 # Router Local
 ||*.lan^
 ||*.local^
@@ -11,13 +11,13 @@
 ||*.16.172.in-addr.arpa^$important
 ||*.168.192.in-addr.arpa^$important
 # TLDs the adult 
-||cam^
-||xxx^
-||porn^
-||sex^
-||sexy^
-||adult^
-||webcam^
+||*.cam^
+||*.xxx^
+||*.porn^
+||*.sex^
+||*.sexy^
+||*.adult^
+||*.webcam^
 # Regex Reguler
 /ads-.*./
 /log-.*./
@@ -137,7 +137,6 @@
 ||dfspfypjbxnadsl.com^$important
 ||hitlog.antvklik.com^$important
 ||client-remote-logs.prod.topeleven.com^$important
-||s.a016967c8c783c38e555ae97b38fe0566ad9b398d255e32e833f160d.com^$important
 ||aras-official.com^$important
 ||bf19405wzd.bf.dynatrace.com^$important
 ||history.google.com^$important
@@ -196,8 +195,8 @@
 ||lds.lenovomm.com^$important
 ||wp-log.api.useinsider.com^$important
 ||survey-site.com^$important
-||www.latestgrowing.com^$important
-||www.litatom.com^$important
+||latestgrowing.com^$important
+||litatom.com^$important
 ||kapi.kakao.com^$important
 ||ichannel.sgsnssdk.com^$important
 ||i-sg01a.ocloud.heytapmobi.com^$important
@@ -290,7 +289,7 @@
 ||l1s.strn.pl^$important
 ||ynuf.aliapp.org^$important
 ||proxy.api.jixie.media^$important
-||www.toutiao.com^$important
+||toutiao.com^$important
 ||tnc16-alisg.byteoversea.com^$important
 ||sdk-api.kidoz.net^$important
 ||taigasdoeskin.guru^$important
@@ -374,7 +373,7 @@
 ||animeplay.dev^$important
 ||conf.piojm.tech^
 ||gw-dana.ebuckler.com^
-||www.indo18.com^
+||indo18.com^
 ||bioskoponline.com^
 ||avtub.red^
 ||uphewoab.net^
@@ -400,7 +399,7 @@
 ||frontier.byteoversea.com^$important
 ||gsdk-va.bytegsdk.com^$important
 ||gpm-mon-va.bytegsdk.com^$important
-||www.msn.com^$important
+||msn.com^$important
 ||fsr.lenovomm.com^$important
 ||d3vk40ihlliju7.cloudfront.net^$important
 ||fancifylucific.guru^$important
@@ -460,8 +459,8 @@
 ||sgp-tracker.dropz-k.com^$important
 ||tracking.overwolf.com^$important
 ||adserver.html.it^$important
-||www.installads.net^$important
-||www.taobao.com^$important
+||installads.net^$important
+||taobao.com^$important
 ||h-adashx4sg.ut.taobao.com^$important
 ||surl.li^$important
 ||sh0w-me-how.net^$important
@@ -481,7 +480,7 @@
 ||global-news-blog.com^$important
 ||dedv3s8rtnohh.cloudfront.net^$important
 ||gos-api.gos-gsp.io^$important
-||www.afasterinternet.com^$important
+||afasterinternet.com^$important
 ||puzdata.youxi567.com^$important
 ||hmma.baidu.com^$important
 ||openrcv.baidu.com^$important
@@ -566,7 +565,6 @@
 ||droppalpateraft.com^$important
 ||pettishhansom.digital^$important
 ||public-dns-a.baidu.com^$important
-# Log
 ||an-sm-log.tantanapp.com^$important
 ||lgs-log.wapcar.com^$important
 ||app-log-lab.tantanapp.com^$important
@@ -655,7 +653,7 @@
 ||tracking.ksztone.com^
 ||static.creatives.richads.com^
 ||hadsucma.com^
-||www.adsnebula.com^
+||adsnebula.com^
 ||xjp-jmacs.m.taobao.com^
 ||adsjuaralive.netlify.app^
 ||ads.pusatiklan.my.id^
@@ -670,7 +668,7 @@
 ||msadsscale.azureedge.net^
 ||adx-tracking.rcoreads.com^
 ||rtb.getads.cn^
-||www.simfamilysex.com^
+||simfamilysex.com^
 ||adx.adsgaga.com^
 ||ads-management.punchapp.in^
 ||portal.ncnd.indosatooredoo.com^
@@ -710,7 +708,7 @@
 ||eu.freshpops.net^
 ||roumucee.com^
 ||ads.kompas.id^
-||www.popads.me^
+||popads.me^
 ||myads.id^
 ||adseneca.com^
 ||ads.maskoding.com^
@@ -718,7 +716,7 @@
 ||cache.sharepads.me^
 ||adsotakatiklive.netlify.app^
 ||adserve.terbaru.cyou^
-||www.adscontrol.xyz^
+||adscontrol.xyz^
 ||sgads.molilexue.com^
 ||chavoads.com^
 ||api.flat-ads.com^
@@ -727,27 +725,27 @@
 ||innovads-server.poster.appsinnova.com^
 ||123.xl.co.id^$important
 ||xlaxiata-resources.digital-cloud-sin1.medallia.com^$important
-||www.sexindrag.com^
-||www.germansextube.biz^
+||sexindrag.com^
+||germansextube.biz^
 ||sex18.fun^
-||www.7sexvideos.com^
+||7sexvideos.com^
 ||hqsexmov.com^
-||www.7xxxsexmovies.com^
-||www.largesexclips.com^
+||7xxxsexmovies.com^
+||largesexclips.com^
 ||xnxx-sex.pro^
-||www.sexstories.com^
-||www.asexclips.com^
-||www.bbwsexv.com^
-||www.lesbiansexq.com^
-||www.indiansexq.com^
-||www.ebonysexv.com^
-||www.ibbwsex.com^
-||www.maturesexq.com^
-||www.gaysexq.com^
-||www.shemalesexq.com^
+||sexstories.com^
+||asexclips.com^
+||bbwsexv.com^
+||lesbiansexq.com^
+||indiansexq.com^
+||ebonysexv.com^
+||ibbwsex.com^
+||maturesexq.com^
+||gaysexq.com^
+||shemalesexq.com^
 ||jewelsextube.com^
 ||zoomsextube.com^
-||www.tubesexhub.com^
+||tubesexhub.com^
 ||tamilsex.desi^
 ||xnxx-java.com^
 ||upspinarakor.com^
@@ -758,7 +756,7 @@
 ||api.saasexch.cc^
 ||xnxx.joxtube.com^
 ||xnxx-19cdd.kxcdn.com^
-||www.surveymonkey.com^
+||surveymonkey.com^
 ||secure.surveymonkey.com^
 ||surveymonkey-assets.s3.amazonaws.com^
 ||analytics-producer.twibbonize.com^
@@ -789,7 +787,7 @@
 ||qyiiukkvqki.com^
 ||itecoust.com^
 ||wowfsxilpfmsv.com^
-||www.myjevkjiumtbrq.com^
+||myjevkjiumtbrq.com^
 ||qmnjfaqxkhukwee.com^
 ||for-j.com^
 ||bi.noxgroup.com^
@@ -802,9 +800,9 @@
 ||bc.game^
 ||wiurydcoe.com^
 ||booptuwa.net^
-||www.xvuslink.com^
+||xvuslink.com^
 ||aiqidwcfrm.com^
-||www.ralali.com^
+||ralali.com^
 ||kuotahabis.tri.co.id^
 ||se19.biz^
 ||wwwtwiter.co.id^
@@ -827,7 +825,7 @@
 ||ax.bekkoumpirer.com^
 ||c.adsco.re^
 ||ak.hetapus.com^
-||www.ralali.com^
+||ralali.com^
 ||svr.d.carystudio.com^
 ||pumpaiss.net^
 ||datatechone.com^
@@ -856,7 +854,7 @@
 ||crl.prod.cagenerator.pki.strln.net^
 ||3xplanetimg.com^$important
 ||nonecss.com^$important
-||www.javmost.cx^$important
+||javmost.cx^$important
 ||vanfem.com^$important
 ||otillor.space^$important
 ||yr.blamsskunk.com^$important
@@ -866,11 +864,11 @@
 ||id.spankbang.com^
 ||indojavstream.com^
 ||tracker-beam.tempo.co^$important
-||www.instantweb.site^$important
+||instantweb.site^$important
 ||cmdts.ksmobile.com^$important
 ||mr.crplt.com^$important
-||www.pullcf.com^$important
-||www.pullcm.com^$important
+||pullcf.com^$important
+||pullcm.com^$important
 ||qeiqtezeml^$important
 ||jetengine.it^$important
 ||subs26-15.three.co.id^$important
@@ -880,18 +878,18 @@
 ||thaudray.com^$important
 ||image.bannermovie.online^$important
 ||indofilm99.disqus.com^$important
-||www.pennlive.com^$important
+||pennlive.com^$important
 ||nxst.megpxs.com^$important
-||www.texomashomepage.com^$important
-||www.deseret.com^$important
+||texomashomepage.com^$important
+||deseret.com^$important
 ||deseret.brightspotcdn.com^$important
 ||use.typekit.net^$important
 ||uploads.deseret.com^$important
 ||deseretnews.coral.coralproject.net^$important
 ||api.deseret.com^$important
-||www.fox23.com^$important
-||www.sacbee.com^$important
-||www.modbee.com^$important
+||fox23.com^$important
+||sacbee.com^$important
+||modbee.com^$important
 ||aigligno.net^$important
 ||querlfurcal.com^$important
 ||thetchaixoo.com^$important
@@ -915,7 +913,7 @@
 ||mcds.wshareit.com^$important
 ||dt.beyla.site^$important
 ||dzbkjh1.myoppo.com^$important
-||www.265.com^$important
+||265.com^$important
 ||ynuf.aliapp.org^$important
 ||obus-dc20123-sg.heytapmobile.com^$important
 ||uxip-res.meizu.com^$important
@@ -932,9 +930,9 @@
 ||proxysite.one^$important
 ||croxyproxy.com^$important
 ||my-proxy.com^$important
-||www.croxyproxy.com^$important
-||www.my-proxy.com^$important
-||www.proxysite.com^$important
+||croxyproxy.com^$important
+||my-proxy.com^$important
+||proxysite.com^$important
 ||receiver-metis.infeng.site^$important
 ||cdp-common-id.heytapmobile.com^$important
 ||pubserver8.bizport.cn^$important
@@ -952,7 +950,7 @@
 ||travelblues.online^$important
 ||highload.to^$important
 ||ir3.xyz^$important
-||www.piaproxy.com^$important
+||piaproxy.com^$important
 ||idgameware.com^$important
 ||affbank.com^$important
 ||stktipxl.com^$important
@@ -1009,10 +1007,10 @@
 ||panenjamu.xyz^$important
 ||fcbhwuscwbdegkb.com^$important
 ||offergate-apps-pubrel.com^$important
-||www.nozokuba.pro^$important
+||nozokuba.pro^$important
 ||bananalicious.xyz^$important
 ||human-tarantula-wy3gj0btg9vmv5qgdfoaab1p.herokudns.com^$important
-||www.dogpile.com^$important
+||dogpile.com^$important
 ||s.flocdn.com^$important
 ||kkuodlkfapuw.com^$important
 ||invl.io^$important

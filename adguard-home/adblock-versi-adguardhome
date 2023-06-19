@@ -114,6 +114,9 @@
 /.*.genmirror.*./
 /.*.kproxy.*./
 /.*.vpnbook.*./
+# Time
+||*.pool.ntp.org^$important
+@@||*.id.pool.ntp.org^$important
 # Title : General, Log & Others
 ||ads.*^
 ||log.*^
@@ -126,11 +129,7 @@
 ||*.ingest.sentry.io^$important
 ||*.surahusa.beauty^$important
 ||*.rcs.telephony.goog^$important
-||*.files.wordpress.com^$important
 ||*.cn.pool.ntp.org^$important
-||*.hk.pool.ntp.org^$important
-||*.sg.pool.ntp.org^$important
-||*.us.pool.ntp.org^$important
 ||*.palmplaystore.com^$important
 ||v9999.adv.admeme.net^$important
 ||http-intake.logs.datadoghq.com^$important

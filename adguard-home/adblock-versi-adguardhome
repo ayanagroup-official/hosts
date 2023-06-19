@@ -114,8 +114,9 @@
 /.*.genmirror.*./
 /.*.kproxy.*./
 /.*.vpnbook.*./
-# Time
+# NTP
 ||*.pool.ntp.org^$important
+@@||www.pool.ntp.org^$important
 @@||*.id.pool.ntp.org^$important
 # Title : General, Log & Others
 ||ads.*^

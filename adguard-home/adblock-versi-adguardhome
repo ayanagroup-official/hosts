@@ -41,6 +41,7 @@
 /mssdk1[0-9]-.*.tiktokv.com/
 /mssdk2[0-9]-.*.tiktokv.com/
 /mssdk-.*.byteoversea.com/
+/push-.*.s.bytetcdn.com/
 /conn-service-gl-0[0-9].allawnos.com/
 /conn-service-gl-1[0-9].allawnos.com/
 /conn-service-us-0[0-9].allawnos.com/
@@ -75,44 +76,28 @@
 /.*.xnxx-cdn.*./
 /.*.xvideos-cdn.*./
 # Regex Proxy v1
-/croxyproxy.*./
-/proxysite.*./
+/proxy.*./
 /steganos.*./
 /blockaway.*./
-/proxy.web.id/
 /hidester.*./
-/proxyscrape.*./
-/4everproxy.*./
 /filterbypass.*./
 /proxfree.*./
 /best-server.*./
-/freeproxy.*./
 /unblockyoutube.*./
 /unblockvideos.*./
-/proxypx.*./
-/proxy-youtube.*./
 /genmirror.*./
-/kproxy.*./
 /vpnbook.*./
 # Regex Proxy v2
-/.*.croxyproxy.*./
-/.*.proxysite.*./
+/.*.proxy.*./
 /.*.steganos.*./
 /.*.blockaway.*./
-/.*.proxy.web.id/.*.
 /.*.hidester.*./
-/.*.proxyscrape.*./
-/.*.4everproxy.*./
 /.*.filterbypass.*./
 /.*.proxfree.*./
 /.*.best-server.*./
-/.*.freeproxy.*./
 /.*.unblockyoutube.*./
 /.*.unblockvideos.*./
-/.*.proxypx.*./
-/.*.proxy-youtube.*./
 /.*.genmirror.*./
-/.*.kproxy.*./
 /.*.vpnbook.*./
 # NTP
 ||*.pool.ntp.org^$important
@@ -123,6 +108,7 @@
 ||log.*^
 ||analytics.*^
 ||telemetry.*^
+||*.rayjump.com^
 ||*.ads.heytapdl.com^
 ||*.ads.heytapmobi.com^
 ||*.ads.heytapmobile.com^
@@ -165,7 +151,6 @@
 ||newupdatev08.com^$important
 ||advertiser.inmobiapis.com^$important
 ||uki-mobile-log.oss-cn-hangzhou.aliyuncs.com^$important
-||configure-tcp.rayjump.com^$important
 ||cst2022.org^$important
 ||trustwebimportant.fun^$important
 ||mp3juices.nu^$important
@@ -175,7 +160,6 @@
 ||advice-ads.s3.amazonaws.com^$important
 ||fwtracks.freshmarketer.com^$important
 ||beacon.cdn.qq.com^$important
-||se-new-cdn-ap-northeast-2c-hb.rayjump.com^$important
 ||event.maribacaberita.com^$important
 ||event.inibaruberita.com^$important
 ||wap.sogou.com^$important
@@ -185,10 +169,6 @@
 ||sogou.govwza.cn^$important
 ||wcm-ru.frontend.weborama.fr^$important
 ||an.yandex.ru^$important
-||policy-tcp.rayjump.com^$important
-||vg-aws-cdn-us-east-1b-hb.rayjump.com^$important
-||mtg-native.rayjump.com^$important
-||mtg-h5.rayjump.com^$important
 ||tdsdk.cpatrk.net^$important
 ||lds.lenovomm.com^$important
 ||wp-log.api.useinsider.com^$important
@@ -229,7 +209,6 @@
 ||img.cdn.baca.co.id^$important
 ||icosa-sg.coloros.com^$important
 ||classify-f.apps.coloros.com^$important
-||lazy-tcp.rayjump.com^$important
 ||xtrapath3.izatcloud.net^$important
 ||time.izatcloud.net^$important
 ||prod.geo.gluops.com^$important
@@ -265,7 +244,6 @@
 ||mo23.biz^$important
 ||oleaclub.live^$important
 ||trends.search-hub.co^$important
-||check-tcp.rayjump.com^$important
 ||igcdn.xyz^$important
 ||sdk-01.moengage.com^$important
 ||app.ldrinkair.com^$important
@@ -286,7 +264,6 @@
 ||co.dewrain.site^$important
 ||l1s.strn.pl^$important
 ||ynuf.aliapp.org^$important
-||proxy.api.jixie.media^$important
 ||toutiao.com^$important
 ||tnc16-alisg.byteoversea.com^$important
 ||sdk-api.kidoz.net^$important
@@ -413,9 +390,6 @@
 ||ads-segment-profile-noneu.truecaller.com^$important
 ||services.insurads.com^$important
 ||2812.owlskysex.live^$important
-||browserproxy.vivo.com^$important
-||proxyium.com^$important
-||proxyf.apps.oppomobile.com^$important
 ||tracker.xstart.click^$important
 ||getdatafrom.top^$important
 ||flexapiserver.ru^$important
@@ -487,12 +461,9 @@
 ||4ad891ea55c5.cdn4.forter.com^$important
 ||north-america.pool.ntp.org^$important
 ||o468184.ingest.sentry.io^$important
-||se-new-cdn-ap-northeast-2a-hb.rayjump.com^$important
-||vg-aws-cdn-us-east-1a-hb.rayjump.com^$important
 ||prod.log.shortbread.aws.dev^$important
 ||me-ads.org^$important
 ||s16-12668.ap4r.com^$important
-||configure-tcp-android.rayjump.com^$important
 ||g-kcdn.ap4r.com^$important
 ||bid.adsinteractive.com^$important
 ||bestmaxfield.com^$important
@@ -504,7 +475,6 @@
 ||lib1.biz^$important
 ||dm06.biz^$important
 ||appconf.heytapdownload.com^$important
-||push-fcdn-self-oversea.s.bytetcdn.com^$important
 ||hcdnl.push-rtmps.ovc.gslb.rocket-cdn.com^$important
 ||push.apple.com^$important
 ||push.meetyouintl.com^$important
@@ -923,14 +893,6 @@
 ||obus-dc2-sg.heytapmobile.com^$important
 ||conf-sg.dc.heytapmobi.com^$important
 ||api-gl.cdo.heytapmobi.com^$important
-||vpnproxy.site^$important
-||proxysite.com^$important
-||proxysite.one^$important
-||croxyproxy.com^$important
-||my-proxy.com^$important
-||croxyproxy.com^$important
-||my-proxy.com^$important
-||proxysite.com^$important
 ||receiver-metis.infeng.site^$important
 ||cdp-common-id.heytapmobile.com^$important
 ||pubserver8.bizport.cn^$important
@@ -948,7 +910,6 @@
 ||travelblues.online^$important
 ||highload.to^$important
 ||ir3.xyz^$important
-||piaproxy.com^$important
 ||idgameware.com^$important
 ||affbank.com^$important
 ||stktipxl.com^$important
@@ -976,7 +937,6 @@
 ||metrics.icloud.com^
 ||ads.pinterest.com^
 ||ads.twitter.com^
-||proxy.web.id^
 ||ib.tiktokv.com^
 ||mcs-va.tiktokv.com^
 ||pitaya.tiktokv.com^
@@ -1030,9 +990,7 @@
 ||asia-compnrt-stsdk.vivoglobal.com^
 ||in-joviexscene.vivoglobal.com^$important
 ||asia-browserplat.vivoglobal.com^$important
-||asia-exmagazineunlock-proxy.vivoglobal.com^$important
 ||in-adreq.vivoglobal.com^$important
-||in-exmagazineunlock-proxy.vivoglobal.com^$important
 # [ Allawnos ]
 ||icosa-service-sg.allawnos.com^$important
 ||rus-service-sg.allawnos.com^$important

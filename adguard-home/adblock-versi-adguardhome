@@ -76,7 +76,6 @@
 /.*.xnxx-cdn.*./
 /.*.xvideos-cdn.*./
 # Regex Proxy v1
-/proxy.*./
 /steganos.*./
 /blockaway.*./
 /hidester.*./
@@ -88,7 +87,6 @@
 /genmirror.*./
 /vpnbook.*./
 # Regex Proxy v2
-/.*.proxy.*./
 /.*.steganos.*./
 /.*.blockaway.*./
 /.*.hidester.*./

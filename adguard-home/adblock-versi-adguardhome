@@ -23,6 +23,15 @@
 /log-.*./
 /.*.analytics.*./
 /.*.telemetry.*./
+/server1[0-9].porekosa.*./
+/server2[0-9].porekosa.*./
+/server3[0-9].porekosa.*./
+/server4[0-9].porekosa.*./
+/server5[0-9].porekosa.*./
+/server6[0-9].porekosa.*./
+/server7[0-9].porekosa.*./
+/server8[0-9].porekosa.*./
+/server9[0-9].porekosa.*./
 /stat[0-9].notoldrb.monster/
 /[0-9].rsc.cdn77.org/
 /vulcan[0-9].branch.io/
@@ -652,8 +661,6 @@
 ||klik.gg^
 ||cek.to^
 ||fpwvbofpa.com^
-||server25.porekosa.cloud^
-||server42.porekosa.cloud^
 ||semawur.com^
 ||server25.hoyukoda.click^
 ||server46.hoyukoda.click^

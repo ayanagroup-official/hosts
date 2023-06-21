@@ -85,26 +85,46 @@
 /.*.xnxx-cdn.*./
 /.*.xvideos-cdn.*./
 # Regex Proxy v1
+/croxyproxy.*./
+/proxysite.*./
+/proxy.*./
 /steganos.*./
 /blockaway.*./
+/proxy.web.id/
 /hidester.*./
+/proxyscrape.*./
+/4everproxy.*./
 /filterbypass.*./
 /proxfree.*./
 /best-server.*./
+/freeproxy.*./
 /unblockyoutube.*./
 /unblockvideos.*./
+/proxypx.*./
+/proxy-youtube.*./
 /genmirror.*./
+/kproxy.*./
 /vpnbook.*./
 # Regex Proxy v2
+/.*.croxyproxy.*./
+/.*.proxysite.*./
+/.*.proxy.*./
 /.*.steganos.*./
 /.*.blockaway.*./
+/.*.proxy.web.id/.*.
 /.*.hidester.*./
+/.*.proxyscrape.*./
+/.*.4everproxy.*./
 /.*.filterbypass.*./
 /.*.proxfree.*./
 /.*.best-server.*./
+/.*.freeproxy.*./
 /.*.unblockyoutube.*./
 /.*.unblockvideos.*./
+/.*.proxypx.*./
+/.*.proxy-youtube.*./
 /.*.genmirror.*./
+/.*.kproxy.*./
 /.*.vpnbook.*./
 # NTP
 ||*.pool.ntp.org^$important

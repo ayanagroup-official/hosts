@@ -18,6 +18,7 @@
 ||*.sexy^
 ||*.adult^
 ||*.webcam^
+||*.casino^
 # Regex Reguler
 /ads-.*./
 /log-.*./

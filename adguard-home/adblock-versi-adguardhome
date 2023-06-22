@@ -145,8 +145,10 @@
 ||*.surahusa.beauty^$important
 ||*.rcs.telephony.goog^$important
 ||*.palmplaystore.com^$important
+||*.logs.datadoghq.com^$important
+||*.log.shortbread.aws.dev^$important
+||*.ads.global-fashion-group.com^
 ||v9999.adv.admeme.net^$important
-||http-intake.logs.datadoghq.com^$important
 ||dfspfypjbxnadsl.com^$important
 ||hitlog.antvklik.com^$important
 ||client-remote-logs.prod.topeleven.com^$important
@@ -489,7 +491,6 @@
 ||4ad891ea55c5.cdn4.forter.com^$important
 ||north-america.pool.ntp.org^$important
 ||o468184.ingest.sentry.io^$important
-||prod.log.shortbread.aws.dev^$important
 ||me-ads.org^$important
 ||s16-12668.ap4r.com^$important
 ||g-kcdn.ap4r.com^$important
@@ -636,7 +637,6 @@
 ||sg.samsunggeopush.com^
 ||adserver-application-1415734552.us-east-1.elb.amazonaws.com^
 ||atrace-api.palmplaystore.com^
-||api.ads.global-fashion-group.com^
 ||smp-cnprd-elb-dc-1304740619.cn-northwest-1.elb.amazonaws.com.cn^
 ||degbudvzlhlfs.cloudfront.net^
 ||apac.trk.svr-algorix.com^

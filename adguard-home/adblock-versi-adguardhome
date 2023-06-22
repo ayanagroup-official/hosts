@@ -22,7 +22,6 @@
 # Regex Reguler
 /ads-.*./
 /log-.*./
-/togel.*./
 /.*.togel.*./
 /.*.analytics.*./
 /.*.telemetry.*./
@@ -136,6 +135,7 @@
 # Title : General, Log & Others
 ||ads.*^
 ||log.*^
+||togel.*^
 ||analytics.*^
 ||telemetry.*^
 ||*.rayjump.com^

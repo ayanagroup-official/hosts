@@ -22,6 +22,8 @@
 # Regex Reguler
 /ads-.*./
 /log-.*./
+/togel.*./
+/.*.togel.*./
 /.*.analytics.*./
 /.*.telemetry.*./
 /server1[0-9].porekosa.*./

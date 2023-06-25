@@ -141,6 +141,17 @@
 ||obus-dc20123-sg.heytapmobile.com^$important
 ||cdp-common-id.heytapmobile.com^$important
 ||datasec-kmsex-sg.heytapmobi.com^$important
+# ByteCDN
+||gsdk-va.bytegsdk.com^$important
+||gpm-mon-va.bytegsdk.com^$important
+||frontier.byteoversea.com^$important
+||dm16.byteoversea.com^$important
+||dm-maliva16.byteoversea.com^$important
+||dm.byteoversea.com^$important
+||mon.byteoversea.com^$important
+||v16-ad.byteoversea.com^$important
+||log-va.bytegsdk.com^
+||api16-log-sg.pangle-b.io.bytewlb.akadns.net^
 # Title : General, Log & Others
 ||ads.*^
 ||log.*^
@@ -163,6 +174,7 @@
 ||*.logs.datadoghq.com^$important
 ||*.log.shortbread.aws.dev^$important
 ||*.ads.global-fashion-group.com^
+||*._https.browser-inspect.com^$important
 ||v9999.adv.admeme.net^$important
 ||dfspfypjbxnadsl.com^$important
 ||hitlog.antvklik.com^$important
@@ -233,11 +245,9 @@
 ||ribumpin.com^$important
 ||sdk.atomhike.com^$important
 ||t21.press^$important
-||v16-ad.byteoversea.com^$important
 ||shugnais.net^$important
 ||click.tracksummer.com^$important
 ||wdupxxoljsdhc.com^$important
-||mon.byteoversea.com^$important
 ||global-tokenserver-la.headline.uodoo.com^$important
 ||img.mobon.net^$important
 ||ak.jeekomih.com^$important
@@ -245,9 +255,7 @@
 ||vpnkit.tech^$important
 ||easyasvpn.com^$important
 ||track.xdisctracking.pw^$important
-||go.easyasvpn.com^$important
 ||browser-inspect.com^$important
-||_8000._https.browser-inspect.com^$important
 ||www-stream.2345cdn.net^$important
 ||img.cdn.baca.co.id^$important
 ||icosa-sg.coloros.com^$important
@@ -289,7 +297,6 @@
 ||igcdn.xyz^$important
 ||sdk-01.moengage.com^$important
 ||app.ldrinkair.com^$important
-||api.bytegle.tech^$important
 ||api.anythinktech.com^$important
 ||d.mwsrv.com^$important
 ||api.howlapm.com^$important
@@ -307,7 +314,6 @@
 ||l1s.strn.pl^$important
 ||ynuf.aliapp.org^$important
 ||toutiao.com^$important
-||tnc16-alisg.byteoversea.com^$important
 ||sdk-api.kidoz.net^$important
 ||taigasdoeskin.guru^$important
 ||blroqdhxkury.sh-content.com^$important
@@ -318,9 +324,6 @@
 ||browser.cdn.intl.miui.com^$important
 ||sp-766ec786.honzik.avcdn.net^$important
 ||sf16-static.i18n-pglstatp.com^$important
-||dm-maliva16.byteoversea.com^$important
-||dm.byteoversea.com^$important
-||tnc16-useast1a.byteoversea.com^$important
 ||static.api.baca.co.id^$important
 ||easytomessage.com^$important
 ||apd-d5ba75f0193cb0b554107927338979eb.v.smtcdns.com^$important
@@ -328,12 +331,10 @@
 ||attr.appsflyersdk.com^$important
 ||gdl.news-cdn.site^$important
 ||api.imotech.tech^$important
-||p16-ttam-va.ibyteimg.com^$important
 ||ssp.sandbahn.com^$important
 ||api.jetgadget.me^$important
 ||storedl5f.nearme.com.cn^$important
 ||n06.biz^$important
-||dm16.byteoversea.com^$important
 ||insecurekick.com^
 ||sandyconference.com^
 ||apa.vap.lijit.com^
@@ -413,9 +414,6 @@
 ||klik4a3.me^$important
 ||tuplgpub.bangcdn.net^$important
 ||api16-access-gcp.pangle.io.ttdns2.com^$important
-||frontier.byteoversea.com^$important
-||gsdk-va.bytegsdk.com^$important
-||gpm-mon-va.bytegsdk.com^$important
 ||msn.com^$important
 ||fsr.lenovomm.com^$important
 ||d3vk40ihlliju7.cloudfront.net^$important
@@ -592,13 +590,11 @@
 ||logpost2.miniworldgame.com^
 ||trtc-sdk-log-1258344699.cos.ap-guangzhou.myqcloud.com^
 ||inland-sdklog.trtc.tencent-cloud.com^
-||api16-log-sg.pangle-b.io.bytewlb.akadns.net^
 ||kix-ulog.sg.kwai-pro.com^
 ||kix-ulog.sg.kwaipros.com^
 ||p13nlog-1106815646.us-east-1.elb.amazonaws.com^
 ||kix-ulog.kwaipros.com^
 ||kix-ulog.kwai-pro.com^
-||log-va.bytegsdk.com^
 ||logging.baca.co.id^
 ||changelogs.ubuntu.com^
 ||g-ulog.sg.uvfuns.com^
@@ -628,7 +624,6 @@
 ||bokep-jepang.cc^
 ||2.news-uxypati.cc^
 ||arbiku.com^
-||location-traceroute-sg.bytedance.com^
 ||vibeaconstr.onezapp.com
 ||events.backtrace.io^
 ||sync.bav.baidu.com^
@@ -653,7 +648,6 @@
 ||ads.online2pdf.com^
 ||xbokep234.com^
 ||cache.api.intel.com^
-||location-traceroute-sg.bytedance.com.w.cdngslb.com^
 ||tracking.ksztone.com^
 ||static.creatives.richads.com^
 ||hadsucma.com^

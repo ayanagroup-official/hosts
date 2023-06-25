@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 20 Juni 2023
+# Last Update : 25 Juni 2023
 # Router Local
 ||*.lan^
 ||*.local^
@@ -133,6 +133,14 @@
 ||*.pool.ntp.org^$important
 @@||www.pool.ntp.org^$important
 @@||*.id.pool.ntp.org^$important
+# Heytap
+||obus-dc20305-sg.heytapmobile.com^$important
+||dragate-sg.dc.heytapmobi.com^$important
+||dc-dragate-sg.heytapmobile.com^$important
+||obus-dc2-sg.heytapmobile.com^$important
+||obus-dc20123-sg.heytapmobile.com^$important
+||cdp-common-id.heytapmobile.com^$important
+||datasec-kmsex-sg.heytapmobi.com^$important
 # Title : General, Log & Others
 ||ads.*^
 ||log.*^
@@ -141,8 +149,12 @@
 ||*.rayjump.com^
 ||*.affinity.net^
 ||*.ads.heytapdl.com^
+||*.dc.heytapmobi.com^
+||*.cdo.heytapmobi.com^
 ||*.ads.heytapmobi.com^
 ||*.ads.heytapmobile.com^
+||*.ocloud.heytapmobi.com^
+||*.browser.heytapmobile.com^
 ||*.appmeasurements.com^$important
 ||*.ingest.sentry.io^$important
 ||*.surahusa.beauty^$important
@@ -210,8 +222,6 @@
 ||litatom.com^$important
 ||kapi.kakao.com^$important
 ||ichannel.sgsnssdk.com^$important
-||i-sg01a.ocloud.heytapmobi.com^$important
-||httpdns.ocloud.heytapmobi.com^$important
 ||imapi2.isnssdk.com^$important
 ||1.ssiloc.com^$important
 ||sponsor.ajay.app^$important
@@ -260,7 +270,6 @@
 ||wins.isprog.com^$important
 ||hbevents.mz.unity3d.com^$important
 ||g-api.ekatox.com^$important
-||acs.m.taobao.com^$important
 ||dollarsurveysuccess.top^$important
 ||ramtoto.com^$important
 ||heylink.me^$important
@@ -448,7 +457,6 @@
 ||cdn.insurads.com^$important
 ||ad.letmeads.com^$important
 ||api.toponadss.com^$important
-||audid-api-sg.taobao.com^$important
 ||dac.contextads.live^$important
 ||delivery.contextads.live^$important
 ||audience.contextads.live^$important
@@ -465,8 +473,6 @@
 ||tracking.overwolf.com^$important
 ||adserver.html.it^$important
 ||installads.net^$important
-||taobao.com^$important
-||h-adashx4sg.ut.taobao.com^$important
 ||surl.li^$important
 ||sh0w-me-how.net^$important
 ||tracking.m6r.eu^$important
@@ -579,7 +585,6 @@
 ||logt.apkomega.com^
 ||uplog.qbox.me^
 ||blog.twnic.tw^
-||kernellog-sg.browser.heytapmobile.com^
 ||element-sdk-logs.s3.amazonaws.com^
 ||tfm-log.vercel.app^
 ||cu1pehnswssenglogs.servicebus.windows.net^
@@ -653,7 +658,6 @@
 ||static.creatives.richads.com^
 ||hadsucma.com^
 ||adsnebula.com^
-||xjp-jmacs.m.taobao.com^
 ||adsjuaralive.netlify.app^
 ||ads.pusatiklan.my.id^
 ||ads.mobillegends.net^
@@ -912,18 +916,9 @@
 ||dzbkjh1.myoppo.com^$important
 ||265.com^$important
 ||ynuf.aliapp.org^$important
-||obus-dc20123-sg.heytapmobile.com^$important
 ||uxip-res.meizu.com^$important
 ||api.enginemob.xyz^$important
-||obus-dc20305-sg.heytapmobile.com^$important
-||dragate-sg.dc.heytapmobi.com^$important
-||dc-dragate-sg.heytapmobile.com^$important
-||gslb-gl.cdo.heytapmobi.com^$important
-||obus-dc2-sg.heytapmobile.com^$important
-||conf-sg.dc.heytapmobi.com^$important
-||api-gl.cdo.heytapmobi.com^$important
 ||receiver-metis.infeng.site^$important
-||cdp-common-id.heytapmobile.com^$important
 ||pubserver8.bizport.cn^$important
 ||sdkapiv2.bizport.cn^$important
 ||stat5.notoldrb.monster^$important
@@ -945,19 +940,15 @@
 ||glouxaih.net^
 ||whbrqgnixueme.com^
 ||kix-apiv2.kibads.com^
-||xjp-msgacs.m.taobao.com^
-||yn.wagbridge.taobao.com^
 ||adx-sg.toponadss.com^
 ||psougoar.com^
 ||cbsusiqkwqxbrmv.com^
 ||app-measurement.com^
 ||api.mythad.com^
-||asia^$important
 ||dragate-sg.dc.oppomobile.com^$important
 ||linkmonet.com^$important
 ||gsqiynysbvrivpd.com^$important
 ||vxvootaqvugx.com^$important
-||datasec-kmsex-sg.heytapmobi.com^$important
 ||toumyyepsc.com^$important
 ||cdn4image.com^$important
 ||ymapgddhayxi.com^$important
@@ -966,15 +957,6 @@
 ||metrics.icloud.com^
 ||ads.pinterest.com^
 ||ads.twitter.com^
-||ib.tiktokv.com^
-||mcs-va.tiktokv.com^
-||pitaya.tiktokv.com^
-||gecko-va.tiktokv.com^
-||frontier-va.tiktokv.com^
-||ad-format.us.tiktokv.com^
-||pitaya-task-va.tiktokv.com^
-||mcs-va-useast2a.tiktokv.com^
-||ad-instantpage.us.tiktokv.com^
 ||sc-report.tantanapp.com^
 ||tnc31-normal-alisg.isnssdk.com^
 ||cdn.content.prod.cms.msn.com^
@@ -991,7 +973,6 @@
 ||ljhrmpicnr.com^$important
 ||rg.trotletekphore.com^$important
 ||sbbrisk.com^$important
-||panenjamu.xyz^$important
 ||fcbhwuscwbdegkb.com^$important
 ||offergate-apps-pubrel.com^$important
 ||nozokuba.pro^$important
@@ -1007,11 +988,3 @@
 ||userstats.iris.touchtype-fluency.com^$important
 ||swiftkey-android.iris.touchtype-fluency.com^$important
 ||geo-applefinance-cache.internal.query.g03.yahoodns.net^$important
-# [ Allawnos ]
-||icosa-service-sg.allawnos.com^$important
-||rus-service-sg.allawnos.com^$important
-||classify-app-sg.allawnos.com^$important
-||component-ota-sg.allawnos.com^$important
-||iot-earbuds-sg.allawnos.com^$important
-||ota-recruit-sg.allawnos.com^$important
-||moa-upload-sg.allawnos.com^$important

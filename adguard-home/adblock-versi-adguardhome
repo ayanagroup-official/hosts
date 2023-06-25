@@ -90,7 +90,6 @@
 # Regex Proxy v1
 /croxyproxy.*./
 /proxysite.*./
-/proxy.*./
 /steganos.*./
 /blockaway.*./
 /proxy.web.id/
@@ -111,7 +110,6 @@
 # Regex Proxy v2
 /.*.croxyproxy.*./
 /.*.proxysite.*./
-/.*.proxy.*./
 /.*.steganos.*./
 /.*.blockaway.*./
 /.*.proxy.web.id/.*.

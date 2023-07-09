@@ -127,29 +127,6 @@
 /.*.genmirror.*./
 /.*.kproxy.*./
 /.*.vpnbook.*./
-# NTP
-||*.pool.ntp.org^$important
-@@||www.pool.ntp.org^$important
-@@||*.id.pool.ntp.org^$important
-# Heytap
-||obus-dc20305-sg.heytapmobile.com^$important
-||dragate-sg.dc.heytapmobi.com^$important
-||dc-dragate-sg.heytapmobile.com^$important
-||obus-dc2-sg.heytapmobile.com^$important
-||obus-dc20123-sg.heytapmobile.com^$important
-||cdp-common-id.heytapmobile.com^$important
-||datasec-kmsex-sg.heytapmobi.com^$important
-# ByteCDN
-||gsdk-va.bytegsdk.com^$important
-||gpm-mon-va.bytegsdk.com^$important
-||frontier.byteoversea.com^$important
-||dm16.byteoversea.com^$important
-||dm-maliva16.byteoversea.com^$important
-||dm.byteoversea.com^$important
-||mon.byteoversea.com^$important
-||v16-ad.byteoversea.com^$important
-||log-va.bytegsdk.com^
-||api16-log-sg.pangle-b.io.bytewlb.akadns.net^
 # Title : General, Log & Others
 ||ads.*^
 ||log.*^
@@ -173,6 +150,8 @@
 ||*.log.shortbread.aws.dev^$important
 ||*.ads.global-fashion-group.com^
 ||*._https.browser-inspect.com^$important
+||log-va.bytegsdk.com^
+||api16-log-sg.pangle-b.io.bytewlb.akadns.net^
 ||pepepush.net^$important
 ||bjim64.jpush.cn^$important
 ||pushism.com^$important

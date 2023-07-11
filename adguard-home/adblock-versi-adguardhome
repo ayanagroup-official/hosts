@@ -54,6 +54,7 @@
 /mssdk2[0-9]-.*.tiktokv.com/
 /mssdk-.*.byteoversea.com/
 /push-.*.s.bytetcdn.com/
+/[0-9]-oburt-niordna.b-cdn.net/
 /conn-service-gl-0[0-9].allawnos.com/
 /conn-service-gl-1[0-9].allawnos.com/
 /conn-service-us-0[0-9].allawnos.com/
@@ -127,6 +128,20 @@
 /.*.genmirror.*./
 /.*.kproxy.*./
 /.*.vpnbook.*./
+# VPN Apps
+||*.simplesmart.click^$important
+||*.tomatoduck.click^$important
+||*.cleanerset.click^$important
+||*.fastsuperman.click^$important
+||*.thehappyjob.click^$important
+||*.timemanager.click^$important
+||*.turbovpns.com^$important
+||*.getfiercely.click^$important
+||*.goodfriendvpnfast.click^$important
+||*.duoglobalmaster.click^$important
+||*.simmasterplus.click^$important
+||*.normalsoeedtools.com^$important
+||*.fastput.net^$important
 # Title : General, Log & Others
 ||ads.*^
 ||log.*^
@@ -150,6 +165,13 @@
 ||*.log.shortbread.aws.dev^$important
 ||*.ads.global-fashion-group.com^
 ||*._https.browser-inspect.com^$important
+||static.javcdn.info^$important
+||javplayer.me^$important
+||boyimg.com^$important
+||jav123.com^$important
+||topguz.xyz^$important
+||in.appcenter.ms^
+||kpktoto0812.com^$important
 ||log-va.bytegsdk.com^
 ||api16-log-sg.pangle-b.io.bytewlb.akadns.net^
 ||pepepush.net^$important

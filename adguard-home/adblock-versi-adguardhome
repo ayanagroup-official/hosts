@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 9 Juli 2023
+# Last Update : 12 Juli 2023
 # Router Local
 ||*.lan^
 ||*.local^
@@ -165,6 +165,8 @@
 ||*.log.shortbread.aws.dev^$important
 ||*.ads.global-fashion-group.com^
 ||*._https.browser-inspect.com^$important
+||8bet.buzz^
+||bw4d.xyz^
 ||static.javcdn.info^$important
 ||javplayer.me^$important
 ||boyimg.com^$important

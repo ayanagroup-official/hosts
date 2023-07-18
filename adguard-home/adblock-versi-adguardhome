@@ -1,6 +1,8 @@
 # From : Indonesia
 # Mode : Adguard Home
 # Last Update : 18-Juli-2023
+# White List
+@@||*.cfd^
 # Router Local
 ||*.lan^
 ||*.local^

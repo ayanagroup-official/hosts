@@ -3,6 +3,8 @@
 # Last Update : 18-Juli-2023
 # White List
 @@||*.cfd^
+@@||graph.facebook.com^
+@@||graph.instagram.com^
 # Router Local
 ||*.lan^
 ||*.local^

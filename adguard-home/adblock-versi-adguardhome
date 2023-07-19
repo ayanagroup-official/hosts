@@ -2,7 +2,8 @@
 # Mode : Adguard Home
 # Last Update : 19-Juli-2023
 # White List
-@@||*.cfd^
+@@||ngefilm21.pw^
+@@||ngefilm21.cfd^
 @@||graph.facebook.com^
 @@||graph.instagram.com^
 # Router Local

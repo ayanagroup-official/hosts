@@ -31,6 +31,7 @@
 /.*.togel.*./
 /.*.analytics.*./
 /.*.telemetry.*./
+/pete[0-9]kg.lol/
 /server1[0-9].porekosa.*./
 /server2[0-9].porekosa.*./
 /server3[0-9].porekosa.*./
@@ -209,7 +210,6 @@
 ||putaransuper.com^
 ||akunandalan.com^
 ||punpitpit.com^
-||pete5kg.lol^
 ||serverthailandpro.site^
 ||sprmoto.store^
 ||promocuan100.online^

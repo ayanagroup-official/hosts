@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 19-Juli-2023
+# Last Update : 20-Juli-2023
 # White List
 @@||graph.facebook.com^
 @@||graph.instagram.com^
@@ -177,6 +177,7 @@
 ||sgp-opush-heytapmobile--48rh3h2-f20fbc5e9c1a423e.elb.ap-southeast-1.amazonaws.com^$important
 ||push-apple.com.akadns.net^$important
 ||asikwd.xyz^
+||escanor.xyz^
 ||gacorsekali.site^
 ||sangatgacor.site^
 ||sasgas.shop^

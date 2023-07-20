@@ -7,6 +7,9 @@
 @@||graph.instagram.com^
 # DNS Dynamic
 ||public1.114dns.com^
+# DNS SVCB dan HTTPSSVC
+ipv4hint=127.0.0.1
+ipv6hint=127.0.0.1
 # Router Local
 ||*.lan^
 ||*.local^

@@ -1,0 +1,27 @@
+# From : Indonesia
+# Mode : Adguard Home
+# Last Update : 21-Juli-2023
+# DNS Rewrite - WhatsApp
+||mmg.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
+||static.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
+||mmx-ds.cdn.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
+||g.whatsapp.net^$dnsrewrite=whatsapp-chatd-edge-shv-01-cgk1.facebook.com
+||chat.cdn.whatsapp.net^$dnsrewrite=whatsapp-chatd-edge-shv-01-cgk1.facebook.com
+# DNS Rewrite - Facebook
+||static.xx.fbcdn.net^$dnsrewrite=xx-fbcdn-shv-01-cgk1.fbcdn.net
+||video.xx.fbcdn.net^$dnsrewrite=edge-video-shv-01-cgk1.fbcdn.net
+||api.facebook.com^$dnsrewrite=edge-star-shv-01-cgk1.facebook.com
+||web.facebook.com^$dnsrewrite=edge-star-shv-01-cgk1.facebook.com
+||external.xx.fbcdn.net^$dnsrewrite=xx-fbcdn-shv-01-cgk1.fbcdn.net
+||scontent.xx.fbcdn.net^$dnsrewrite=xx-fbcdn-shv-01-cgk1.fbcdn.net
+||graph.facebook.com^$dnsrewrite=edge-star-shv-01-cgk1.facebook.com
+||graph.instagram.com^$dnsrewrite=instagram-p3-shv-01-cgk1.fbcdn.net
+||gateway.facebook.com^$dnsrewrite=edge-dgw-shv-01-cgk1.facebook.com
+||z-m.facebook.com^$dnsrewrite=edge-z-m-mini-shv-01-cgk1.facebook.com
+||www.facebook.com^$dnsrewrite=edge-star-mini-shv-01-cgk1.facebook.com
+||edge-mqtt.facebook.com^$dnsrewrite=edge-mqtt-shv-01-cgk1.facebook.com
+||b-api.facebook.com^$dnsrewrite=edge-star-mini-shv-01-cgk1.facebook.com
+||scontent.cdninstagram.com^$dnsrewrite=instagram-p3-shv-01-cgk1.fbcdn.net
+||z-m-graph.facebook.com^$dnsrewrite=edge-z-m-mini-shv-01-cgk1.facebook.com
+||mqtt-mini.facebook.com^$dnsrewrite=edge-mqtt-mini-shv-01-cgk1.facebook.com
+||chat-e2ee-mini.facebook.com^$dnsrewrite=whatsapp-chatd-msgr-mini-edge-shv-01-cgk1.facebook.com

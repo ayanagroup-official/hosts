@@ -20,6 +20,8 @@
 ||api.facebook.com^$dnsrewrite=edge-star-shv-02-cgk1.facebook.com
 ||web.facebook.com^$dnsrewrite=edge-star-shv-01-cgk1.facebook.com
 ||web.facebook.com^$dnsrewrite=edge-star-shv-02-cgk1.facebook.com
+||graph.facebook.com^$dnsrewrite=edge-star-shv-01-cgk1.facebook.com
+||graph.facebook.com^$dnsrewrite=edge-star-shv-02-cgk1.facebook.com
 ||gateway.facebook.com^$dnsrewrite=edge-dgw-shv-01-cgk1.facebook.com
 ||gateway.facebook.com^$dnsrewrite=edge-dgw-shv-02-cgk1.facebook.com
 ||z-m.facebook.com^$dnsrewrite=edge-z-m-mini-shv-01-cgk1.facebook.com

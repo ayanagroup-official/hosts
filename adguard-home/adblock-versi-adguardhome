@@ -9,8 +9,12 @@
 # DNS Rewrite - Facebook
 /sonar-.*.-1.xx.fbcdn.net/$dnsrewrite=edge-sonar-mini-shv-01-cgk1.fbcdn.net
 /sonar-.*.-2.xx.fbcdn.net/$dnsrewrite=edge-sonar-mini-shv-02-cgk1.fbcdn.net
+/video-.*.-1.xx.fbcdn.net/$dnsrewrite=video-cgk1-1.xx.fbcdn.net
+/video-.*.-2.xx.fbcdn.net/$dnsrewrite=video-cgk1-2.xx.fbcdn.net
 /scontent-.*.-1.xx.fbcdn.net/$dnsrewrite=scontent-cgk1-1.xx.fbcdn.net
 /scontent-.*.-2.xx.fbcdn.net/$dnsrewrite=scontent-cgk1-2.xx.fbcdn.net
+||video.xx.fbcdn.net^$dnsrewrite=edge-video-shv-01-cgk1.fbcdn.net
+||video.xx.fbcdn.net^$dnsrewrite=edge-video-shv-02-cgk1.fbcdn.net
 ||static.xx.fbcdn.net^$dnsrewrite=xx-fbcdn-shv-01-cgk1.fbcdn.net
 ||static.xx.fbcdn.net^$dnsrewrite=xx-fbcdn-shv-02-cgk1.fbcdn.net
 ||external.xx.fbcdn.net^$dnsrewrite=xx-fbcdn-shv-01-cgk1.fbcdn.net

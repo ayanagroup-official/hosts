@@ -6,7 +6,9 @@
 @@||my.nextdns.io^
 @@||graph.facebook.com^
 @@||graph.instagram.com^
-# DNS Rewrite
+# DNS Rewrite - Facebook
+/sonar-.*.-1.xx.fbcdn.net/$dnsrewrite=edge-sonar-mini-shv-01-cgk1.fbcdn.net
+/sonar-.*.-2.xx.fbcdn.net/$dnsrewrite=edge-sonar-mini-shv-02-cgk1.fbcdn.net
 ||static.xx.fbcdn.net^$dnsrewrite=xx-fbcdn-shv-01-cgk1.fbcdn.net
 ||static.xx.fbcdn.net^$dnsrewrite=xx-fbcdn-shv-02-cgk1.fbcdn.net
 ||external.xx.fbcdn.net^$dnsrewrite=xx-fbcdn-shv-01-cgk1.fbcdn.net

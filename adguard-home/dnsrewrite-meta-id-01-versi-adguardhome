@@ -7,7 +7,9 @@
 ||mmx-ds.cdn.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
 ||g.whatsapp.net^$dnsrewrite=whatsapp-chatd-edge-shv-01-cgk1.facebook.com
 ||chat.cdn.whatsapp.net^$dnsrewrite=whatsapp-chatd-edge-shv-01-cgk1.facebook.com
-# DNS Rewrite - Facebook
+# DNS Rewrite - Facebook - Instagram
+||b-graph.facebook.com^$dnsrewrite=edge-star-mini-shv-01-cgk1.facebook.com
+||i.instagram.com^$dnsrewrite=instagram-p3-shv-01-cgk1.fbcdn.net
 ||static.xx.fbcdn.net^$dnsrewrite=xx-fbcdn-shv-01-cgk1.fbcdn.net
 ||video.xx.fbcdn.net^$dnsrewrite=edge-video-shv-01-cgk1.fbcdn.net
 ||api.facebook.com^$dnsrewrite=edge-star-shv-01-cgk1.facebook.com

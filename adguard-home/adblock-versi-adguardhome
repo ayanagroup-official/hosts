@@ -7,6 +7,8 @@
 @@||graph.facebook.com^
 @@||graph.instagram.com^
 # DNS Rewrite
+||static.xx.fbcdn.net^$dnsrewrite=xx-fbcdn-shv-01-cgk1.fbcdn.net
+||static.xx.fbcdn.net^$dnsrewrite=xx-fbcdn-shv-02-cgk1.fbcdn.net
 ||scontent.xx.fbcdn.net^$dnsrewrite=xx-fbcdn-shv-01-cgk1.fbcdn.net
 ||scontent.xx.fbcdn.net^$dnsrewrite=xx-fbcdn-shv-02-cgk1.fbcdn.net
 # DNS Dynamic

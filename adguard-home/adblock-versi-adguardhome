@@ -6,6 +6,12 @@
 @@||my.nextdns.io^
 @@||graph.facebook.com^
 @@||graph.instagram.com^
+# DNS Rewrite - TikTok
+/pull-f5-sg01.*.tiktokcdn.com/$dnsrewrite=pull-f5-sg01.tiktokcdn.com
+/pull-f5-va01.*.tiktokcdn.com/$dnsrewrite=pull-f5-va01.tiktokcdn.com
+/pull-cmaf-f16-tt03.*.tiktokcdn.com/$dnsrewrite=pull-cmaf-f16-tt03.tiktokcdn.com
+/pull-cmaf-f16-tt02.*.tiktokcdn.com/$dnsrewrite=pull-cmaf-f16-tt02.tiktokcdn.com
+/pull-cmaf-f16-tt01.*.tiktokcdn.com/$dnsrewrite=pull-cmaf-f16-tt01.tiktokcdn.com
 # DNS Dynamic
 ||public1.114dns.com^
 # Router Local

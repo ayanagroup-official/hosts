@@ -4,8 +4,12 @@
 # DNS Rewrite - WhatsApp
 /media-.*.-1.cdn.whatsapp.net/$dnsrewrite=media-cgk1-1.cdn.whatsapp.net
 /media-.*.-2.cdn.whatsapp.net/$dnsrewrite=media-cgk1-2.cdn.whatsapp.net
+/media-.*.-3.cdn.whatsapp.net/$dnsrewrite=media-cgk1-1.cdn.whatsapp.net
+/media-.*.-4.cdn.whatsapp.net/$dnsrewrite=media-cgk1-2.cdn.whatsapp.net
 /whatsapp-cdn-shv-01-.*.fbcdn.net/$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
 /whatsapp-cdn-shv-02-.*.fbcdn.net/$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
+/whatsapp-cdn-shv-03-.*.fbcdn.net/$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
+/whatsapp-cdn-shv-04-.*.fbcdn.net/$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
 # DNS Rewrite - Facebook - Instagram
 /video-.*.-1.xx.fbcdn.net/$dnsrewrite=video-cgk1-1.xx.fbcdn.net
 /video-.*.-2.xx.fbcdn.net/$dnsrewrite=video-cgk1-2.xx.fbcdn.net

@@ -6,7 +6,7 @@
 /media-.*.-2.cdn.whatsapp.net/$dnsrewrite=media-cgk1-2.cdn.whatsapp.net
 /whatsapp-cdn-shv-01-.*.fbcdn.net/$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
 /whatsapp-cdn-shv-02-.*.fbcdn.net/$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
-# DNS Rewrite - Facebook
+# DNS Rewrite - Facebook - Instagram
 /video-.*.-1.xx.fbcdn.net/$dnsrewrite=video-cgk1-1.xx.fbcdn.net
 /video-.*.-2.xx.fbcdn.net/$dnsrewrite=video-cgk1-2.xx.fbcdn.net
 /video-.*.-3.xx.fbcdn.net/$dnsrewrite=video-cgk1-1.xx.fbcdn.net
@@ -27,3 +27,7 @@
 /sonar-.*.-2.xx.fbcdn.net/$dnsrewrite=edge-sonar-mini-shv-02-cgk1.fbcdn.net
 /sonar-.*.-3.xx.fbcdn.net/$dnsrewrite=edge-sonar-mini-shv-01-cgk1.fbcdn.net
 /sonar-.*.-4.xx.fbcdn.net/$dnsrewrite=edge-sonar-mini-shv-02-cgk1.fbcdn.net
+/scontent-.*.-1.cdninstagram.com/$dnsrewrite=scontent-cgk1-1.cdninstagram.com
+/scontent-.*.-2.cdninstagram.com/$dnsrewrite=scontent-cgk1-2.cdninstagram.com
+/scontent-.*.-3.cdninstagram.com/$dnsrewrite=scontent-cgk1-1.cdninstagram.com
+/scontent-.*.-4.cdninstagram.com/$dnsrewrite=scontent-cgk1-2.cdninstagram.com

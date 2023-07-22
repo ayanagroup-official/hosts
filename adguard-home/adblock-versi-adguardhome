@@ -35,6 +35,7 @@
 /.*.telemetry.*./
 /pete[0-9]kg.lol/
 /maxwin.xyz/
+/sonar6-.*.[0-9]-1.xx.fbcdn.net/
 /server1[0-9].porekosa.*./
 /server2[0-9].porekosa.*./
 /server3[0-9].porekosa.*./

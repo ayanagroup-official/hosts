@@ -1,8 +1,20 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 22-Juli-2023
+# Last Update : 24-Juli-2023
 # White List
 /.*.lan.*./
+@@||calendarpushsubscription-pa.googleapis.com^ 
+@@||c-api-bit.shopeemobile.com^ 
+@@||ngefilm21.pw^ 
+@@||t.co^ 
+@@||analytics.google.com^ 
+@@||marketingplatform.google.com^ 
+@@||seller-push-ws.shopee.co.id^ 
+@@||similarweb.com^ 
+@@||whoer.net^ 
+@@||p16.topbuzzcdn.com^ 
+@@||v16s.topbuzzcdn.com^ 
+@@||bstream.hzmklvdieo.com^
 @@||axis.customlinks.appsflyer.com^
 @@||my.nextdns.io^
 @@||graph.facebook.com^

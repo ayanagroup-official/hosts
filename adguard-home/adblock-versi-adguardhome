@@ -2,6 +2,7 @@
 # Mode : Adguard Home
 # Last Update : 22-Juli-2023
 # White List
+/.*.lan.*./
 @@||axis.customlinks.appsflyer.com^
 @@||my.nextdns.io^
 @@||graph.facebook.com^

@@ -3,6 +3,7 @@
 # Last Update : 24-Juli-2023
 # DNS Rewrite - WhatsApp
 |whatsapp.com^$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
+||v.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
 ||graph.whatsapp.com^$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
 ||web.whatsapp.com^$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
 ||graph.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
@@ -14,6 +15,8 @@
 ||g.whatsapp.net^$dnsrewrite=whatsapp-chatd-edge-shv-02-cgk1.facebook.com
 ||chat.cdn.whatsapp.net^$dnsrewrite=whatsapp-chatd-edge-shv-02-cgk1.facebook.com
 # DNS Rewrite - Facebook - Instagram
+||lm.facebook.com^$dnsrewrite=edge-z-m-mini-shv-02-cgk1.facebook.com
+||graph-fallback.instagram.com^$dnsrewrite=edge-star-shv-02-cgk1.facebook.com
 ||chat-e2ee-ig-p42.c10r.facebook.com^$dnsrewrite=whatsapp-chatd-igd-p42-edge-shv-02-cgk1.facebook.com
 ||fblite-p1.c10r.facebook.com^$dnsrewrite=edge-fblite-tcp-p1-shv-02-cgk1.facebook.com
 ||kaios-d.facebook.com^$dnsrewrite=edge-fblite-tcp-p1-shv-02-cgk1.facebook.com

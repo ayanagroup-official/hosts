@@ -3,6 +3,7 @@
 # Last Update : 24-Juli-2023
 # White List
 /.*.lan.*./
+@@|www.mediafire.com^
 @@||calendarpushsubscription-pa.googleapis.com^ 
 @@||c-api-bit.shopeemobile.com^ 
 @@||ngefilm21.pw^ 

@@ -12,6 +12,7 @@
 ||g.whatsapp.net^$dnsrewrite=whatsapp-chatd-edge-shv-01-cgk1.facebook.com
 ||chat.cdn.whatsapp.net^$dnsrewrite=whatsapp-chatd-edge-shv-01-cgk1.facebook.com
 # DNS Rewrite - Facebook - Instagram
+||chat-e2ee-ig-p42.c10r.facebook.com^$dnsrewrite=whatsapp-chatd-igd-p42-edge-shv-01-cgk1.facebook.com
 ||fblite-p1.c10r.facebook.com^$dnsrewrite=edge-fblite-tcp-p1-shv-01-cgk1.facebook.com
 ||kaios-d.facebook.com^$dnsrewrite=edge-fblite-tcp-p1-shv-01-cgk1.facebook.com
 ||star.fallback.c10r.instagram.com^$dnsrewrite=edge-star-shv-01-cgk1.facebook.com

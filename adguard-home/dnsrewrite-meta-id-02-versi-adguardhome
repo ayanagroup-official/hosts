@@ -65,3 +65,8 @@
 ||z-m-graph.facebook.com^$dnsrewrite=edge-z-m-mini-shv-02-cgk1.facebook.com
 ||mqtt-mini.facebook.com^$dnsrewrite=edge-mqtt-mini-shv-02-cgk1.facebook.com
 ||chat-e2ee-mini.facebook.com^$dnsrewrite=whatsapp-chatd-msgr-mini-edge-shv-02-cgk1.facebook.com
+||chat-e2ee-mini.c10r.facebook.com^$dnsrewrite=whatsapp-chatd-msgr-mini-edge-shv-02-cgk1.facebook.com
+||graph-fallback.facebook.com^$dnsrewrite=edge-star-shv-02-cgk1.facebook.com
+||mobile.facebook.com^$dnsrewrite=edge-star-shv-02-cgk1.facebook.com
+||star.fallback.facebook.com^$dnsrewrite=edge-star-shv-02-cgk1.facebook.com
+||b-www.facebook.com^$dnsrewrite=edge-star-mini-shv-02-cgk1.facebook.com

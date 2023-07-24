@@ -14,6 +14,7 @@
 # DNS Rewrite - Facebook - Instagram
 ||fblite-p1.c10r.facebook.com^$dnsrewrite=edge-fblite-tcp-p1-shv-01-cgk1.facebook.com
 ||kaios-d.facebook.com^$dnsrewrite=edge-fblite-tcp-p1-shv-01-cgk1.facebook.com
+||star.fallback.c10r.instagram.com^$dnsrewrite=edge-star-shv-01-cgk1.facebook.com
 ||i-fallback.instagram.com^$dnsrewrite=edge-star-shv-01-cgk1.facebook.com
 ||chat-e2ee.c10r.facebook.com^$dnsrewrite=whatsapp-chatd-msgr-edge-shv-01-cgk1.facebook.com
 ||star.fallback.c10r.facebook.com^$dnsrewrite=edge-star-shv-01-cgk1.facebook.com

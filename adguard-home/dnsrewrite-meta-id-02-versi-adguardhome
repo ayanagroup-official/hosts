@@ -2,6 +2,8 @@
 # Mode : Adguard Home
 # Last Update : 24-Juli-2023
 # DNS Rewrite - WhatsApp
+|whatsapp.com^$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
+||graph.whatsapp.com^$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
 ||web.whatsapp.com^$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
 ||graph.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
 ||scontent.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net

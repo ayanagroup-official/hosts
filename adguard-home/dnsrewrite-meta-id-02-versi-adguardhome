@@ -13,10 +13,10 @@
 ||chat.cdn.whatsapp.net^$dnsrewrite=whatsapp-chatd-edge-shv-02-cgk1.facebook.com
 # DNS Rewrite - Facebook - Instagram
 ||fblite-p1.c10r.facebook.com^$dnsrewrite=edge-fblite-tcp-p1-shv-02-cgk1.facebook.com 
- ||kaios-d.facebook.com^$dnsrewrite=edge-fblite-tcp-p1-shv-02-cgk1.facebook.com 
- ||i-fallback.instagram.com^$dnsrewrite=edge-star-shv-02-cgk1.facebook.com 
- ||chat-e2ee.c10r.facebook.com^$dnsrewrite=whatsapp-chatd-msgr-edge-shv-02-cgk1.facebook.com 
- ||star.fallback.c10r.facebook.com^$dnsrewrite=edge-star-shv-02-cgk1.facebook.com
+||kaios-d.facebook.com^$dnsrewrite=edge-fblite-tcp-p1-shv-02-cgk1.facebook.com 
+||i-fallback.instagram.com^$dnsrewrite=edge-star-shv-02-cgk1.facebook.com 
+||chat-e2ee.c10r.facebook.com^$dnsrewrite=whatsapp-chatd-msgr-edge-shv-02-cgk1.facebook.com 
+||star.fallback.c10r.facebook.com^$dnsrewrite=edge-star-shv-02-cgk1.facebook.com
 ||fblite-mini.c10r.facebook.com^$dnsrewrite=edge-fblite-tcp-mini-shv-02-cgk1.facebook.com
 ||snaptu-z.facebook.com^$dnsrewrite=edge-fblite-tcp-mini-shv-02-cgk1.facebook.com
 ||cdn.fbsbx.com^$dnsrewrite=xx-fbcdn-shv-02-cgk1.fbcdn.net

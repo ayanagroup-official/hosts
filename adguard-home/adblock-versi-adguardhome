@@ -19,8 +19,6 @@
 @@||bstream.hzmklvdieo.com^
 @@||axis.customlinks.appsflyer.com^
 @@||my.nextdns.io^
-@@||graph.facebook.com^
-@@||graph.instagram.com^
 # DNS Rewrite - TikTok
 /pull-f5-sg01.*.tiktokcdn.com/$dnsrewrite=pull-f5-sg01.tiktokcdn.com
 /pull-f5-va01.*.tiktokcdn.com/$dnsrewrite=pull-f5-va01.tiktokcdn.com

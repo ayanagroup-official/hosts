@@ -4,6 +4,7 @@
 # White List
 /.*.lan.*./
 @@||mediafire.com^
+@@||static.adguard.com^
 @@||*.d.adguard-dns.com^
 @@||calendarpushsubscription-pa.googleapis.com^ 
 @@||c-api-bit.shopeemobile.com^ 

@@ -4,6 +4,7 @@
 # White List
 /.*.lan.*./
 @@||mediafire.com^
+@@||dns.nextdns.io^
 @@||static.adguard.com^
 @@||*.d.adguard-dns.com^
 @@||calendarpushsubscription-pa.googleapis.com^ 

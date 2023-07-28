@@ -17,6 +17,7 @@
 @@||axis.customlinks.appsflyer.com^
 @@||calendarpushsubscription-pa.googleapis.com^ 
 # DNS Rewrite - TikTok
+||v16.tiktokcdn.com^$dnsrewrite=a1962.w155.akamai.net
 ||api16-normal-c-useast1a.tiktokv.com^$dnsrewrite=e28622.api1.akamaiedge.net
 /pull-f5-sg01.*.tiktokcdn.com/$dnsrewrite=pull-f5-sg01.tiktokcdn.com
 /pull-f5-va01.*.tiktokcdn.com/$dnsrewrite=pull-f5-va01.tiktokcdn.com

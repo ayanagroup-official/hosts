@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 28-Juli-2023 15:10 WIB
+# Last Update : 28-Juli-2023 20:10 WIB
 # White List
 /.*.lan.*./
 @@||*.mediafire.com^
@@ -17,6 +17,7 @@
 @@||axis.customlinks.appsflyer.com^
 @@||calendarpushsubscription-pa.googleapis.com^ 
 # DNS Rewrite - TikTok
+@@||api16-normal-c-useast1a.tiktokv.com^$dnsrewrite=e28622.api1.akamaiedge.net
 /pull-f5-sg01.*.tiktokcdn.com/$dnsrewrite=pull-f5-sg01.tiktokcdn.com
 /pull-f5-va01.*.tiktokcdn.com/$dnsrewrite=pull-f5-va01.tiktokcdn.com
 /pull-cmaf-f16-tt03.*.tiktokcdn.com/$dnsrewrite=pull-cmaf-f16-tt03.tiktokcdn.com

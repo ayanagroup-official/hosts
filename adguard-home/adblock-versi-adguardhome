@@ -8,15 +8,14 @@
 @@||*.adguard.com^
 @@||*.adguard-dns.io^
 @@||*.d.adguard-dns.com^
-@@||calendarpushsubscription-pa.googleapis.com^ 
-@@||c-api-bit.shopeemobile.com^ 
-@@||ngefilm21.pw^ 
-@@||t.co^ 
+@@||*.ngefilm21.pw^ 
+@@||*.similarweb.com^
 @@||analytics.google.com^ 
-@@||marketingplatform.google.com^ 
-@@||seller-push-ws.shopee.co.id^ 
-@@||similarweb.com^
+@@||c-api-bit.shopeemobile.com^ 
+@@||seller-push-ws.shopee.co.id^
+@@||marketingplatform.google.com^
 @@||axis.customlinks.appsflyer.com^
+@@||calendarpushsubscription-pa.googleapis.com^ 
 # DNS Rewrite - TikTok
 /pull-f5-sg01.*.tiktokcdn.com/$dnsrewrite=pull-f5-sg01.tiktokcdn.com
 /pull-f5-va01.*.tiktokcdn.com/$dnsrewrite=pull-f5-va01.tiktokcdn.com

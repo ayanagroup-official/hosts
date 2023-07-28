@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 28-Juli-2023 20:10 WIB
+# Last Update : 29-Juli-2023 00:00 WIB
 # White List
 /.*.lan.*./
 @@||*.mediafire.com^
@@ -18,9 +18,14 @@
 @@||calendarpushsubscription-pa.googleapis.com^ 
 # DNS Rewrite - TikTok
 ||api16-core.tiktokv.com^$dnsrewrite=e28622.a.akamaiedge.net
-||v16.tiktokcdn.com^$dnsrewrite=a1962.w155.akamai.net
 ||pull-cmaf-f16-gcp01.ttlivecdn.com^$dnsrewrite=a21.z.akamai.net
 ||api16-normal-c-useast1a.tiktokv.com^$dnsrewrite=e28622.api1.akamaiedge.net
+/v[0-9].tiktokcdn.com/$dnsrewrite=v.service.cgk3.g.byteoversea.net
+/v1[0-9].tiktokcdn.com/$dnsrewrite=v.service.cgk3.g.byteoversea.net
+/v2[0-9].tiktokcdn.com/$dnsrewrite=v.service.cgk3.g.byteoversea.net
+/v3[0-9].tiktokcdn.com/$dnsrewrite=v.service.cgk3.g.byteoversea.net
+/v4[0-9].tiktokcdn.com/$dnsrewrite=v.service.cgk3.g.byteoversea.net
+/v5[0-9].tiktokcdn.com/$dnsrewrite=v.service.cgk3.g.byteoversea.net
 /pull-f5-sg01.*.tiktokcdn.com/$dnsrewrite=pull-f5-sg01.tiktokcdn.com
 /pull-f5-va01.*.tiktokcdn.com/$dnsrewrite=pull-f5-va01.tiktokcdn.com
 /pull-cmaf-f16-tt03.*.tiktokcdn.com/$dnsrewrite=pull-cmaf-f16-tt03.tiktokcdn.com

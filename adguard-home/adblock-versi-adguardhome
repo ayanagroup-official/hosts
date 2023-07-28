@@ -3,9 +3,10 @@
 # Last Update : 28-Juli-2023
 # White List
 /.*.lan.*./
-@@||mediafire.com^
-@@||dns.nextdns.io^
-@@||static.adguard.com^
+@@||*.mediafire.com^
+@@||*.nextdns.io^
+@@||*.adguard.com^
+@@||*.adguard-dns.io^
 @@||*.d.adguard-dns.com^
 @@||calendarpushsubscription-pa.googleapis.com^ 
 @@||c-api-bit.shopeemobile.com^ 
@@ -16,7 +17,6 @@
 @@||seller-push-ws.shopee.co.id^ 
 @@||similarweb.com^
 @@||axis.customlinks.appsflyer.com^
-@@||my.nextdns.io^
 # DNS Rewrite - TikTok
 /pull-f5-sg01.*.tiktokcdn.com/$dnsrewrite=pull-f5-sg01.tiktokcdn.com
 /pull-f5-va01.*.tiktokcdn.com/$dnsrewrite=pull-f5-va01.tiktokcdn.com

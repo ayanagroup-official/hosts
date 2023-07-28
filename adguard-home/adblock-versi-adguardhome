@@ -18,6 +18,8 @@
 @@||calendarpushsubscription-pa.googleapis.com^ 
 # DNS Rewrite - TikTok
 ||api16-core.tiktokv.com^$dnsrewrite=e28622.a.akamaiedge.net
+||v9-id.tiktokcdn.com^$dnsrewrite=zbdhwid.v.ecdnx.com
+||v16-cla.tiktokcdn.com^$dnsrewrite=a158.b.akamai.net
 ||pull-cmaf-f16-gcp01.ttlivecdn.com^$dnsrewrite=a21.z.akamai.net
 ||api16-normal-c-useast1a.tiktokv.com^$dnsrewrite=e28622.api1.akamaiedge.net
 /v[0-9].tiktokcdn.com/$dnsrewrite=v.service.cgk3.g.byteoversea.net

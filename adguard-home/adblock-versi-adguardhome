@@ -202,6 +202,9 @@
 ||*.log.shortbread.aws.dev^
 ||*.ads.global-fashion-group.com^
 ||*._https.browser-inspect.com^
+||v31.tsel.byteoversea.net^
+||v.service.cgk1.g.byteoversea.net^
+||v.service.cgk2.g.byteoversea.net^
 ||icosa-service-sg.allawnos.com^
 ||icosa-service-us.allawnos.com^
 ||sgp-opush-oppomobile-pu-n4xud6l-7b6574c773d3478c.elb.ap-southeast-1.amazonaws.com^

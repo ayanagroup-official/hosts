@@ -20,7 +20,8 @@
 ||p16-useast2a.tiktokcdn.com^$dnsrewrite=p16-sg.tiktokcdn.com
 ||p16-sign-useast2a.tiktokcdn.com^$dnsrewrite=p16-sign-sg.tiktokcdn.com
 ||api16-core.tiktokv.com^$dnsrewrite=e28622.a.akamaiedge.net
-||v16-cla.tiktokcdn.com^$dnsrewrite=a158.b.akamai.net
+/v[0-9]-cla.tiktokcdn.com/$dnsrewrite=v9-id.tiktokcdn.com
+/v1[0-9]-cla.tiktokcdn.com/$dnsrewrite=v39-id.tiktokcdn.com
 ||pull-cmaf-f16-gcp01.ttlivecdn.com^$dnsrewrite=a21.z.akamai.net
 ||api16-normal-c-useast1a.tiktokv.com^$dnsrewrite=e28622.api1.akamaiedge.net
 /v[0-9].tiktokcdn.com/$dnsrewrite=v9-id.tiktokcdn.com

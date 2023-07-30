@@ -36,6 +36,9 @@
 /pull-cmaf-f16-tt03.*.tiktokcdn.com/$dnsrewrite=pull-cmaf-f16-tt03.tiktokcdn.com
 /pull-cmaf-f16-tt02.*.tiktokcdn.com/$dnsrewrite=pull-cmaf-f16-tt02.tiktokcdn.com
 /pull-cmaf-f16-tt01.*.tiktokcdn.com/$dnsrewrite=pull-cmaf-f16-tt01.tiktokcdn.com
+/pull-a5-tt01-infra.*.tiktokv.com/$dnsrewrite=pull-f5-tt01-infra.fcdn.cgk.gts.ttoverseaus.net
+/pull-a5-tt02-infra.*.tiktokv.com/$dnsrewrite=pull-f5-tt02-infra.fcdn.cgk.gts.ttoverseaus.net
+/pull-a5-tt03-infra.*.tiktokv.com/$dnsrewrite=pull-f5-tt03-infra.fcdn.cgk.gts.ttoverseaus.net
 # DNS Dynamic
 ||public1.114dns.com^
 # Router Local

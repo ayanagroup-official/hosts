@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 30-Juli-2023 16:30 WIB
+# Last Update : 31-Juli-2023 00:30 WIB
 # White List
 /.*.lan.*./
 @@||*.mediafire.com^
@@ -211,6 +211,9 @@
 ||v31.tsel.byteoversea.net^
 ||v.service.cgk1.g.byteoversea.net^
 ||v.service.cgk2.g.byteoversea.net^
+||zeus.fun^
+||kasinowarkop.com^
+||akses.games^
 ||icosa-service-sg.allawnos.com^
 ||icosa-service-us.allawnos.com^
 ||sgp-opush-oppomobile-pu-n4xud6l-7b6574c773d3478c.elb.ap-southeast-1.amazonaws.com^

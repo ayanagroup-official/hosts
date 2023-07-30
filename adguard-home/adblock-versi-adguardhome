@@ -28,6 +28,7 @@
 /v3[0-9]-id.tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
 /v4[0-9]-id.tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
 /v5[0-9]-id.tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
+/pull-f5-tt03.*.tiktokcdn.com/$dnsrewrite=pull-f5-tt03.tiktokcdn.com
 /pull-f5-sg01.*.tiktokcdn.com/$dnsrewrite=pull-f5-sg01.tiktokcdn.com
 /pull-f5-va01.*.tiktokcdn.com/$dnsrewrite=pull-f5-va01.tiktokcdn.com
 /pull-cmaf-f16-tt03.*.tiktokcdn.com/$dnsrewrite=pull-cmaf-f16-tt03.tiktokcdn.com

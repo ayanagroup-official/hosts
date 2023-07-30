@@ -17,24 +17,12 @@
 @@||axis.customlinks.appsflyer.com^
 @@||calendarpushsubscription-pa.googleapis.com^ 
 # DNS Rewrite - TikTok
-/v[0-9].tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
-/v1[0-9].tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
-/v2[0-9].tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
-/v3[0-9].tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
-/v4[0-9].tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
-/v5[0-9].tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
 /v[0-9]-id.tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
 /v1[0-9]-id.tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
 /v2[0-9]-id.tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
 /v3[0-9]-id.tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
 /v4[0-9]-id.tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
 /v5[0-9]-id.tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
-/v[0-9]-cla.tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
-/v1[0-9]-cla.tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
-/v2[0-9]-cla.tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
-/v3[0-9]-cla.tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
-/v4[0-9]-cla.tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
-/v5[0-9]-cla.tiktokcdn.com/$dnsrewrite=v.service.cgk4.g.byteoversea.net
 /pull-f5-sg01.*.tiktokcdn.com/$dnsrewrite=pull-f5-sg01.tiktokcdn.com
 /pull-f5-va01.*.tiktokcdn.com/$dnsrewrite=pull-f5-va01.tiktokcdn.com
 /pull-cmaf-f16-tt03.*.tiktokcdn.com/$dnsrewrite=pull-cmaf-f16-tt03.tiktokcdn.com

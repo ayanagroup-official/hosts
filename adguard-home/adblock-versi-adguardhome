@@ -205,6 +205,8 @@
 ||*._https.browser-inspect.com^
 ||*.fcdn.eu.tiktokv.com^
 ||*.fcdn.us.tiktokv.com^
+||*.fcdn.eu.tiktokcdn.com^
+||*.fcdn.us.tiktokcdn.com
 ||v31.tsel.byteoversea.net^
 ||v.service.cgk1.g.byteoversea.net^
 ||v.service.cgk2.g.byteoversea.net^

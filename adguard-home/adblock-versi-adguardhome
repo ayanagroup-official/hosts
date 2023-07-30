@@ -17,6 +17,8 @@
 @@||axis.customlinks.appsflyer.com^
 @@||calendarpushsubscription-pa.googleapis.com^ 
 # DNS Rewrite - TikTok
+||v.service.cgk1.g.byteoversea.net^$dnsrewrite=v.service.cgk3.g.byteoversea.net
+||v.service.cgk2.g.byteoversea.net^$dnsrewrite=v.service.cgk4.g.byteoversea.net
 ||v9-id.tiktokcdn.com^$dnsrewrite=v.service.cgk3.g.byteoversea.net
 ||v39-id.tiktokcdn.com^$dnsrewrite=v.service.cgk4.g.byteoversea.net
 /v[0-9].tiktokcdn.com/$dnsrewrite=v16.tiktokcdn.com
@@ -205,8 +207,6 @@
 ||*.ads.global-fashion-group.com^
 ||*._https.browser-inspect.com^
 ||v31.tsel.byteoversea.net^
-||v.service.cgk1.g.byteoversea.net^
-||v.service.cgk2.g.byteoversea.net^
 ||zeus.fun^
 ||kasinowarkop.com^
 ||akses.games^

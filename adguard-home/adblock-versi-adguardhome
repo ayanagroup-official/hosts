@@ -203,6 +203,8 @@
 ||*.log.shortbread.aws.dev^
 ||*.ads.global-fashion-group.com^
 ||*._https.browser-inspect.com^
+||*.fcdn.eu.tiktokv.com^
+||*.fcdn.us.tiktokv.com^
 ||v31.tsel.byteoversea.net^
 ||v.service.cgk1.g.byteoversea.net^
 ||v.service.cgk2.g.byteoversea.net^

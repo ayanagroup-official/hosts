@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 31-Juli-2023 14:30 WIB
+# Last Update : 1-Agustus-2023 12:30 WIB
 # White List
 /.*.lan.*./
 @@||*.mediafire.com^
@@ -15,7 +15,12 @@
 @@||seller-push-ws.shopee.co.id^
 @@||marketingplatform.google.com^
 @@||axis.customlinks.appsflyer.com^
-@@||calendarpushsubscription-pa.googleapis.com^ 
+@@||calendarpushsubscription-pa.googleapis.com^
+# NTP
+/0.*.pool.ntp.org/$dnsrewrite=0.id.pool.ntp.org
+/1.*.pool.ntp.org/$dnsrewrite=1.id.pool.ntp.org
+/2.*.pool.ntp.org/$dnsrewrite=2.id.pool.ntp.org
+/3.*.pool.ntp.org/$dnsrewrite=3.id.pool.ntp.org
 # DNS Rewrite - TikTok
 ||v.service.cgk1.g.byteoversea.net^$dnsrewrite=v.service.cgk3.g.byteoversea.net
 ||v.service.cgk2.g.byteoversea.net^$dnsrewrite=v.service.cgk4.g.byteoversea.net
@@ -39,9 +44,11 @@
 /pull-a5-tt03-infra.*.tiktokv.com/$dnsrewrite=pull-f5-tt03-infra.fcdn.cgk.gts.ttoverseaus.net
 # DNS Dynamic
 ||public1.114dns.com^
+||dns.msftncsi.com^
 # Router Local
 ||*.lan^
 ||*.local^
+||*.arpa^
 ||*.itotolink.net^
 ||*.www.tendawifi.com^
 ||*.ip6.arpa^

@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 1-Agustus-2023 20:30 WIB
+# Last Update : 3-Agustus-2023 20:30 WIB
 # White List
 /.*.lan.*./
 @@||*.mediafire.com^
@@ -218,6 +218,7 @@
 ||zeus.fun^
 ||wap.n.shifen.com^
 ||kasinowarkop.com^
+||*.dn.nexoncdn.co.kr^
 ||akses.games^
 ||event.shelljacket.us^
 ||api.hsselite.com^

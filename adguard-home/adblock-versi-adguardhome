@@ -73,6 +73,7 @@
 /.*.telemetry.*./
 /pete[0-9]kg.lol/
 /maxwin.xyz/
+/[0-9].ampproject.net/
 /s[0-9]-111426.kwimgs.com/
 /sonar6-.*.[0-9]-1.xx.fbcdn.net/
 /server1[0-9].porekosa.*./
@@ -219,6 +220,7 @@
 ||wap.n.shifen.com^
 ||kasinowarkop.com^
 ||*.dn.nexoncdn.co.kr^
+||3p.ampproject.net^
 ||akses.games^
 ||event.shelljacket.us^
 ||api.hsselite.com^

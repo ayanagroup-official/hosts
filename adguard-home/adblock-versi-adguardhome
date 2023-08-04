@@ -1,17 +1,10 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 3-Agustus-2023 20:30 WIB
+# Last Update : 4-Agustus-2023 07:30 WIB
 # White List
 /.*.lan.*./
 @@||*.mediafire.com^
-@@||*.nextdns.io^
-@@||*.adguard.com^
-@@||*.adguard-dns.io^
-@@||*.d.adguard-dns.com^
-@@||*.ngefilm21.pw^ 
-@@||*.similarweb.com^
 @@||analytics.google.com^ 
-@@||c-api-bit.shopeemobile.com^ 
 @@||seller-push-ws.shopee.co.id^
 @@||marketingplatform.google.com^
 @@||axis.customlinks.appsflyer.com^

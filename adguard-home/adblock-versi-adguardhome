@@ -14,7 +14,7 @@
 /1.*.pool.ntp.org/$dnsrewrite=1.id.pool.ntp.org
 /2.*.pool.ntp.org/$dnsrewrite=2.id.pool.ntp.org
 /3.*.pool.ntp.org/$dnsrewrite=3.id.pool.ntp.org
-# Block everything.
+# Block everything IPV6
 /.*/$dnstype=AAAA
 # DNS Rewrite - TikTok
 ||v.service.cgk1.g.byteoversea.net^$dnsrewrite=v.service.cgk3.g.byteoversea.net

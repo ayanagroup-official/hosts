@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 6-Agustus-2023 15:30 WIB
+# Last Update : 7-Agustus-2023 11:00 WIB
 # White List
 @@/.*.lan.*./
 @@||*.mediafire.com^
@@ -43,7 +43,6 @@
 # Router Local
 ||*.lan^
 ||*.local^
-||*.arpa^
 ||*.itotolink.net^
 ||*.www.tendawifi.com^
 ||*.ip6.arpa^

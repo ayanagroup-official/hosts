@@ -39,6 +39,9 @@
 /pull-a5-tt03-infra.*.tiktokv.com/$dnsrewrite=pull-f5-tt03-infra.fcdn.cgk.gts.ttoverseaus.net
 # DNS Dynamic
 ||public1.114dns.com^
+||public2.114dns.com^
+||public1.alidns.com^
+||public2.alidns.com^
 ||dns.msftncsi.com^
 # Router Local
 ||*.lan^

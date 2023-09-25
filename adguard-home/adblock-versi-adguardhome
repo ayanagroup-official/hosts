@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 20-September-2023 10:00 WIB
+# Last Update : 25-September-2023 09:00 WIB
 # White List
 @@||*.mediafire.com^
 @@||analytics.google.com^ 
@@ -84,7 +84,6 @@
 /stat[0-9].notoldrb.monster/
 /[0-9].rsc.cdn77.org/$dnstype=CNAME
 /vulcan[0-9].branch.io/
-/conn[0-9].oppomobile.com/
 /[a-z]epodownload.mediatek.com/
 /logpost[0-9].miniworldgame.com/
 /mssdk-.*.tiktok.com/
@@ -1063,7 +1062,6 @@
 ||kix-ulog.snackvideo.com^
 ||mcds.wshareit.com^
 ||dt.beyla.site^
-||dzbkjh1.myoppo.com^
 ||265.com^
 ||ynuf.aliapp.org^
 ||uxip-res.meizu.com^
@@ -1095,7 +1093,6 @@
 ||cbsusiqkwqxbrmv.com^
 ||app-measurement.com^
 ||api.mythad.com^
-||dragate-sg.dc.oppomobile.com^
 ||linkmonet.com^
 ||gsqiynysbvrivpd.com^
 ||vxvootaqvugx.com^

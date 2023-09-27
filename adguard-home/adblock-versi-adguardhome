@@ -41,6 +41,7 @@
 ||public2.114dns.com^
 ||public1.alidns.com^
 ||public2.alidns.com^
+||pdns.dnspod.cn^
 ||dns.msftncsi.com^
 # Router Local
 ||*.lan^
@@ -1043,7 +1044,6 @@
 ||aigligno.net^
 ||querlfurcal.com^
 ||thetchaixoo.com^
-||dns.msftncsi.com^
 ||ad-free.info^
 ||yandex.eu^
 ||provincebarely.com^

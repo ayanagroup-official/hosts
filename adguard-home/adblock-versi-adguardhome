@@ -16,6 +16,8 @@
 # Block everything IPV6
 /.*/$dnstype=AAAA
 # DNS Rewrite - TikTok
+||v19-cla.tiktokcdn.com^$dnsrewrite=v31.tsel.byteoversea.net
+||v45-p.tiktokcdn.com^$dnsrewrite=v31.tsel.byteoversea.net
 ||v.service.cgk1.g.byteoversea.net^$dnsrewrite=v.service.cgk3.g.byteoversea.net
 ||v.service.cgk2.g.byteoversea.net^$dnsrewrite=v.service.cgk4.g.byteoversea.net
 ||v9-id.tiktokcdn.com^$dnsrewrite=v.service.cgk3.g.byteoversea.net

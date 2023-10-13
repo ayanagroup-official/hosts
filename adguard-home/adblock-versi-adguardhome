@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 11-Okt-2023
+# Last Update : 13-Okt-2023
 # White List
 @@||*.mediafire.com^
 @@||analytics.google.com^ 
@@ -15,29 +15,6 @@
 /3.*.pool.ntp.org/$dnsrewrite=3.id.pool.ntp.org
 # Block everything IPV6
 /.*/$dnstype=AAAA
-# DNS Rewrite - TikTok
-||v19-cla.tiktokcdn.com^$dnsrewrite=v31.tsel.byteoversea.net
-||v45-p.tiktokcdn.com^$dnsrewrite=v31.tsel.byteoversea.net
-||v.service.cgk1.g.byteoversea.net^$dnsrewrite=v.service.cgk3.g.byteoversea.net
-||v.service.cgk2.g.byteoversea.net^$dnsrewrite=v.service.cgk4.g.byteoversea.net
-||v9-id.tiktokcdn.com^$dnsrewrite=v.service.cgk3.g.byteoversea.net
-||v39-id.tiktokcdn.com^$dnsrewrite=v.service.cgk4.g.byteoversea.net
-/v[0-9].tiktokcdn.com/$dnsrewrite=v16.tiktokcdn.com
-/v1[0-9].tiktokcdn.com/$dnsrewrite=v16.tiktokcdn.com
-/v2[0-9].tiktokcdn.com/$dnsrewrite=v16.tiktokcdn.com
-/v4[0-9].tiktokcdn.com/$dnsrewrite=v16.tiktokcdn.com
-/v5[0-9].tiktokcdn.com/$dnsrewrite=v16.tiktokcdn.com
-/pull-f5-tt01.*.tiktokcdn.com/$dnsrewrite=pull-f5-tt01.tiktokcdn.com
-/pull-f5-tt02.*.tiktokcdn.com/$dnsrewrite=pull-f5-tt02.tiktokcdn.com
-/pull-f5-tt03.*.tiktokcdn.com/$dnsrewrite=pull-f5-tt03.tiktokcdn.com
-/pull-f5-sg01.*.tiktokcdn.com/$dnsrewrite=pull-f5-sg01.tiktokcdn.com
-/pull-f5-va01.*.tiktokcdn.com/$dnsrewrite=pull-f5-va01.tiktokcdn.com
-/pull-cmaf-f16-tt03.*.tiktokcdn.com/$dnsrewrite=pull-cmaf-f16-tt03.tiktokcdn.com
-/pull-cmaf-f16-tt02.*.tiktokcdn.com/$dnsrewrite=pull-cmaf-f16-tt02.tiktokcdn.com
-/pull-cmaf-f16-tt01.*.tiktokcdn.com/$dnsrewrite=pull-cmaf-f16-tt01.tiktokcdn.com
-/pull-a5-tt01-infra.*.tiktokv.com/$dnsrewrite=pull-f5-tt01-infra.fcdn.cgk.gts.ttoverseaus.net
-/pull-a5-tt02-infra.*.tiktokv.com/$dnsrewrite=pull-f5-tt02-infra.fcdn.cgk.gts.ttoverseaus.net
-/pull-a5-tt03-infra.*.tiktokv.com/$dnsrewrite=pull-f5-tt03-infra.fcdn.cgk.gts.ttoverseaus.net
 # DNS Dynamic
 ||public1.114dns.com^
 ||public2.114dns.com^

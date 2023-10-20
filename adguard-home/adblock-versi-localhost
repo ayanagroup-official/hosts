@@ -155,11 +155,7 @@
 127.0.0.1 fls-na.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax.amazon-adsystem.com
-# Random
-127.0.0.1 dsp.ads.umeng.com
-127.0.0.1 dubaidriftads.dubaipolicegames.com
-127.0.0.1 soccerads.zerofour.ae
-127.0.0.1 www.alladsnetwork.web.id
+# ADS
 127.0.0.1 ads.jeded.com
 127.0.0.1 ads.projectagoraservices.com
 127.0.0.1 ads.go-games.gg
@@ -206,7 +202,6 @@
 127.0.0.1 ads.youtube.com
 127.0.0.1 ads.rvg.co.id
 127.0.0.1 ads.appbundledownload.com
-127.0.0.1 ads.sticky0.0.0.0 ads.v.com
 127.0.0.1 ads.avocet.io
 127.0.0.1 ads.dfastapp.com
 127.0.0.1 ads.realsrv.com
@@ -248,6 +243,10 @@
 127.0.0.1 ads-service.tiktok.com
 127.0.0.1 ads-sg.tiktok.com
 127.0.0.1 ads-cloud.rovio.com
+127.0.0.1 dsp.ads.umeng.com
+127.0.0.1 dubaidriftads.dubaipolicegames.com
+127.0.0.1 soccerads.zerofour.ae
+127.0.0.1 www.alladsnetwork.web.id
 127.0.0.1 apads.mspremium.io
 127.0.0.1 adx-tracking.mcoreads.com
 127.0.0.1 ucads-cdn.ucweb.com
@@ -309,7 +308,6 @@
 127.0.0.1 s0.2mdn.net
 127.0.0.1 gcdn.2mdn.net
 127.0.0.1 r3---sn-npoldn7e.c.2mdn.net
-127.0.0.1 pemkotspeed.blitarkota.go.id
 127.0.0.1 adsflourish.vnative.net
 127.0.0.1 mod-ads-programad.wamodshost.com
 127.0.0.1 appricotads.g2afse.com
@@ -646,9 +644,9 @@
 127.0.0.1 xlog.tiktokv.com
 127.0.0.1 xlog.byteoversea.com
 127.0.0.1 xlog-va.byteoversea.com
-127.0.0.1 x0.0.0.0 log16-normal-c-useast2a.tiktokv.com
+127.0.0.1 xlog16-normal-c-useast2a.tiktokv.com
 127.0.0.1 xlog.tiktokv.com.edgesuite.net
-127.0.0.1 x0.0.0.0 log16-normal-c-useast2a.tiktokv.com.edgekey.net
+127.0.0.1 xlog16-normal-c-useast2a.tiktokv.com.edgekey.net
 127.0.0.1 log16.byteoversea.com
 127.0.0.1 log15.byteoversea.com
 127.0.0.1 log16-normal-alisg.tiktokv.com

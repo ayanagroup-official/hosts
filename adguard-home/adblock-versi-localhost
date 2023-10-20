@@ -1,5 +1,5 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 19 Okt 2023
+# Last Update : 20 Okt 2023
 # Mode : 127.0.0.1
 # Title : Ads, Analytics, Log, Malware, Tracker & General
 127.0.0.1 asia
@@ -1398,7 +1398,7 @@
 127.0.0.1 zenigameblinger.org
 127.0.0.1 zettapetta.com
 127.0.0.1 zip.er.cz
-#RANDOM
+# RANDOM
 127.0.0.1 ali-stats.jpush.cn
 127.0.0.1 codepush.appcenter.ms
 127.0.0.1 codepush.akulaku.net
@@ -1486,7 +1486,7 @@
 127.0.0.1 mqtt-1652656492.pushy.io
 127.0.0.1 mqtt-1652649322.pushy.io
 127.0.0.1 mqtt-1652649291.pushy.io
-#HEYTAMOBIILE
+# HEYTAMOBIILE
 127.0.0.1 httpdns-push.heytapmobile.com
 127.0.0.1 shortintl.push.heytapmobile.com
 127.0.0.1 dcintl1.push.heytapmobile.com
@@ -1736,9 +1736,7 @@
 127.0.0.1 flatcapspriggy.cam
 127.0.0.1 report.yukbacaberita.com
 127.0.0.1 cdn-static.ap4r.com
-127.0.0.1 obus-sg.dc.heytapmobile.com
 127.0.0.1 www.google.ru
-127.0.0.1 asia-vcode-od.vivoglobal.com
 127.0.0.1 jmacs.maribacaberita.com
 127.0.0.1 scpqjkwmsaevl.com
 127.0.0.1 serch24.biz
@@ -1758,7 +1756,6 @@
 127.0.0.1 www.rssad.jp
 127.0.0.1 www.kontakt-vermittler.de
 127.0.0.1 ya-distrib.ru
-127.0.0.1 mdp-appconf-id.heytapdl.com
 127.0.0.1 www.2aoao.ru
 127.0.0.1 www.aeroflot.ru
 127.0.0.1 www.ak-krasavia.ru

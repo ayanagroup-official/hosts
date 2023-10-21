@@ -95,6 +95,7 @@
 /.*.-appconf-.*.heytapdl.com/
 /[a-z]trace.play.*./
 /s[0-9].histats.com/
+/p[0-9].ahcdn.com/
 # Regex Porn v1
 /porn.*./
 /bokep.*./

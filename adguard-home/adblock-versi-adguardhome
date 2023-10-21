@@ -96,6 +96,7 @@
 /[a-z]trace.play.*./
 /s[0-9].histats.com/
 /p[0-9].ahcdn.com/
+/counter[0-9].sextracker.de/
 # Regex Porn v1
 /porn.*./
 /bokep.*./

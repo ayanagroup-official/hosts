@@ -1,5 +1,5 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 21 Okt 2023
+# Last Update : 26 Okt 2023
 # Mode : 127.0.0.1
 # Title : Ads, Analytics, Log, Malware, Tracker & General
 127.0.0.1 asia
@@ -102,7 +102,7 @@
 127.0.0.1 onebyaol.com
 127.0.0.1 vidible.tv
 127.0.0.1 acds-uset1-ext-prod-a-2089480832.us-east-1.elb.amazonaws.com
-# [ Heytapmobile ]
+# Heytapmobile
 127.0.0.1 adx-id.ads.heytapmobi.com
 127.0.0.1 adsfs-id.heytapimg.com
 127.0.0.1 cl-data-id.ads.heytapmobi.com
@@ -119,6 +119,8 @@
 127.0.0.1 adx-id.ads.heytapmobile.com
 127.0.0.1 adx-my.ads.heytapmobile.com
 127.0.0.1 sgp-ads-heytapmobile-pubgw-344151928.ap-southeast-1.elb.amazonaws.com
+127.0.0.1 t-id.ads.heytapmobile.com
+127.0.0.1 sgp-ads-heytapmobi-pubgw-819691514.ap-southeast-1.elb.amazonaws.com
 # [ Doubleclick ]
 127.0.0.1 doubleclick.com
 127.0.0.1 doubleclickbygoogle.com
@@ -188,7 +190,6 @@
 127.0.0.1 ads.superawesome.tv
 127.0.0.1 ads.tapdaq.com
 127.0.0.1 ads.avct.cloud
-127.0.0.1 ads.tiktok.com
 127.0.0.1 ads.baca.co.id.mcchcdn.com
 127.0.0.1 ads.gridtechno.com
 127.0.0.1 ads.appbundledownload.com
@@ -227,9 +228,6 @@
 127.0.0.1 ads-news.cc
 127.0.0.1 ads-bi.zenkube.com
 127.0.0.1 ads-advertiser.srinapps.com
-127.0.0.1 ads-api.tiktok.com
-127.0.0.1 ads-sg.tiktok.com
-127.0.0.1 ads-va.tiktok.com
 127.0.0.1 ads-api.trafficad-biz.com
 127.0.0.1 ads-sdk.mattel163.com
 127.0.0.1 ads-cdn.grab.com
@@ -240,8 +238,6 @@
 127.0.0.1 ads-ap.v.ssp.yahoo.com
 127.0.0.1 ads-mumbai.qury.me
 127.0.0.1 ads-partner-noneu.truecaller.com
-127.0.0.1 ads-service.tiktok.com
-127.0.0.1 ads-sg.tiktok.com
 127.0.0.1 ads-cloud.rovio.com
 127.0.0.1 dsp.ads.umeng.com
 127.0.0.1 dubaidriftads.dubaipolicegames.com
@@ -262,7 +258,6 @@
 127.0.0.1 adssdk.ryakovlev.ru
 127.0.0.1 api.adserver.vrizead.com
 127.0.0.1 adsystem.jedimobi.com
-127.0.0.1 sgp-ads-heytapmobi-pubgw-819691514.ap-southeast-1.elb.amazonaws.com
 127.0.0.1 code.beaverads.com
 127.0.0.1 purpleads.io
 127.0.0.1 api.purpleads.io
@@ -289,7 +284,6 @@
 127.0.0.1 onclickads.net
 127.0.0.1 asia.creativecdn.com
 127.0.0.1 pixel.advertising.com
-127.0.0.1 affiliate.tiktok.com
 127.0.0.1 adsmetadata.startappservice.com
 127.0.0.1 px.ads.linkedin.com
 127.0.0.1 adsymptotic.com
@@ -351,7 +345,6 @@
 127.0.0.1 adsmetadata.mobileadexchange.net
 127.0.0.1 adserv.ontek.com.tr
 127.0.0.1 heads-fa.scdn.co
-127.0.0.1 analytics-sg.tiktok.com
 127.0.0.1 api.myadsget.com
 127.0.0.1 ads2.contentabc.com
 127.0.0.1 adserver.kl-youniverse.com
@@ -401,7 +394,6 @@
 127.0.0.1 ads.gadsme.com
 127.0.0.1 static.gadsme.gg
 127.0.0.1 revboostprocdnadsprod.azureedge.net
-127.0.0.1 t-id.ads.heytapmobile.com
 127.0.0.1 adserver.kl-youniverse.com
 127.0.0.1 ads.playground.xyz
 127.0.0.1 163fd0cbd6.ad2608fb9c.com
@@ -1358,7 +1350,6 @@
 127.0.0.1 push-api.duowan.com
 127.0.0.1 push.cml.ksmobile.com
 127.0.0.1 in-page-push.net
-127.0.0.1 id.push.heytapmobi.com
 127.0.0.1 img-intl-push.heytapimg.com
 127.0.0.1 push.services.mozilla.com
 127.0.0.1 push-img.wshareit.com
@@ -1410,34 +1401,6 @@
 127.0.0.1 push-rtmp-l11.tiktokcdn.livepush.myqcloud.com
 127.0.0.1 lbsonline.pushct.baidu.com
 127.0.0.1 mqtt-gw.pushnotifs.com
-# HEYTAMOBIILE
-127.0.0.1 httpdns-push.heytapmobile.com
-127.0.0.1 shortintl.push.heytapmobile.com
-127.0.0.1 dcintl1.push.heytapmobile.com
-127.0.0.1 dcintl.push.heytapmobile.com
-127.0.0.1 httpdns-push-heytapmobile-com-155585118.ap-southeast-1.elb.amazonaws.com
-# TIKTOK
-127.0.0.1 push-rtmp-f5-sg01.tiktokcdn.com
-127.0.0.1 push-rtmp-l1-sg01.ttlivecdn.com
-127.0.0.1 push-rtmp-f5-sg01.ttlivecdn.com
-127.0.0.1 push-rtmp-f5-tt02.fcdn.us.tiktokv.com.c.worldfcdn2.com
-127.0.0.1 push-rtmp-l1-gcp01.tiktokcdn.com.wsdvs.com
-127.0.0.1 push-rtmp-l16-sg01.tiktokcdn.com
-127.0.0.1 push-rtmp-l11-sg01.tiktokcdn.com
-127.0.0.1 push-rtmp-l10-sg01.tiktokcdn.com
-127.0.0.1 push-rtmp-l1-sg01.tiktokcdn.com
-127.0.0.1 push-rtmp-f5-gcp01.tiktokcdn.com
-127.0.0.1 push-rtmp-l16-gcp01.tiktokcdn.com
-127.0.0.1 push-rtmp-l11-gcp01.tiktokcdn.com
-127.0.0.1 push-rtmp-l1-gcp01.ttlivecdn.com
-127.0.0.1 push-rtmp-f5-gcp01.ttlivecdn.com
-127.0.0.1 push-rtmp-f5-tt02.fcdn.us.tiktokv.com
-127.0.0.1 push-rtmp-l16-gcp01.tiktokcdn.com.atomile.com
-127.0.0.1 push-rtmp-f5-gcp01.tiktokcdn.com.c.worldfcdn.com
-127.0.0.1 push-rtmp-l1-gcp01.tiktokcdn.com
-127.0.0.1 push-rtmp-l11-gcp01.ttlivecdn.com
-127.0.0.1 push-rtmp-l11-sg01.ttlivecdn.com
-127.0.0.1 push-rtmp-l1-gcp01.ttlivecdn.com.wsdvs.com
 # Trackers 
 127.0.0.1 track.hubspot.com
 127.0.0.1 track.seanear.com
@@ -1591,7 +1554,6 @@
 127.0.0.1 adserver.adtech.advertising.com
 127.0.0.1 www.clarity.ms
 127.0.0.1 d.agkn.com
-127.0.0.1 frontier.tiktokv.com
 127.0.0.1 wc.meson.ai
 127.0.0.1 t.contentsquare.net
 127.0.0.1 bidder.criteo.com
@@ -1762,10 +1724,38 @@
 127.0.0.1 jp1-bid.adsrvr.org
 127.0.0.1 ie1-bid.adsrvr.org
 127.0.0.1 hk3-bid.adsrvr.org
-# [ tiktok ]
+# [ Tiktok ]
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analytics-sg.tiktok.com
 127.0.0.1 analytics-attribution.tiktok.com
+127.0.0.1 ads-service.tiktok.com
+127.0.0.1 ads-sg.tiktok.com
+127.0.0.1 ads.tiktok.com
+127.0.0.1 ads-api.tiktok.com
+127.0.0.1 ads-sg.tiktok.com
+127.0.0.1 ads-va.tiktok.com
+# PUSH-TIKTOK
+127.0.0.1 push-rtmp-f5-sg01.tiktokcdn.com
+127.0.0.1 push-rtmp-l1-sg01.ttlivecdn.com
+127.0.0.1 push-rtmp-f5-sg01.ttlivecdn.com
+127.0.0.1 push-rtmp-f5-tt02.fcdn.us.tiktokv.com.c.worldfcdn2.com
+127.0.0.1 push-rtmp-l1-gcp01.tiktokcdn.com.wsdvs.com
+127.0.0.1 push-rtmp-l16-sg01.tiktokcdn.com
+127.0.0.1 push-rtmp-l11-sg01.tiktokcdn.com
+127.0.0.1 push-rtmp-l10-sg01.tiktokcdn.com
+127.0.0.1 push-rtmp-l1-sg01.tiktokcdn.com
+127.0.0.1 push-rtmp-f5-gcp01.tiktokcdn.com
+127.0.0.1 push-rtmp-l16-gcp01.tiktokcdn.com
+127.0.0.1 push-rtmp-l11-gcp01.tiktokcdn.com
+127.0.0.1 push-rtmp-l1-gcp01.ttlivecdn.com
+127.0.0.1 push-rtmp-f5-gcp01.ttlivecdn.com
+127.0.0.1 push-rtmp-f5-tt02.fcdn.us.tiktokv.com
+127.0.0.1 push-rtmp-l16-gcp01.tiktokcdn.com.atomile.com
+127.0.0.1 push-rtmp-f5-gcp01.tiktokcdn.com.c.worldfcdn.com
+127.0.0.1 push-rtmp-l1-gcp01.tiktokcdn.com
+127.0.0.1 push-rtmp-l11-gcp01.ttlivecdn.com
+127.0.0.1 push-rtmp-l11-sg01.ttlivecdn.com
+127.0.0.1 push-rtmp-l1-gcp01.ttlivecdn.com.wsdvs.com
 # MALWARE
 127.0.0.1 eqads.com
 127.0.0.1 um2.eqads.com
@@ -1961,7 +1951,7 @@
 127.0.0.1 myphotos.xyz
 127.0.0.1 onlinegt.xyz
 127.0.0.1 picsgifs.xyz
-# Porn
+# PORN
 127.0.0.1 indoanh1.bokepindosange.info
 127.0.0.1 hotvideo.bokep18.info
 127.0.0.1 bokepindo.win
@@ -2050,16 +2040,6 @@
 127.0.0.1 amp.pornmaster.fun
 127.0.0.1 amp-hifiporn-fun.cdn.ampproject.org
 127.0.0.1 amp-pornmaster-fun.cdn.ampproject.org
-127.0.0.1 cdn1-pornmaster-fun.cdn.ampproject.org
-127.0.0.1 cdn2-pornmaster-fun.cdn.ampproject.org
-127.0.0.1 cdn3-pornmaster-fun.cdn.ampproject.org
-127.0.0.1 cdn4-pornmaster-fun.cdn.ampproject.org
-127.0.0.1 cdn5-pornmaster-fun.cdn.ampproject.org
-127.0.0.1 cdn6-pornmaster-fun.cdn.ampproject.org
-127.0.0.1 cdn7-pornmaster-fun.cdn.ampproject.org
-127.0.0.1 cdn8-pornmaster-fun.cdn.ampproject.org
-127.0.0.1 cdn9-pornmaster-fun.cdn.ampproject.org
-127.0.0.1 cdn10-pornmaster-fun.cdn.ampproject.org
 127.0.0.1 www.porn998.com
 127.0.0.1 desipornosex.com
 127.0.0.1 sex2fun.com

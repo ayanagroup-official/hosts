@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 18-Des-2023
+# Last Update : 19-Des-2023
 # Black List
 ||*.fpnh11-1.fna.fbcdn.net^$important
 ||*.fpnh11-2.fna.fbcdn.net^$important
@@ -12,3 +12,7 @@
 ||*.ftuc1-1.fna.fbcdn.net^$important
 ||*.ftuc1-2.fna.fbcdn.net^$important
 ||*.fcnq5-1.fna.fbcdn.net^$important
+||*.fios4-1.fna.fbcdn.net^$important
+||*.fpat3-1.fna.fbcdn.net^$important
+||*.fpat3-2.fna.fbcdn.net^$important
+||*.fpat3-3.fna.fbcdn.net^$important

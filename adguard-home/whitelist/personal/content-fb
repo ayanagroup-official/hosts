@@ -1,0 +1,72 @@
+# From : Indonesia (Jawa Timur)
+# Last Update : 20 Des 2023
+# Mode : Adguard Home
+# Title : Facebook
+# Malang
+/.*.fmlg[0-9]-[0-9].fna.fbcdn.net/
+# Surabaya
+/.*.fsub[0-9]-[0-9].fna.fbcdn.net/
+# Jakarta
+/.*.fcgk[0-9]-[0-9].fna.fbcdn.net/
+# Serang
+/.*.fsrg[0-9]-[0-9].fna.fbcdn.net/
+# Indosat
+/.*.fbdo[0-9]-[0-9].fna.fbcdn.net/
+/.*.fkno[0-9]-[0-9].fna.fbcdn.net/
+# Telkomsel
+/.*.ftim1-[0-9].fna.fbcdn.net/
+/.*.fbdj2-[0-9].fna.fbcdn.net/
+/.*.fpku3-[0-9].fna.fbcdn.net/
+/.*.fdjb2-[0-9].fna.fbcdn.net/
+/.*.fupg1-[0-9].fna.fbcdn.net/
+/.*.fupg2-[0-9].fna.fbcdn.net/
+/.*.fdtb1-[0-9].fna.fbcdn.net/
+/.*.famq1-[0-9].fna.fbcdn.net/
+/.*.fbtj2-[0-9].fna.fbcdn.net/
+/.*.fmof1-[0-9].fna.fbcdn.net/
+/.*.fsrg4-[0-9].fna.fbcdn.net/
+/.*.fbpn4-[0-9].fna.fbcdn.net/
+/.*.fplw1-[0-9].fna.fbcdn.net/
+/.*.fpky1-[0-9].fna.fbcdn.net/
+/.*.fpdg2-[0-9].fna.fbcdn.net/
+/.*.fpku2-[0-9].fna.fbcdn.net/
+/.*.fdjj1-[0-9].fna.fbcdn.net/
+/.*.ftkg3-[0-9].fna.fbcdn.net/
+/.*.fplm3-[0-9].fna.fbcdn.net/
+/.*.fsoc2-[0-9].fna.fbcdn.net/
+/.*.fdps10-[0-9].fna.fbcdn.net/
+/.*.fdps4-[0-9].fna.fbcdn.net/
+/.*.fsri1-[0-9].fna.fbcdn.net/
+# Telkom
+/.*.fsub8-[0-9].fna.fbcdn.net/
+/.*.fdps5-[0-9].fna.fbcdn.net/
+/.*.fbdo9-[0-9].fna.fbcdn.net/
+/.*.fcgk27-[0-9].fna.fbcdn.net/
+/.*.fcgk33-[0-9].fna.fbcdn.net/
+/.*.fmnl6-[0-9].fna.fbcdn.net/
+/.*.fbpn3-[0-9].fna.fbcdn.net/
+/.*.fcgk18-[0-9].fna.fbcdn.net/
+/.*.fbpn2-[0-9].fna.fbcdn.net/
+/.*.fsrg6-[0-9].fna.fbcdn.net/
+/.*.fbdj4-[0-9].fna.fbcdn.net/
+/.*.fkno6-[0-9].fna.fbcdn.net/
+/.*.fplm4-[0-9].fna.fbcdn.net/
+/.*.fjog3-[0-9].fna.fbcdn.net/
+/.*.fcgk43-[0-9].fna.fbcdn.net/
+# Hutchison
+/.*.fcgk1-[0-9].fna.fbcdn.net/
+/.*.fmlg2-[0-9].fna.fbcdn.net/
+/.*.fsub5-[0-9].fna.fbcdn.net/
+/.*.fpnk1-[0-9].fna.fbcdn.net/
+/.*.fbdo1-[0-9].fna.fbcdn.net/
+/.*.fsrg1-[0-9].fna.fbcdn.net/
+/.*.fpku4-[0-9].fna.fbcdn.net/
+/.*.fsoc1-[0-9].fna.fbcdn.net/
+/.*.fdjb1-[0-9].fna.fbcdn.net/
+/.*.fcgk11-[0-9].fna.fbcdn.net/
+/.*.fsrg3-[0-9].fna.fbcdn.net/
+# Icon Plus
+/.*.fcgk22-[0-9].fna.fbcdn.net/
+/.*.fsub15-[0-9].fna.fbcdn.net/
+# Biznet
+/.*.fsub9-[0-9].fna.fbcdn.net/

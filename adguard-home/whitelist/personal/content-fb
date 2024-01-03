@@ -1,7 +1,9 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 27 Des 2023
+# Last Update : 3 Jan 2024
 # Mode : Adguard Home
 # Title : Facebook
+# General
+/.*.fmdc[0-9]-[0-9].fna.fbcdn.net/
 # Malang
 /.*.fmlg[0-9]-[0-9].fna.fbcdn.net/
 # Surabaya

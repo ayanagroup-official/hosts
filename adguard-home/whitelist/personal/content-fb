@@ -1,9 +1,11 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 3 Jan 2024
+# Last Update : 5 Jan 2024
 # Mode : Adguard Home
 # Title : Facebook
 # General
 /.*.fmdc[0-9]-[0-9].fna.fbcdn.net/
+/.*.fjog[0-9]-[0-9].fna.fbcdn.net/
+/.*.fplm[0-9]-[0-9].fna.fbcdn.net/
 # Malang
 /.*.fmlg[0-9]-[0-9].fna.fbcdn.net/
 # Surabaya
@@ -33,7 +35,6 @@
 /.*.fpku2-[0-9].fna.fbcdn.net/
 /.*.fdjj1-[0-9].fna.fbcdn.net/
 /.*.ftkg3-[0-9].fna.fbcdn.net/
-/.*.fplm3-[0-9].fna.fbcdn.net/
 /.*.fsoc2-[0-9].fna.fbcdn.net/
 /.*.fdps10-[0-9].fna.fbcdn.net/
 /.*.fdps4-[0-9].fna.fbcdn.net/
@@ -46,8 +47,6 @@
 /.*.fbpn2-[0-9].fna.fbcdn.net/
 /.*.fbdj4-[0-9].fna.fbcdn.net/
 /.*.fkno6-[0-9].fna.fbcdn.net/
-/.*.fplm4-[0-9].fna.fbcdn.net/
-/.*.fjog3-[0-9].fna.fbcdn.net/
 # Hutchison
 /.*.fpnk1-[0-9].fna.fbcdn.net/
 /.*.fbdo1-[0-9].fna.fbcdn.net/
@@ -56,9 +55,7 @@
 /.*.fdjb1-[0-9].fna.fbcdn.net/
 # Axiata
 /.*.fdps3-[0-9].fna.fbcdn.net/
-/.*.fjog9-[0-9].fna.fbcdn.net/
 /.*.fkno2-[0-9].fna.fbcdn.net/
 /.*.fupg7-[0-9].fna.fbcdn.net/
-/.*.fplm6-[0-9].fna.fbcdn.net/
 /.*.fbdj6-[0-9].fna.fbcdn.net/
 /.*.fbdo3-[0-9].fna.fbcdn.net/

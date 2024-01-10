@@ -1,5 +1,5 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 5 Jan 2024
+# Last Update : 10 Jan 2024
 # Mode : Adguard Home
 # Title : Facebook
 # General
@@ -8,10 +8,37 @@
 /.*.fplm[0-9]-[0-9].fna.fbcdn.net/
 # Malang
 /.*.fmlg[0-9]-[0-9].fna.fbcdn.net/
+/.*.fmlg1[0-9]-[0-9].fna.fbcdn.net/
+/.*.fmlg2[0-9]-[0-9].fna.fbcdn.net/
+/.*.fmlg3[0-9]-[0-9].fna.fbcdn.net/
+/.*.fmlg4[0-9]-[0-9].fna.fbcdn.net/
+/.*.fmlg5[0-9]-[0-9].fna.fbcdn.net/
+/.*.fmlg6[0-9]-[0-9].fna.fbcdn.net/
+/.*.fmlg7[0-9]-[0-9].fna.fbcdn.net/
+/.*.fmlg8[0-9]-[0-9].fna.fbcdn.net/
+/.*.fmlg9[0-9]-[0-9].fna.fbcdn.net/
 # Surabaya
 /.*.fsub[0-9]-[0-9].fna.fbcdn.net/
+/.*.fsub1[0-9]-[0-9].fna.fbcdn.net/
+/.*.fsub2[0-9]-[0-9].fna.fbcdn.net/
+/.*.fsub3[0-9]-[0-9].fna.fbcdn.net/
+/.*.fsub4[0-9]-[0-9].fna.fbcdn.net/
+/.*.fsub5[0-9]-[0-9].fna.fbcdn.net/
+/.*.fsub6[0-9]-[0-9].fna.fbcdn.net/
+/.*.fsub7[0-9]-[0-9].fna.fbcdn.net/
+/.*.fsub8[0-9]-[0-9].fna.fbcdn.net/
+/.*.fsub9[0-9]-[0-9].fna.fbcdn.net/
 # Jakarta
 /.*.fcgk[0-9]-[0-9].fna.fbcdn.net/
+/.*.fcgk1[0-9]-[0-9].fna.fbcdn.net/
+/.*.fcgk2[0-9]-[0-9].fna.fbcdn.net/
+/.*.fcgk3[0-9]-[0-9].fna.fbcdn.net/
+/.*.fcgk4[0-9]-[0-9].fna.fbcdn.net/
+/.*.fcgk5[0-9]-[0-9].fna.fbcdn.net/
+/.*.fcgk6[0-9]-[0-9].fna.fbcdn.net/
+/.*.fcgk7[0-9]-[0-9].fna.fbcdn.net/
+/.*.fcgk8[0-9]-[0-9].fna.fbcdn.net/
+/.*.fcgk9[0-9]-[0-9].fna.fbcdn.net/
 # Serang
 /.*.fsrg[0-9]-[0-9].fna.fbcdn.net/
 # Indosat

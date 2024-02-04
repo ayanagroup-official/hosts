@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 26-Okt-2023
+# Last Update : 4-Feb-2024
 # White List
 @@||*.mediafire.com^
 @@||analytics.google.com^ 
@@ -204,6 +204,13 @@
 ||*.log.shortbread.aws.dev^
 ||*.ads.global-fashion-group.com^
 ||*._https.browser-inspect.com^
+||mainlotre.link^
+||jaga.link^
+||dolink.id^
+||infointernet.me^
+||dewiggtop9.com^
+||stepboost.buzz^
+||link10-panglima.com^
 ||zeus.fun^
 ||isolir.indihome.co.id^
 ||wap.n.shifen.com^

@@ -104,6 +104,11 @@
 /ranswin[0-9].cc/
 /zeus[0-9]d.vip/
 /momo[0-9]jp.com/
+/mjvg[0-9].com/
+/bet[0-9]dtoto[0-9]d.com/
+/joinmantap[0-9].com/
+/scattermahjongway[0-9].xyz/
+/fortun[0-9]jp.com/
 # Regex Porn v1
 /porn.*./
 /bokep.*./
@@ -208,6 +213,18 @@
 ||*.log.shortbread.aws.dev^
 ||*.ads.global-fashion-group.com^
 ||*._https.browser-inspect.com^
+||slotgcor.info^
+||hongkongpools.com^
+||sydneypoolstoday.com^
+||link1-timur.com^
+||link2-timur.com^
+||pasti.cuan^
+||saringgan.com^
+||kietserverthailand.online^
+||linkfb.io^
+||tastingtablesweepstakes.com^
+||spaynj.net^
+||amatjaya.com^
 ||mainlotre.link^
 ||jaga.link^
 ||dolink.id^

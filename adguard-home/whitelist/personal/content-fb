@@ -1,92 +1,65 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 23 Maret 2024
+# Last Update : 4 April 2024
 # Mode : Adguard Home
 # Title : Facebook
 # General
-/.*.fmdc[0-9]-[0-9].fna.fbcdn.net/
-/.*.fjog[0-9]-[0-9].fna.fbcdn.net/
-/.*.fplm[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fsoc[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fsoc1[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fsoc2[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fkno[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fkno1[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fkno2[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fupg[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fupg1-[0-9].fna.fbcdn.net/
+@@/.*.fupg2-[0-9].fna.fbcdn.net/
+@@/.*.fbdo[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fbdo1-[0-9].fna.fbcdn.net/
+@@/.*.fbdo2-[0-9].fna.fbcdn.net/
+@@/.*.fpku[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fpku1-[0-9].fna.fbcdn.net/
+@@/.*.fpku2-[0-9].fna.fbcdn.net/
 # Malang
-/.*.fmlg[0-9]-[0-9].fna.fbcdn.net/
-/.*.fmlg1[0-9]-[0-9].fna.fbcdn.net/
-/.*.fmlg2[0-9]-[0-9].fna.fbcdn.net/
-/.*.fmlg3[0-9]-[0-9].fna.fbcdn.net/
-/.*.fmlg4[0-9]-[0-9].fna.fbcdn.net/
-/.*.fmlg5[0-9]-[0-9].fna.fbcdn.net/
-/.*.fmlg6[0-9]-[0-9].fna.fbcdn.net/
-/.*.fmlg7[0-9]-[0-9].fna.fbcdn.net/
-/.*.fmlg8[0-9]-[0-9].fna.fbcdn.net/
-/.*.fmlg9[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fmlg[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fmlg1[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fmlg2[0-9]-[0-9].fna.fbcdn.net/
 # Surabaya
-/.*.fsub[0-9]-[0-9].fna.fbcdn.net/
-/.*.fsub1[0-9]-[0-9].fna.fbcdn.net/
-/.*.fsub2[0-9]-[0-9].fna.fbcdn.net/
-/.*.fsub3[0-9]-[0-9].fna.fbcdn.net/
-/.*.fsub4[0-9]-[0-9].fna.fbcdn.net/
-/.*.fsub5[0-9]-[0-9].fna.fbcdn.net/
-/.*.fsub6[0-9]-[0-9].fna.fbcdn.net/
-/.*.fsub7[0-9]-[0-9].fna.fbcdn.net/
-/.*.fsub8[0-9]-[0-9].fna.fbcdn.net/
-/.*.fsub9[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fsub[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fsub1[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fsub2[0-9]-[0-9].fna.fbcdn.net/
 # Jakarta
-/.*.fcgk[0-9]-[0-9].fna.fbcdn.net/
-/.*.fcgk1[0-9]-[0-9].fna.fbcdn.net/
-/.*.fcgk2[0-9]-[0-9].fna.fbcdn.net/
-/.*.fcgk3[0-9]-[0-9].fna.fbcdn.net/
-/.*.fcgk4[0-9]-[0-9].fna.fbcdn.net/
-/.*.fcgk5[0-9]-[0-9].fna.fbcdn.net/
-/.*.fcgk6[0-9]-[0-9].fna.fbcdn.net/
-/.*.fcgk7[0-9]-[0-9].fna.fbcdn.net/
-/.*.fcgk8[0-9]-[0-9].fna.fbcdn.net/
-/.*.fcgk9[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fcgk[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fcgk1[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fcgk2[0-9]-[0-9].fna.fbcdn.net/
 # Serang
-/.*.fsrg[0-9]-[0-9].fna.fbcdn.net/
-# Indosat
-/.*.fbdo[0-9]-[0-9].fna.fbcdn.net/
-/.*.fkno[0-9]-[0-9].fna.fbcdn.net/
-# Telkomsel
-/.*.ftim1-[0-9].fna.fbcdn.net/
-/.*.fbdj2-[0-9].fna.fbcdn.net/
-/.*.fpku3-[0-9].fna.fbcdn.net/
-/.*.fdjb2-[0-9].fna.fbcdn.net/
-/.*.fupg1-[0-9].fna.fbcdn.net/
-/.*.fupg2-[0-9].fna.fbcdn.net/
-/.*.fdtb1-[0-9].fna.fbcdn.net/
-/.*.famq1-[0-9].fna.fbcdn.net/
-/.*.fbtj2-[0-9].fna.fbcdn.net/
-/.*.fmof1-[0-9].fna.fbcdn.net/
-/.*.fbpn4-[0-9].fna.fbcdn.net/
-/.*.fplw1-[0-9].fna.fbcdn.net/
-/.*.fpky1-[0-9].fna.fbcdn.net/
-/.*.fpdg2-[0-9].fna.fbcdn.net/
-/.*.fpku2-[0-9].fna.fbcdn.net/
-/.*.fdjj1-[0-9].fna.fbcdn.net/
-/.*.ftkg3-[0-9].fna.fbcdn.net/
-/.*.fsoc2-[0-9].fna.fbcdn.net/
-/.*.fdps10-[0-9].fna.fbcdn.net/
-/.*.fdps4-[0-9].fna.fbcdn.net/
-/.*.fsri1-[0-9].fna.fbcdn.net/
-# Telkom
-/.*.fdps5-[0-9].fna.fbcdn.net/
-/.*.fbdo9-[0-9].fna.fbcdn.net/
-/.*.fmnl6-[0-9].fna.fbcdn.net/
-/.*.fbpn3-[0-9].fna.fbcdn.net/
-/.*.fbpn2-[0-9].fna.fbcdn.net/
-/.*.fbdj4-[0-9].fna.fbcdn.net/
-/.*.fkno6-[0-9].fna.fbcdn.net/
-# Hutchison
-/.*.fpnk1-[0-9].fna.fbcdn.net/
-/.*.fbdo1-[0-9].fna.fbcdn.net/
-/.*.fpku4-[0-9].fna.fbcdn.net/
-/.*.fsoc1-[0-9].fna.fbcdn.net/
-/.*.fdjb1-[0-9].fna.fbcdn.net/
-# Axiata
-/.*.fdps3-[0-9].fna.fbcdn.net/
-/.*.fkno2-[0-9].fna.fbcdn.net/
-/.*.fupg7-[0-9].fna.fbcdn.net/
-/.*.fbdj6-[0-9].fna.fbcdn.net/
-/.*.fbdo3-[0-9].fna.fbcdn.net/
-#
-/.*.fsoc[0-9]-[0-9].fna.fbcdn.net/
-/.*.fsoc1[0-9]-[0-9].fna.fbcdn.net/
-/.*.fsoc2[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fsrg[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fsrg1[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fsrg2[0-9]-[0-9].fna.fbcdn.net/
+# Random
+@@/.*.ftim1-[0-9].fna.fbcdn.net/
+@@/.*.fbdj2-[0-9].fna.fbcdn.net/
+@@/.*.fdjb2-[0-9].fna.fbcdn.net/
+@@/.*.fdtb1-[0-9].fna.fbcdn.net/
+@@/.*.famq1-[0-9].fna.fbcdn.net/
+@@/.*.fbtj2-[0-9].fna.fbcdn.net/
+@@/.*.fmof1-[0-9].fna.fbcdn.net/
+@@/.*.fbpn4-[0-9].fna.fbcdn.net/
+@@/.*.fplw1-[0-9].fna.fbcdn.net/
+@@/.*.fpky1-[0-9].fna.fbcdn.net/
+@@/.*.fpdg2-[0-9].fna.fbcdn.net/
+@@/.*.fdjj1-[0-9].fna.fbcdn.net/
+@@/.*.ftkg3-[0-9].fna.fbcdn.net/
+@@/.*.fdps10-[0-9].fna.fbcdn.net/
+@@/.*.fdps4-[0-9].fna.fbcdn.net/
+@@/.*.fsri1-[0-9].fna.fbcdn.net/
+@@/.*.fdps5-[0-9].fna.fbcdn.net/
+@@/.*.fmnl6-[0-9].fna.fbcdn.net/
+@@/.*.fbpn3-[0-9].fna.fbcdn.net/
+@@/.*.fbpn2-[0-9].fna.fbcdn.net/
+@@/.*.fbdj4-[0-9].fna.fbcdn.net/
+@@/.*.fpnk1-[0-9].fna.fbcdn.net/
+@@/.*.fdjb1-[0-9].fna.fbcdn.net/
+@@/.*.fdps3-[0-9].fna.fbcdn.net/
+@@/.*.fbdj6-[0-9].fna.fbcdn.net/
+@@/.*.fmdc[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fjog[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fplm[0-9]-[0-9].fna.fbcdn.net/

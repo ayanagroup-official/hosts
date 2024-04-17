@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 22-Maret-2024
+# Last Update : 17-April-2024
 # White List
 @@||*.mediafire.com^
 @@||analytics.google.com^ 
@@ -22,6 +22,8 @@
 ||public2.alidns.com^
 ||pdns.dnspod.cn^
 ||dns.msftncsi.com^
+||dns.weixin.qq.com^
+||aedns.weixin.qq.com^
 # Router Local
 ||*.lan^
 ||*.local^

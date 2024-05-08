@@ -1,7 +1,8 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 17-April-2024
+# Last Update : 9-Mei-2024
 # White List
+@@||st.agrd.eu^
 @@||*.mediafire.com^
 @@||analytics.google.com^ 
 @@||seller-push-ws.shopee.co.id^
@@ -213,6 +214,7 @@
 ||*.palmplaystore.com^
 ||*.logs.datadoghq.com^
 ||*.log.shortbread.aws.dev^
+||t-ulog-snack.kwaipros.com^
 ||*.ads.global-fashion-group.com^
 ||*._https.browser-inspect.com^
 ||*.pragmaticplay.net^

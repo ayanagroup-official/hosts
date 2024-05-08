@@ -9,6 +9,20 @@
 @@||marketingplatform.google.com^
 @@||axis.customlinks.appsflyer.com^
 @@||calendarpushsubscription-pa.googleapis.com^
+# TikTok Non ID
+||*.eu.tiktokv.com^
+||*.us.tiktokv.com^
+||*.eu.tiktokcdn.com^
+||*.us.tiktokcdn.com^
+||*.tiktokcdn-eu.com^
+||*.tiktokcdn-us.com^
+# Regex TikTok
+/useast1a.*/
+/useast2a.*/
+/*.eu.tiktokv.com.*/
+/*.us.tiktokv.com.*/
+/*.eu.tiktokcdn.com.*/
+/*.us.tiktokcdn.com.*/
 # NTP
 /0.*.pool.ntp.org/$dnsrewrite=0.id.pool.ntp.org
 /1.*.pool.ntp.org/$dnsrewrite=1.id.pool.ntp.org

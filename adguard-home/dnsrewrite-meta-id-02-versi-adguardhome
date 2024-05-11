@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 24-Juli-2023
+# Last Update : 11-Mei-2024
 # DNS Rewrite - WhatsApp
 |whatsapp.com^$dnsrewrite=NOERROR;whatsapp-cdn-shv-02-cgk1.fbcdn.net
 ||v.whatsapp.net^$dnsrewrite=NOERROR;whatsapp-cdn-shv-02-cgk1.fbcdn.net

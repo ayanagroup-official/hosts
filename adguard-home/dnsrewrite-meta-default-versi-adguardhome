@@ -1,37 +1,37 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 11-Mei-2024
+# Last Update : 18-Mei-2024
 # DNS Rewrite - WhatsApp
 /media-.*.-1.cdn.whatsapp.net/$dnsrewrite=media-cgk1-1.cdn.whatsapp.net
 /media-.*.-2.cdn.whatsapp.net/$dnsrewrite=media-cgk1-2.cdn.whatsapp.net
-/media-.*.-3.cdn.whatsapp.net/$dnsrewrite=media-cgk1-1.cdn.whatsapp.net
+/media-.*.-3.cdn.whatsapp.net/$dnsrewrite=media-cgk2-1.cdn.whatsapp.net
 /media-.*.-4.cdn.whatsapp.net/$dnsrewrite=media-cgk1-2.cdn.whatsapp.net
 /whatsapp-cdn-shv-01-.*.fbcdn.net/$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
 /whatsapp-cdn-shv-02-.*.fbcdn.net/$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
-/whatsapp-cdn-shv-03-.*.fbcdn.net/$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
+/whatsapp-cdn-shv-03-.*.fbcdn.net/$dnsrewrite=whatsapp-cdn-shv-01-cgk2.fbcdn.net
 /whatsapp-cdn-shv-04-.*.fbcdn.net/$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
 # DNS Rewrite - Facebook - Instagram
 /video-.*.-1.xx.fbcdn.net/$dnsrewrite=video-cgk1-1.xx.fbcdn.net
 /video-.*.-2.xx.fbcdn.net/$dnsrewrite=video-cgk1-2.xx.fbcdn.net
-/video-.*.-3.xx.fbcdn.net/$dnsrewrite=video-cgk1-1.xx.fbcdn.net
+/video-.*.-3.xx.fbcdn.net/$dnsrewrite=video-cgk2-1.xx.fbcdn.net
 /video-.*.-4.xx.fbcdn.net/$dnsrewrite=video-cgk1-2.xx.fbcdn.net
 /static-.*.-1.xx.fbcdn.net/$dnsrewrite=scontent-cgk1-1.xx.fbcdn.net
 /static-.*.-2.xx.fbcdn.net/$dnsrewrite=scontent-cgk1-2.xx.fbcdn.net
-/static-.*.-3.xx.fbcdn.net/$dnsrewrite=scontent-cgk1-1.xx.fbcdn.net
+/static-.*.-3.xx.fbcdn.net/$dnsrewrite=scontent-cgk2-1.xx.fbcdn.net
 /static-.*.-4.xx.fbcdn.net/$dnsrewrite=scontent-cgk1-2.xx.fbcdn.net
 /external-.*.-1.xx.fbcdn.net/$dnsrewrite=scontent-cgk1-1.xx.fbcdn.net
 /external-.*.-2.xx.fbcdn.net/$dnsrewrite=scontent-cgk1-2.xx.fbcdn.net
-/external-.*.-3.xx.fbcdn.net/$dnsrewrite=scontent-cgk1-1.xx.fbcdn.net
+/external-.*.-3.xx.fbcdn.net/$dnsrewrite=scontent-cgk2-1.xx.fbcdn.net
 /external-.*.-4.xx.fbcdn.net/$dnsrewrite=scontent-cgk1-2.xx.fbcdn.net
 /scontent-.*.-1.xx.fbcdn.net/$dnsrewrite=scontent-cgk1-1.xx.fbcdn.net
 /scontent-.*.-2.xx.fbcdn.net/$dnsrewrite=scontent-cgk1-2.xx.fbcdn.net
-/scontent-.*.-3.xx.fbcdn.net/$dnsrewrite=scontent-cgk1-1.xx.fbcdn.net
+/scontent-.*.-3.xx.fbcdn.net/$dnsrewrite=scontent-cgk2-1.xx.fbcdn.net
 /scontent-.*.-4.xx.fbcdn.net/$dnsrewrite=scontent-cgk1-2.xx.fbcdn.net
 /sonar-.*.-1.xx.fbcdn.net/$dnsrewrite=edge-sonar-mini-shv-01-cgk1.fbcdn.net
 /sonar-.*.-2.xx.fbcdn.net/$dnsrewrite=edge-sonar-mini-shv-02-cgk1.fbcdn.net
-/sonar-.*.-3.xx.fbcdn.net/$dnsrewrite=edge-sonar-mini-shv-01-cgk1.fbcdn.net
+/sonar-.*.-3.xx.fbcdn.net/$dnsrewrite=edge-sonar-mini-shv-01-cgk2.fbcdn.net
 /sonar-.*.-4.xx.fbcdn.net/$dnsrewrite=edge-sonar-mini-shv-02-cgk1.fbcdn.net
 /scontent-.*.-1.cdninstagram.com/$dnsrewrite=scontent-cgk1-1.cdninstagram.com
 /scontent-.*.-2.cdninstagram.com/$dnsrewrite=scontent-cgk1-2.cdninstagram.com
-/scontent-.*.-3.cdninstagram.com/$dnsrewrite=scontent-cgk1-1.cdninstagram.com
+/scontent-.*.-3.cdninstagram.com/$dnsrewrite=scontent-cgk2-1.cdninstagram.com
 /scontent-.*.-4.cdninstagram.com/$dnsrewrite=scontent-cgk1-2.cdninstagram.com

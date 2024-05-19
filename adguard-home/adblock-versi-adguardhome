@@ -18,7 +18,12 @@
 ||*.tiktokcdn-eu.com^
 ||*.tiktokcdn-us.com^
 # Google AMP
-^https?://[^/]+/amp/.*
+/^https?://[^/]+/amp/.*/
+||cdn.ampproject.org^
+||amp.cloudflare.com^
+||amp.google.com^
+||*.ampproject.org^
+||*.amp.cloudflare.com^
 # Regex TikTok
 /useast1a.*/
 /useast2a.*/

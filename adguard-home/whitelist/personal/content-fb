@@ -1,5 +1,5 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 4 April 2024
+# Last Update : 19 Mei 2024
 # Mode : Adguard Home
 # Title : Facebook
 # General
@@ -60,6 +60,7 @@
 @@/.*.fdjb1-[0-9].fna.fbcdn.net/
 @@/.*.fdps3-[0-9].fna.fbcdn.net/
 @@/.*.fbdj6-[0-9].fna.fbcdn.net/
+@@/.*.ftkg5-[0-9].fna.fbcdn.net/
 @@/.*.fmdc[0-9]-[0-9].fna.fbcdn.net/
 @@/.*.fjog[0-9]-[0-9].fna.fbcdn.net/
 @@/.*.fplm[0-9]-[0-9].fna.fbcdn.net/

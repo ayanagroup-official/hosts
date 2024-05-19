@@ -2,6 +2,7 @@
 # Mode : Adguard Home
 # Last Update : 19-Mei-2024
 # White List
+@@||zerotier.com^
 @@||st.agrd.eu^
 @@||*.mediafire.com^
 @@||analytics.google.com^ 
@@ -17,11 +18,7 @@
 ||*.tiktokcdn-eu.com^
 ||*.tiktokcdn-us.com^
 # Google AMP
-||cdn.ampproject.org^
-||amp.cloudflare.com^
-||amp.google.com^
-||*.ampproject.org^
-||*.amp.cloudflare.com^
+^https?://[^/]+/amp/.*
 # Regex TikTok
 /useast1a.*/
 /useast2a.*/

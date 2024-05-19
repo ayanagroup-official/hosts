@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 9-Mei-2024
+# Last Update : 19-Mei-2024
 # White List
 @@||st.agrd.eu^
 @@||*.mediafire.com^
@@ -16,6 +16,12 @@
 ||*.us.tiktokcdn.com^
 ||*.tiktokcdn-eu.com^
 ||*.tiktokcdn-us.com^
+# Google AMP
+||cdn.ampproject.org^
+||amp.cloudflare.com^
+||amp.google.com^
+||*.ampproject.org^
+||*.amp.cloudflare.com^
 # Regex TikTok
 /useast1a.*/
 /useast2a.*/

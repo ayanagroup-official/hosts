@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 19-Mei-2024
+# Last Update : 26-Mei-2024
 # White List
 @@||zerotier.com^
 @@||st.agrd.eu^
@@ -330,6 +330,7 @@
 ||event.shelljacket.us^
 ||api.hsselite.com^
 ||trackerx.stream^
+||bountypay.credit^
 ||icosa-service-sg.allawnos.com^
 ||icosa-service-us.allawnos.com^
 ||sgp-push.api.intl.miui.com^

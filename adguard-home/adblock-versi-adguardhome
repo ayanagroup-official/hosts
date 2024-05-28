@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 27-Mei-2024
+# Last Update : 28-Mei-2024
 # White List
 @@||zerotier.com^
 @@||st.agrd.eu^
@@ -11,10 +11,16 @@
 @@||axis.customlinks.appsflyer.com^
 @@||calendarpushsubscription-pa.googleapis.com^
 # NS Togel Group 
-||chance.ns.cloudflare.com^
-||courtney.ns.cloudflare.com^
-||veda.ns.cloudflare.com^
-||kareem.ns.cloudflare.com^
+||luckymanialuck.online^
+||lkmania.com^
+||idselect.com^
+||everyttb.com^
+||broblazing.com^
+||8terbaik.com^
+||simak80.com^
+||manisjtg.com^
+||eyangcart.com^
+||gitarkelas.com^
 # TikTok Non ID
 ||*.eu.tiktokv.com^
 ||*.us.tiktokv.com^
@@ -340,12 +346,6 @@
 ||t838gaming.site^
 ||gameredirect.me^
 ||viralkanbossku.com^
-||idselect.com^
-||everyttb.com^
-||broblazing.com^
-||8terbaik.com^
-||simak80.com^
-||manisjtg.com^
 ||sontogel5.com^
 ||vipfortunagg.com^
 ||j200msuper.wiki^

@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 28-Mei-2024
+# Last Update : 30-Mei-2024
 # White List
 @@||zerotier.com^
 @@||st.agrd.eu^
@@ -10,7 +10,7 @@
 @@||marketingplatform.google.com^
 @@||axis.customlinks.appsflyer.com^
 @@||calendarpushsubscription-pa.googleapis.com^
-# NS Togel Group 
+# Perjudian
 ||luckymanialuck.online^$dnsrewrite=lamanlabuh.aduankonten.id
 ||lkmania.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||idselect.com^$dnsrewrite=lamanlabuh.aduankonten.id

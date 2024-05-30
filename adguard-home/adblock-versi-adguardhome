@@ -11,16 +11,17 @@
 @@||axis.customlinks.appsflyer.com^
 @@||calendarpushsubscription-pa.googleapis.com^
 # NS Togel Group 
-||luckymanialuck.online^
-||lkmania.com^
-||idselect.com^
-||everyttb.com^
-||broblazing.com^
-||8terbaik.com^
-||simak80.com^
-||manisjtg.com^
-||eyangcart.com^
-||gitarkelas.com^
+||luckymanialuck.online^$dnsrewrite=lamanlabuh.aduankonten.id
+||lkmania.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||idselect.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||everyttb.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||broblazing.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||8terbaik.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||simak80.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||manisjtg.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||eyangcart.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||gitarkelas.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||pg38menang.com^$dnsrewrite=lamanlabuh.aduankonten.id
 # TikTok Non ID
 ||*.eu.tiktokv.com^
 ||*.us.tiktokv.com^

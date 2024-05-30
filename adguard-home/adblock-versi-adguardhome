@@ -24,6 +24,7 @@
 ||pg38glory.com^$dnsrewrite=NOERROR;A;lamanlabuh.aduankonten.id
 ||pg38menang.com^$dnsrewrite=NOERROR;A;lamanlabuh.aduankonten.id
 ||pgsoft38.org^$dnsrewrite=NOERROR;A;lamanlabuh.aduankonten.id
+||ahamancing.com^$dnsrewrite=NOERROR;A;lamanlabuh.aduankonten.id
 # TikTok Non ID
 ||*.eu.tiktokv.com^
 ||*.us.tiktokv.com^

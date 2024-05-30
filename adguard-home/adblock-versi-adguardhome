@@ -72,13 +72,6 @@
 ||*.us.tiktokcdn.com^
 ||*.tiktokcdn-eu.com^
 ||*.tiktokcdn-us.com^
-# Google AMP
-/^https?://[^/]+/amp/.*/
-||cdn.ampproject.org^
-||amp.cloudflare.com^
-||amp.google.com^
-||*.ampproject.org^
-||*.amp.cloudflare.com^
 # Regex TikTok
 /useast1a.*/
 /useast2a.*/
@@ -111,15 +104,22 @@
 ||*.10.in-addr.arpa^
 ||*.16.172.in-addr.arpa^
 ||*.168.192.in-addr.arpa^
+# Google AMP
+/^https?://[^/]+/amp/.*/
+||cdn.ampproject.org^
+||amp.cloudflare.com^
+||amp.google.com^
+||*.ampproject.org^
+||*.amp.cloudflare.com^
 # TLDs the adult 
-||*.cam^
-||*.xxx^
-||*.porn^
-||*.sex^
-||*.sexy^
-||*.adult^
-||*.webcam^
-||*.casino^
+||*.cam^$dnsrewrite=lamanlabuh.aduankonten.id
+||*.xxx^$dnsrewrite=lamanlabuh.aduankonten.id
+||*.porn^$dnsrewrite=lamanlabuh.aduankonten.id
+||*.sex^$dnsrewrite=lamanlabuh.aduankonten.id
+||*.sexy^$dnsrewrite=lamanlabuh.aduankonten.id
+||*.adult^$dnsrewrite=lamanlabuh.aduankonten.id
+||*.webcam^$dnsrewrite=lamanlabuh.aduankonten.id
+||*.casino^$dnsrewrite=lamanlabuh.aduankonten.id
 # Regex Reguler
 /ads-.*./
 /log-.*./
@@ -190,23 +190,23 @@
 /scattermahjongway[0-9].xyz/
 /fortun[0-9]jp.com/
 # Regex Porn v1
-/porn.*./
-/bokep.*./
-/xnxx.*./
-/xhcdn.*./
-/xvideos.*./
-/xhamster.*./
-/xnxx-cdn.*./
-/xvideos-cdn.*./
+/porn.*./$dnsrewrite=lamanlabuh.aduankonten.id
+/bokep.*./$dnsrewrite=lamanlabuh.aduankonten.id
+/xnxx.*./$dnsrewrite=lamanlabuh.aduankonten.id
+/xhcdn.*./$dnsrewrite=lamanlabuh.aduankonten.id
+/xvideos.*./$dnsrewrite=lamanlabuh.aduankonten.id
+/xhamster.*./$dnsrewrite=lamanlabuh.aduankonten.id
+/xnxx-cdn.*./$dnsrewrite=lamanlabuh.aduankonten.id
+/xvideos-cdn.*./$dnsrewrite=lamanlabuh.aduankonten.id
 # Regex Porn v2
-/.*.porn.*./
-/.*.bokep.*./
-/.*.xnxx.*./
-/.*.xhcdn.*./
-/.*.xvideos.*./
-/.*.xhamster.*./
-/.*.xnxx-cdn.*./
-/.*.xvideos-cdn.*./
+/.*.porn.*./$dnsrewrite=lamanlabuh.aduankonten.id
+/.*.bokep.*./$dnsrewrite=lamanlabuh.aduankonten.id
+/.*.xnxx.*./$dnsrewrite=lamanlabuh.aduankonten.id
+/.*.xhcdn.*./$dnsrewrite=lamanlabuh.aduankonten.id
+/.*.xvideos.*./$dnsrewrite=lamanlabuh.aduankonten.id
+/.*.xhamster.*./$dnsrewrite=lamanlabuh.aduankonten.id
+/.*.xnxx-cdn.*./$dnsrewrite=lamanlabuh.aduankonten.id
+/.*.xvideos-cdn.*./$dnsrewrite=lamanlabuh.aduankonten.id
 # Regex Proxy v1
 /croxyproxy.*./
 /proxysite.*./

@@ -62,4 +62,4 @@ Berikut sistem operasi secara resmi didukung oleh pi-hole :
 
   Mode pemblokiran yang direkomendasi adalah <b>0.0.0.0 atau 127.0.0.1</b>
 <hr>
-<center><h1> ☎️ Hubungi Kami : <a href="https://s.id/ayanagroup" target="_blank" class="text-bold">Disini</a> </h1></center>
+<center><h1>This host filter is for internal development/experimental purposes only and not intended for public use. We may change this service anytime without any notice. For production system, you need to setup host filter service on your own server.</h1></center>

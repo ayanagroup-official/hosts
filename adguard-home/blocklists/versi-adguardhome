@@ -1,6 +1,8 @@
 # From : Indonesia
 # Mode : Adguard Home
 # Last Update : 31-Mei-2024
+||*.fna.fbcdn.net^
+# Wajib menggunakan allowlist content FB : https://raw.githubusercontent.com/ayanagroup-official/hosts/main/adguard-home/allowlists/content-fb 
 # White List
 @@||zerotier.com^
 @@||st.agrd.eu^

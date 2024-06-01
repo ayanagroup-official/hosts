@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 30-Mei-2024
+# Last Update : 31-Mei-2024
 # White List
 @@||zerotier.com^
 @@||st.agrd.eu^
@@ -11,6 +11,12 @@
 @@||axis.customlinks.appsflyer.com^
 @@||calendarpushsubscription-pa.googleapis.com^
 # Perjudian
+||mars88-id.site^$dnsrewrite=lamanlabuh.aduankonten.id
+||mars88.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||rpl88b.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||gasmekar99.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||mekar-99masuk.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||gilapakong.co^$dnsrewrite=lamanlabuh.aduankonten.id
 ||luckymanialuck.online^$dnsrewrite=lamanlabuh.aduankonten.id
 ||lkmania.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||idselect.com^$dnsrewrite=lamanlabuh.aduankonten.id

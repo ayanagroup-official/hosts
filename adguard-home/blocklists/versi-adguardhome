@@ -93,6 +93,8 @@
 /*.eu.tiktokcdn.com.*/
 /*.us.tiktokcdn.com.*/
 # NTP
+||cn.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
+||sg.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
 /0.*.pool.ntp.org/$dnsrewrite=0.id.pool.ntp.org
 /1.*.pool.ntp.org/$dnsrewrite=1.id.pool.ntp.org
 /2.*.pool.ntp.org/$dnsrewrite=2.id.pool.ntp.org

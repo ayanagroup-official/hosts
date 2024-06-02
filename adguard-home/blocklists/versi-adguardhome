@@ -10,15 +10,6 @@
 ||youtube.googleapis.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
 ||youtubei.googleapis.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
 ||www.youtube-nocookie.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
-# White List
-@@||zerotier.com^
-@@||st.agrd.eu^
-@@||*.mediafire.com^
-@@||analytics.google.com^ 
-@@||seller-push-ws.shopee.co.id^
-@@||marketingplatform.google.com^
-@@||axis.customlinks.appsflyer.com^
-@@||calendarpushsubscription-pa.googleapis.com^
 # Perjudian
 ||texaspokersite.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||jayapokerstar.com^$dnsrewrite=lamanlabuh.aduankonten.id

@@ -1,8 +1,15 @@
 # From : Indonesia
 # Mode : Adguard Home
 # Last Update : 2-Juni-2024
+# Fast content - Facebook
+# Wajib menggunakan allowlist content FB : https://raw.githubusercontent.com/ayanagroup-official/hosts/main/adguard-home/allowlists/content-fb
 ||*.fna.fbcdn.net^
-# Wajib menggunakan allowlist content FB : https://raw.githubusercontent.com/ayanagroup-official/hosts/main/adguard-home/allowlists/content-fb 
+# Safe search - YouTube
+||m.youtube.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
+||www.youtube.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
+||youtube.googleapis.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
+||youtubei.googleapis.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
+||www.youtube-nocookie.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
 # White List
 @@||zerotier.com^
 @@||st.agrd.eu^

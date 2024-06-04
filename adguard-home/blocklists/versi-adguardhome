@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 3-Juni-2024
+# Last Update : 4-Juni-2024
 # Fast content - Facebook
 # Wajib menggunakan allowlist content FB : https://raw.githubusercontent.com/ayanagroup-official/hosts/main/adguard-home/allowlists/content-fb
 ||*.fna.fbcdn.net^
@@ -39,7 +39,8 @@
 ||gasmekar99.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||mekar-99masuk.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||gilapakong.co^$dnsrewrite=lamanlabuh.aduankonten.id
-||luckymanialuck.online^$dnsrewrite=lamanlabuh.aduankonten.id
+||lotto01.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||seleramimpi.xyz^$dnsrewrite=lamanlabuh.aduankonten.id
 ||luckymania.vip^$dnsrewrite=lamanlabuh.aduankonten.id
 ||lkmania.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||idselect.com^$dnsrewrite=lamanlabuh.aduankonten.id

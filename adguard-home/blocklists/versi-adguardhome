@@ -19,6 +19,7 @@
 ||dns.msftncsi.com^
 ||dns.weixin.qq.com^
 ||aedns.weixin.qq.com^
+||azure-dns.com^
 # Router Local
 ||*.lan^
 ||*.local^

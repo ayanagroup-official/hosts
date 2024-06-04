@@ -41,6 +41,8 @@
 ||youtubei.googleapis.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
 ||www.youtube-nocookie.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
 # Perjudian
+||pg38new.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||stayp38.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||idtselect.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||rgctop.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||batikpokermost.com^$dnsrewrite=lamanlabuh.aduankonten.id

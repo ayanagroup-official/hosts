@@ -35,12 +35,6 @@
 ||*.fna.fbcdn.net^
 # Safe search - Google
 ||www.google.com^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com
-# Safe search - YouTube
-||m.youtube.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
-||www.youtube.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
-||youtube.googleapis.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
-||youtubei.googleapis.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
-||www.youtube-nocookie.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
 # Perjudian
 ||pg38new.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||stayp38.com^$dnsrewrite=lamanlabuh.aduankonten.id

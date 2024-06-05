@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 4-Juni-2024
+# Last Update : 5-Juni-2024
 # NTP
 ||cn.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
 ||jp.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
@@ -36,6 +36,10 @@
 # Safe search - Google
 ||www.google.com^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com
 # Perjudian
+||super-hki.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||tccarbonara.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||80sdihati.com^$dnsrewrite=lamanlabuh.aduankonten.id
+||glorytgm.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||pg38new.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||stayp38.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||idtselect.com^$dnsrewrite=lamanlabuh.aduankonten.id

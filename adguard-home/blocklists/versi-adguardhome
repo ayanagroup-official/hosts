@@ -36,6 +36,7 @@
 # Safe search - Google
 ||www.google.com^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com
 # Perjudian
+||asian4dqq.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||super-hki.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||tccarbonara.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||80sdihati.com^$dnsrewrite=lamanlabuh.aduankonten.id

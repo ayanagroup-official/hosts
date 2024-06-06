@@ -30,7 +30,7 @@
 ||*.16.172.in-addr.arpa^
 ||*.168.192.in-addr.arpa^
 # Block everything IPV6
-/.*/$dnstype=AAAA
+/.*./$dnstype=AAAA
 # Fast content - Facebook ==> Wajib menggunakan allowlist content FB : https://raw.githubusercontent.com/ayanagroup-official/hosts/main/adguard-home/allowlists/content-fb
 ||*.fna.fbcdn.net^
 # Safe search - Google
@@ -40,6 +40,8 @@
 ||lamanlabuh.aduankonten.id^$dnsrewrite=NOERROR;A;139.255.196.196
 ||lamanlabuh.aduankonten.id^$dnsrewrite=NOERROR;A;182.23.79.195
 # Perjudian
+/.*.4d.net/^$dnsrewrite=lamanlabuh.aduankonten.id
+/.*.4d.com/^$dnsrewrite=lamanlabuh.aduankonten.id
 ||gitarpokerclash.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||rgobetgood.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||totojitubetting.com^$dnsrewrite=lamanlabuh.aduankonten.id
@@ -147,10 +149,10 @@
 # Regex TikTok Non ID
 /useast1a.*/
 /useast2a.*/
-/*.eu.tiktokv.com.*/
-/*.us.tiktokv.com.*/
-/*.eu.tiktokcdn.com.*/
-/*.us.tiktokcdn.com.*/
+/.*.eu.tiktokv.com.*./
+/.*.us.tiktokv.com.*./
+/.*.eu.tiktokcdn.com.*./
+/.*.us.tiktokcdn.com.*./
 # Google AMP
 /^https?://[^/]+/amp/.*/
 ||cdn.ampproject.org^

@@ -40,8 +40,8 @@
 ||lamanlabuh.aduankonten.id^$dnsrewrite=NOERROR;A;139.255.196.196
 ||lamanlabuh.aduankonten.id^$dnsrewrite=NOERROR;A;182.23.79.195
 # Perjudian
-/.*.4d.net/^$dnsrewrite=lamanlabuh.aduankonten.id
-/.*.4d.com/^$dnsrewrite=lamanlabuh.aduankonten.id
+/.*.4d.net/$dnsrewrite=lamanlabuh.aduankonten.id
+/.*.4d.com/$dnsrewrite=lamanlabuh.aduankonten.id
 ||gitarpokerclash.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||rgobetgood.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||totojitubetting.com^$dnsrewrite=lamanlabuh.aduankonten.id

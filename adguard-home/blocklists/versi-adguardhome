@@ -35,6 +35,10 @@
 ||*.fna.fbcdn.net^
 # Safe search - Google
 ||www.google.com^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com
+# Trustpositif
+||lamanlabuh.aduankonten.id^$dnsrewrite=NOERROR;A;103.154.123.132
+||lamanlabuh.aduankonten.id^$dnsrewrite=NOERROR;A;139.255.196.196
+||lamanlabuh.aduankonten.id^$dnsrewrite=NOERROR;A;182.23.79.195
 # Perjudian
 ||asian4dqq.com^$dnsrewrite=lamanlabuh.aduankonten.id
 ||super-hki.com^$dnsrewrite=lamanlabuh.aduankonten.id

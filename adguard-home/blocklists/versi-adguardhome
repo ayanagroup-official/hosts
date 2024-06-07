@@ -44,6 +44,7 @@
 # Safe search - YouTube
 ||m.youtube.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
 ||www.youtube.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
+||youtube-ui.l.google.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com
 # TikTok Non ID
 ||*.eu.tiktokv.com^
 ||*.us.tiktokv.com^

@@ -39,6 +39,9 @@
 ||lamanlabuh.aduankonten.id^$dnsrewrite=103.154.123.132
 ||lamanlabuh.aduankonten.id^$dnsrewrite=139.255.196.196
 ||lamanlabuh.aduankonten.id^$dnsrewrite=182.23.79.195
+||lamanlabuh.aduankonten.id^$dnstype=HTTPS,dnsrewrite=103.154.123.132
+||lamanlabuh.aduankonten.id^$dnstype=HTTPS,dnsrewrite=139.255.196.196
+||lamanlabuh.aduankonten.id^$dnstype=HTTPS,dnsrewrite=182.23.79.195
 # Perjudian
 /.*.4d.net/$dnsrewrite=lamanlabuh.aduankonten.id
 /.*.4d.com/$dnsrewrite=lamanlabuh.aduankonten.id

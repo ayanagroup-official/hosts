@@ -35,13 +35,6 @@
 ||*.fna.fbcdn.net^
 # Safe search - Google
 ||www.google.com^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com
-# Trustpositif
-||lamanlabuh.aduankonten.id^$dnsrewrite=103.154.123.132
-||lamanlabuh.aduankonten.id^$dnsrewrite=139.255.196.196
-||lamanlabuh.aduankonten.id^$dnsrewrite=182.23.79.195
-||lamanlabuh.aduankonten.id^$dnstype=HTTPS,dnsrewrite=103.154.123.132
-||lamanlabuh.aduankonten.id^$dnstype=HTTPS,dnsrewrite=139.255.196.196
-||lamanlabuh.aduankonten.id^$dnstype=HTTPS,dnsrewrite=182.23.79.195
 # TikTok Non ID
 ||*.eu.tiktokv.com^
 ||*.us.tiktokv.com^

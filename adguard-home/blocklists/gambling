@@ -2,8 +2,6 @@
 # Mode : Adguard Home
 # Last Update : 6-Juni-2024
 # Type : Gambling
-/.*.4d.net/$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
-/.*.4d.com/$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
 ||gitarpokerclash.com^$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
 ||rgobetgood.com^$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
 ||totojitubetting.com^$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id

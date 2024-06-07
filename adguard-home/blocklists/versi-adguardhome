@@ -34,7 +34,11 @@
 # Fast content - Facebook ==> Wajib menggunakan allowlist content FB : https://raw.githubusercontent.com/ayanagroup-official/hosts/main/adguard-home/allowlists/content-fb
 ||*.fna.fbcdn.net^
 # Safe search - Google
+||google.com^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com
+||google.co.id^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com
 ||www.google.com^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com
+||www.google.co.id^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com
+||safebrowsing.google.com^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com
 # TikTok Non ID
 ||*.eu.tiktokv.com^
 ||*.us.tiktokv.com^

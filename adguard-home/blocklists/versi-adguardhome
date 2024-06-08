@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 6-Juni-2024
+# Last Update : 8-Juni-2024
 # NTP
 ||cn.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
 ||jp.pool.ntp.org^$dnsrewrite=id.pool.ntp.org

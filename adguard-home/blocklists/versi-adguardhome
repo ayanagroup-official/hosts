@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 8-Juni-2024
+# Last Update : 11-Juni-2024
 # NTP
 ||cn.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
 ||jp.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
@@ -32,8 +32,6 @@
 ||*.168.192.in-addr.arpa^
 # Block everything IPV6
 /.*./$dnstype=AAAA
-# Fast content - Facebook ==> Wajib menggunakan allowlist content FB : https://raw.githubusercontent.com/ayanagroup-official/hosts/main/adguard-home/allowlists/content-fb
-||*.fna.fbcdn.net^
 # Safe search - Google
 |google.com^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com
 |google.co.id^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com

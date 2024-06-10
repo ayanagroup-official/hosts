@@ -1,5 +1,5 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 9 Juni 2024
+# Last Update : 11 Juni 2024
 # Mode : Adguard Home
 # Title : Facebook
 # General
@@ -64,3 +64,58 @@
 @@/.*.fmdc[0-9]-[0-9].fna.fbcdn.net/
 @@/.*.fjog[0-9]-[0-9].fna.fbcdn.net/
 @@/.*.fplm[0-9]-[0-9].fna.fbcdn.net/
+# Rewrite to malang
+/sonar-.*.-1.fna.fbcdn.net/$dnsrewrite=sonar.fmlg1-1.fna.fbcdn.net
+/sonar-.*.-2.fna.fbcdn.net/$dnsrewrite=sonar.fmlg2-1.fna.fbcdn.net
+/sonar-.*.-3.fna.fbcdn.net/$dnsrewrite=sonar.fmlg3-1.fna.fbcdn.net
+/sonar-.*.-4.fna.fbcdn.net/$dnsrewrite=sonar.fmlg4-1.fna.fbcdn.net
+/sonar-.*.-5.fna.fbcdn.net/$dnsrewrite=sonar.fmlg5-1.fna.fbcdn.net
+/sonar-.*.-6.fna.fbcdn.net/$dnsrewrite=sonar.fmlg6-1.fna.fbcdn.net
+/sonar-.*.-7.fna.fbcdn.net/$dnsrewrite=sonar.fmlg7-1.fna.fbcdn.net
+/sonar-.*.-8.fna.fbcdn.net/$dnsrewrite=sonar.fmlg8-1.fna.fbcdn.net
+/sonar-.*.-9.fna.fbcdn.net/$dnsrewrite=sonar.fmlg9-1.fna.fbcdn.net
+/video-.*.-1.fna.fbcdn.net/$dnsrewrite=video.fmlg1-1.fna.fbcdn.net
+/video-.*.-2.fna.fbcdn.net/$dnsrewrite=video.fmlg2-1.fna.fbcdn.net
+/video-.*.-3.fna.fbcdn.net/$dnsrewrite=video.fmlg3-1.fna.fbcdn.net
+/video-.*.-4.fna.fbcdn.net/$dnsrewrite=video.fmlg4-1.fna.fbcdn.net
+/video-.*.-5.fna.fbcdn.net/$dnsrewrite=video.fmlg5-1.fna.fbcdn.net
+/video-.*.-6.fna.fbcdn.net/$dnsrewrite=video.fmlg6-1.fna.fbcdn.net
+/video-.*.-7.fna.fbcdn.net/$dnsrewrite=video.fmlg7-1.fna.fbcdn.net
+/video-.*.-8.fna.fbcdn.net/$dnsrewrite=video.fmlg8-1.fna.fbcdn.net
+/video-.*.-9.fna.fbcdn.net/$dnsrewrite=video.fmlg9-1.fna.fbcdn.net
+/static-.*.-1.fna.fbcdn.net/$dnsrewrite=static.fmlg1-1.fna.fbcdn.net
+/static-.*.-2.fna.fbcdn.net/$dnsrewrite=static.fmlg2-1.fna.fbcdn.net
+/static-.*.-3.fna.fbcdn.net/$dnsrewrite=static.fmlg3-1.fna.fbcdn.net
+/static-.*.-4.fna.fbcdn.net/$dnsrewrite=static.fmlg4-1.fna.fbcdn.net
+/static-.*.-5.fna.fbcdn.net/$dnsrewrite=static.fmlg5-1.fna.fbcdn.net
+/static-.*.-6.fna.fbcdn.net/$dnsrewrite=static.fmlg6-1.fna.fbcdn.net
+/static-.*.-7.fna.fbcdn.net/$dnsrewrite=static.fmlg7-1.fna.fbcdn.net
+/static-.*.-8.fna.fbcdn.net/$dnsrewrite=static.fmlg8-1.fna.fbcdn.net
+/static-.*.-9.fna.fbcdn.net/$dnsrewrite=static.fmlg9-1.fna.fbcdn.net
+/external-.*.-1.fna.fbcdn.net/$dnsrewrite=external.fmlg1-1.fna.fbcdn.net
+/external-.*.-2.fna.fbcdn.net/$dnsrewrite=external.fmlg2-1.fna.fbcdn.net
+/external-.*.-3.fna.fbcdn.net/$dnsrewrite=external.fmlg3-1.fna.fbcdn.net
+/external-.*.-4.fna.fbcdn.net/$dnsrewrite=external.fmlg4-1.fna.fbcdn.net
+/external-.*.-5.fna.fbcdn.net/$dnsrewrite=external.fmlg5-1.fna.fbcdn.net
+/external-.*.-6.fna.fbcdn.net/$dnsrewrite=external.fmlg6-1.fna.fbcdn.net
+/external-.*.-7.fna.fbcdn.net/$dnsrewrite=external.fmlg7-1.fna.fbcdn.net
+/external-.*.-8.fna.fbcdn.net/$dnsrewrite=external.fmlg8-1.fna.fbcdn.net
+/external-.*.-9.fna.fbcdn.net/$dnsrewrite=external.fmlg9-1.fna.fbcdn.net
+/scontent-.*.-1.fna.fbcdn.net/$dnsrewrite=scontent.fmlg1-1.fna.fbcdn.net
+/scontent-.*.-2.fna.fbcdn.net/$dnsrewrite=scontent.fmlg2-1.fna.fbcdn.net
+/scontent-.*.-3.fna.fbcdn.net/$dnsrewrite=scontent.fmlg3-1.fna.fbcdn.net
+/scontent-.*.-4.fna.fbcdn.net/$dnsrewrite=scontent.fmlg4-1.fna.fbcdn.net
+/scontent-.*.-5.fna.fbcdn.net/$dnsrewrite=scontent.fmlg5-1.fna.fbcdn.net
+/scontent-.*.-6.fna.fbcdn.net/$dnsrewrite=scontent.fmlg6-1.fna.fbcdn.net
+/scontent-.*.-7.fna.fbcdn.net/$dnsrewrite=scontent.fmlg7-1.fna.fbcdn.net
+/scontent-.*.-8.fna.fbcdn.net/$dnsrewrite=scontent.fmlg8-1.fna.fbcdn.net
+/scontent-.*.-9.fna.fbcdn.net/$dnsrewrite=scontent.fmlg9-1.fna.fbcdn.net
+/instagram-.*.-1.fna.fbcdn.net/$dnsrewrite=instagram.fmlg1-1.fna.fbcdn.net
+/instagram-.*.-2.fna.fbcdn.net/$dnsrewrite=instagram.fmlg2-1.fna.fbcdn.net
+/instagram-.*.-3.fna.fbcdn.net/$dnsrewrite=instagram.fmlg3-1.fna.fbcdn.net
+/instagram-.*.-4.fna.fbcdn.net/$dnsrewrite=instagram.fmlg4-1.fna.fbcdn.net
+/instagram-.*.-5.fna.fbcdn.net/$dnsrewrite=instagram.fmlg5-1.fna.fbcdn.net
+/instagram-.*.-6.fna.fbcdn.net/$dnsrewrite=instagram.fmlg6-1.fna.fbcdn.net
+/instagram-.*.-7.fna.fbcdn.net/$dnsrewrite=instagram.fmlg7-1.fna.fbcdn.net
+/instagram-.*.-8.fna.fbcdn.net/$dnsrewrite=instagram.fmlg8-1.fna.fbcdn.net
+/instagram-.*.-9.fna.fbcdn.net/$dnsrewrite=instagram.fmlg9-1.fna.fbcdn.net

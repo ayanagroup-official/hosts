@@ -248,3 +248,13 @@
 /instagram.f[a-z][a-z][a-z]7-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;instagram.fmlg7-1.fna.fbcdn.net
 /instagram.f[a-z][a-z][a-z]8-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;instagram.fmlg8-1.fna.fbcdn.net
 /instagram.f[a-z][a-z][a-z]9-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;instagram.fmlg9-1.fna.fbcdn.net
+# Rewrite Media WA to Malang
+/media.f[a-z][a-z][a-z]1-[0-9].fna.whatsapp.net/$dnsrewrite=NOERROR;CNAME;media.fmlg1-1.fna.whatsapp.net
+/media.f[a-z][a-z][a-z]2-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg2-1.fna.whatsapp.net
+/media.f[a-z][a-z][a-z]3-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg3-1.fna.whatsapp.net
+/media.f[a-z][a-z][a-z]4-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg4-1.fna.whatsapp.net
+/media.f[a-z][a-z][a-z]5-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg5-1.fna.whatsapp.net
+/media.f[a-z][a-z][a-z]6-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg6-1.fna.whatsapp.net
+/media.f[a-z][a-z][a-z]7-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg7-1.fna.whatsapp.net
+/media.f[a-z][a-z][a-z]8-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg8-1.fna.whatsapp.net
+/media.f[a-z][a-z][a-z]9-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg9-1.fna.whatsapp.net

@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 16-Juni-2024
+# Last Update : 19-Juni-2024
 # White List
 @@||t.co^
 @@||zerotier.com^
@@ -14,3 +14,4 @@
 # AirDrop (Crypto)
 @@||tapswap.club^
 @@||yescoin.gold^
+@@||memefi.club^

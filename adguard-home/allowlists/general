@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 19-Juni-2024
+# Last Update : 21-Juni-2024
 # White List
 @@||t.co^
 @@||zerotier.com^
@@ -15,3 +15,5 @@
 @@||tapswap.club^
 @@||yescoin.gold^
 @@||memefi.club^
+# Play Vidio
+@@||plenty.vidio.com^

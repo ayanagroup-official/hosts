@@ -1,5 +1,5 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 11 Juni 2024
+# Last Update : 28 Juni 2024
 # Mode : Adguard Home
 # Title : Facebook
 # General
@@ -23,7 +23,8 @@
 @@/.*.fmlg1[0-9]-[0-9].fna.fbcdn.net/
 @@/.*.fmlg2[0-9]-[0-9].fna.fbcdn.net/
 # Surabaya
-@@/.*.fsub[0-9]-[0-9].fna.fbcdn.net/$denyallow=fsub6-1.fna.fbcdn.net|fsub6-2.fna.fbcdn.net|fsub6-3.fna.fbcdn.net|fsub6-4.fna.fbcdn.net|fsub6-5.fna.fbcdn.net|fsub6-6.fna.fbcdn.net|fsub6-7.fna.fbcdn.net
+# @@/.*.fsub[0-9]-[0-9].fna.fbcdn.net/$denyallow=fsub6-1.fna.fbcdn.net|fsub6-2.fna.fbcdn.net|fsub6-3.fna.fbcdn.net|fsub6-4.fna.fbcdn.net|fsub6-5.fna.fbcdn.net|fsub6-6.fna.fbcdn.net|fsub6-7.fna.fbcdn.net
+@@/.*.fsub[0-9]-[0-9].fna.fbcdn.net/
 @@/.*.fsub1[0-9]-[0-9].fna.fbcdn.net/
 @@/.*.fsub2[0-9]-[0-9].fna.fbcdn.net/
 # Jakarta

@@ -1316,7 +1316,7 @@
 ||userstats.iris.touchtype-fluency.com^
 ||swiftkey-android.iris.touchtype-fluency.com^
 ||geo-applefinance-cache.internal.query.g03.yahoodns.net^
+# Play Store Indosat
+# /.*.-poqvn5u-.*.gvt1.com/
 # Googlevideo Indosat
-/.*.-poqvn5u-.*.googlevideo.com/
-# Google Play Store Indosat
-/.*.-poqvn5u-.*.gvt1.com/
+# /.*.-poqvn5u-.*.googlevideo.com/

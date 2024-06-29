@@ -32,7 +32,7 @@
 @@/.*.fcgk1[0-9]-[0-9].fna.fbcdn.net/
 @@/.*.fcgk2[0-9]-[0-9].fna.fbcdn.net/
 # Serang
-@@/.*.fsrg[0-9]-[0-9].fna.fbcdn.net/
+@@/.*.fsrg[0-9]-[0-9].fna.fbcdn.net/$denyallow=fsrg5-1.fna.fbcdn.net
 @@/.*.fsrg1[0-9]-[0-9].fna.fbcdn.net/
 @@/.*.fsrg2[0-9]-[0-9].fna.fbcdn.net/
 # Random

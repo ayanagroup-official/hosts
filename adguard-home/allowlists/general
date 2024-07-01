@@ -1,11 +1,12 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 21-Juni-2024
+# Last Update : 1-Juli-2024
 # White List
 @@||t.co^
 @@||zerotier.com^
 @@||st.agrd.eu^
 @@||*.mediafire.com^
+@@||get.videolan.org^
 @@||analytics.google.com^ 
 @@||freedownloadmanager.org^
 @@||seller-push-ws.shopee.co.id^

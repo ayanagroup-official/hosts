@@ -420,21 +420,6 @@
 0.0.0.0 paychat.fuse-cloud.com
 0.0.0.0 spotofspawn.com
 0.0.0.0 topnews-24.com
-# [ googleapis.com ]
-0.0.0.0 firebaselogging.googleapis.com
-0.0.0.0 firebaselogging-pa.googleapis.com
-# GOOGLE TAG MANAGER
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 www.googletagservices.com
-0.0.0.0 www-googletagmanager.l.google.com
-# GOOGLE ANALYTICS
-0.0.0.0 analytics.google.com
-0.0.0.0 google-analytics.com
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 ssl-google-analytics.l.google.com
-0.0.0.0 ww-google-analytics.l.google.com
-0.0.0.0 analyticssuitefrontend-pa.clients6.google.com
 # [googlesyndication.com]
 0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
@@ -462,7 +447,7 @@
 0.0.0.0 view.adjust.com
 0.0.0.0 go.adjust.com
 0.0.0.0 unbotify.adjust.com
-# [twitter.com]
+# Twitter Ads
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads-api.twitter.com

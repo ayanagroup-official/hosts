@@ -58,10 +58,9 @@ Berikut sistem operasi secara resmi didukung oleh pi-hole :
 
   Mode pemblokiran yang direkomendasi adalah <b>0.0.0.0</b> minimal v7.15
 <pre>
-/ip/dns/set cache-size=51200KiB
+/ip/dns/set cache-size=15360KiB
 /ip dns adlist
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/Badd-Boyz-Hosts/hosts
-add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/MetaMask/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/URLHaus/hosts

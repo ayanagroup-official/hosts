@@ -96,3 +96,11 @@
 0.0.0.0 logsanalytics.net
 0.0.0.0 ma1516-r.analytics.edgekey.net
 0.0.0.0 analytics.oyorooms.com
+# Google Analytics
+0.0.0.0 analytics.google.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 ssl-google-analytics.l.google.com
+0.0.0.0 ww-google-analytics.l.google.com
+0.0.0.0 analyticssuitefrontend-pa.clients6.google.com

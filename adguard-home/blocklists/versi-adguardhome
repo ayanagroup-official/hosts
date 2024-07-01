@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 29-Juni-2024
+# Last Update : 1-Julii-2024
 # NTP
 ||cn.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
 ||jp.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
@@ -653,6 +653,8 @@
 ||o468184.ingest.sentry.io^
 ||me-ads.org^
 ||s16-12668.ap4r.com^
+||s16-12501.ap4r.com^
+||v15-feed-ad.ap4r.com^
 ||g-kcdn.ap4r.com^
 ||bid.adsinteractive.com^
 ||bestmaxfield.com^

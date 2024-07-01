@@ -63,6 +63,7 @@ Berikut sistem operasi secara resmi didukung oleh pi-hole :
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/ads
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/analytics
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/general
+add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/judol
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/log
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/malware
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/porn

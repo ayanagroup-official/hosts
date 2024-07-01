@@ -1,6 +1,8 @@
 # From : Indonesia (Jawa Timur)
 # Last Update : 1 Juli 2024
 # Title : SmartPhone
+# Vivo
+0.0.0.0 asia-comonrt-stsdk.vivoglobal.com
 # Xiaomi
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 resolver.msg.global.xiaomi.net
@@ -31,6 +33,8 @@
 0.0.0.0 bdapi-id.ads.oppomobile.com
 0.0.0.0 data-cl-f.ads.oppomobile.com
 # Heytapmobile
+0.0.0.0 mdp-appconf-id.heytapdl.com
+0.0.0.0 mdp-appconf-sg.heytapdl.com
 0.0.0.0 adx-id.ads.heytapmobi.com
 0.0.0.0 adsfs-id.heytapimg.com
 0.0.0.0 cl-data-id.ads.heytapmobi.com

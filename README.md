@@ -58,7 +58,7 @@ Berikut sistem operasi secara resmi didukung oleh pi-hole :
 
   Mode pemblokiran yang direkomendasi adalah <b>0.0.0.0</b> minimal v7.15
 
-/ip dns adlist
+<pre>/ip dns adlist
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/Badd-Boyz-Hosts/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/MetaMask/hosts
@@ -73,7 +73,7 @@ add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/mvps.org/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/someonewhocares.org/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/tiuxo/hosts
-add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/yoyo.org/hosts
+add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/yoyo.org/hosts</pre>
 
 # Adguard Home
 

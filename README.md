@@ -57,8 +57,12 @@ Berikut sistem operasi secara resmi didukung oleh pi-hole :
 # Mikrotik
 
   Mode pemblokiran yang direkomendasi adalah <b>0.0.0.0</b> minimal v7.15
+
+Step 1 :
 <pre>
-/ip/dns/set cache-size=10240
+/ip/dns/set cache-size=10240</pre>
+Step 2 :
+<pre>
 /ip dns adlist
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/ads
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/analytics
@@ -68,7 +72,10 @@ add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/host
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/malware
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/porn
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/smartphone
-add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/tracker
+add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/tracker</pre>
+Step 3 : Tunggu beberapa saat agar tidak membebani CPU, lalu buka new terminal
+<pre>
+/ip dns adlist
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/Badd-Boyz-Hosts/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/MetaMask/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts

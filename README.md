@@ -71,7 +71,8 @@ add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/host
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/smartphone
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/tracker</pre>
 
-By : Steven Black
+<details>
+<summary>By : Steven Black</summary>
 <pre>
 /ip dns adlist
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/Badd-Boyz-Hosts/hosts
@@ -89,12 +90,13 @@ add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/someonewhocares.org/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/tiuxo/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/yoyo.org/hosts</pre>
+</details>
 
 <details>
 <summary>By : GoodbyeAds</summary>
-<code><pre>
+<pre>
 /ip dns adlist
-add ssl-verify=no url=https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt</pre></code>
+add ssl-verify=no url=https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt</pre>
 </details>
 Note : Sesuaikan "Chace Size" seberapa banyak "Name Count" dari sumber yang anda gunakan
 

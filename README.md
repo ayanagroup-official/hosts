@@ -51,7 +51,7 @@ add ssl-verify=no url=https://raw.githubusercontent.com/jerryn70/GoodbyeAds/mast
 add ssl-verify=no url=https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt</pre>
 </details>
 <details>
-<summary>By : CrazyMax [WindowsSpyBlocker]</summary>
+<summary>By : CrazyMax</summary>
 <pre>
 /ip dns adlist
 add ssl-verify=no url=https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt</pre>

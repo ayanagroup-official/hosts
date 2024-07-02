@@ -47,4 +47,4 @@ add ssl-verify=no url=https://raw.githubusercontent.com/jerryn70/GoodbyeAds/mast
 Note : Sesuaikan "Chace Size" dari seberapa banyak "Name Count" sumber yang anda gunakan
 
 <hr>
-<center><h1>This host filter is for internal development/experimental purposes only and not intended for public use. We may change this service anytime without any notice. For production system, you need to setup host filter service on your own server.</h1></center>
+<center><h1>Filter host ini hanya untuk tujuan pengembangan/eksperimental internal dan tidak dimaksudkan untuk penggunaan umum. Kami dapat mengubah layanan ini kapan saja tanpa pemberitahuan apa pun. Untuk sistem produksi, Anda perlu menyiapkan layanan filter host di server Anda sendiri.</h1></center>

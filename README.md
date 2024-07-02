@@ -90,10 +90,12 @@ add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/tiuxo/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/yoyo.org/hosts</pre>
 
-<summary>By : GoodbyeAds
-<pre>
+<details>
+<summary>By : GoodbyeAds</summary>
+<code><pre>
 /ip dns adlist
-add ssl-verify=no url=https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt</pre></summary>
+add ssl-verify=no url=https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt</pre></code>
+</details>
 Note : Sesuaikan "Chace Size" seberapa banyak "Name Count" dari sumber yang anda gunakan
 
 # Adguard Home

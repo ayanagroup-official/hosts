@@ -44,6 +44,12 @@ add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master
 /ip dns adlist
 add ssl-verify=no url=https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt</pre>
 </details>
+<details>
+<summary>By : HaGeZi</summary>
+<pre>
+/ip dns adlist
+add ssl-verify=no url=https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt</pre>
+</details>
 Note : Sesuaikan "Chace Size" dari seberapa banyak "Name Count" sumber yang anda gunakan
 
 <hr>

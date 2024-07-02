@@ -77,6 +77,7 @@ Step 3 : Tunggu beberapa saat agar load CPU kembali normal, lalu buka new termin
 <pre>
 /ip dns adlist
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/Badd-Boyz-Hosts/hosts
+add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/MetaMask/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/URLHaus/hosts

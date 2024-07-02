@@ -58,10 +58,10 @@ Berikut sistem operasi secara resmi didukung oleh pi-hole :
 
   Mode pemblokiran yang direkomendasi adalah <b>0.0.0.0</b> minimal v7.15
 
-Step 1 :
+Step 1 : Buka new terminal lalu copy script di bawah ini lalu enter
 <pre>
 /ip/dns/set cache-size=10240</pre>
-Step 2 :
+Step 2 : Copy script dibawah ini lalu enter
 <pre>
 /ip dns adlist
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/ads
@@ -73,7 +73,7 @@ add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/host
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/porn
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/smartphone
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/tracker</pre>
-Step 3 : Tunggu beberapa saat agar tidak membebani CPU, lalu buka new terminal
+Step 3 : Tunggu beberapa saat agar load CPU kembali normal, lalu buka new terminal lagi kemudian copy script dibawah ini lalu enter
 <pre>
 /ip dns adlist
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/Badd-Boyz-Hosts/hosts
@@ -90,6 +90,8 @@ add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/someonewhocares.org/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/tiuxo/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/yoyo.org/hosts</pre>
+
+Note : Jika step 3 terdapat nilai yang masih 0 bisa di bagi menjadi 2 saat input script ke terminal
 
 # Adguard Home
 

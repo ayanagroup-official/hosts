@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 1-Juli-2024
+# Last Update : 2 Juli 2024
 # NTP
 ||cn.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
 ||jp.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
@@ -1120,7 +1120,3 @@
 ||userstats.iris.touchtype-fluency.com^
 ||swiftkey-android.iris.touchtype-fluency.com^
 ||geo-applefinance-cache.internal.query.g03.yahoodns.net^
-# Play Store Indosat
-# /.*.-poqvn5u-.*.gvt1.com/
-# Googlevideo Indosat
-# /.*.-poqvn5u-.*.googlevideo.com/

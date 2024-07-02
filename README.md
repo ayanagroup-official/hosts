@@ -58,7 +58,7 @@ Berikut sistem operasi secara resmi didukung oleh pi-hole :
 
   Mode pemblokiran yang direkomendasi adalah <b>0.0.0.0</b> minimal v7.15
 
-Step 1 : Buka new terminal lalu copy script di bawah ini lalu enter
+Step 1 : Buka new terminal, copy script di bawah ini lalu enter
 <pre>
 /ip/dns/set cache-size=10240</pre>
 Step 2 : Copy script dibawah ini lalu enter

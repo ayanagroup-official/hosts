@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 2 Juli 2024
+# Last Update : 12 Juli 2024
 # NTP
 ||cn.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
 ||jp.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
@@ -292,6 +292,7 @@
 ||logs.mobiletop.pro^
 ||isolir.indihome.co.id^
 ||wap.n.shifen.com^
+||osdkupdatenw.com^
 ||kasinowarkop.com^
 ||*.dn.nexoncdn.co.kr^
 ||3p.ampproject.net^

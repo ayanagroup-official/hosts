@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 12 Juli 2024
+# Last Update : 15 Juli 2024
 # NTP
 ||cn.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
 ||jp.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
@@ -286,6 +286,30 @@
 ||*.pauyolima.com^
 ||*.fghwwr.com^
 ||*.idtvictory.shop^
+||logs.oursupersk.com^$important
+||wegohub.com^$important
+||piojm.tech^$important
+||push.omiapp.me^$important
+||dcintl.push.heytapmobile.com^$important
+||ax9b3r68.com^$important
+||fifavnet.net^$important
+||lighter.netsecureapp.net^$important
+||global-turbo1.opera-mini.net^$important
+||global-turbo1-1.opera-mini.net^$important
+||global-turbo2.opera-mini.net^$important
+||global-turbo2-1.opera-mini.net^$important
+||country-id.mini5.opera-mini.net^$important
+||country-id-1.mini5.opera-mini.net^$important
+||country-id-2.mini5.opera-mini.net^$important
+||push.slavissimozgi.com^$important
+||api.hijy.xyz^$important
+||h1db8sm7dhtrbz3a9s.439853261.xyz^$important
+||625701973.xyz^$important
+||mtpush.meitu.com^$important
+||push.travistathree.com^$important
+||https://app-measurement.com/sdk-exp^$important
+||3nkh5crxol.ch^$important
+||proxy.wecall.info^$important
 ||t-ulog-snack.kwaipros.com^
 ||logs.gadgetgine.xyz^
 ||logs.sdkengine.pro^

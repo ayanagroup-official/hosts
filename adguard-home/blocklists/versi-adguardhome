@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 15 Juli 2024
+# Last Update : 16 Juli 2024
 # NTP
 ||cn.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
 ||jp.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
@@ -157,6 +157,9 @@
 /.*.xhamster.*./$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
 /.*.xnxx-cdn.*./$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
 /.*.xvideos-cdn.*./$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
+/.*.terbit21.*./$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
+/.*.rebahin21.*./$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
+/.*.rebahan21.*./$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
 # Regex Proxy v1
 /croxyproxy.*./
 /proxysite.*./

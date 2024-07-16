@@ -148,6 +148,9 @@
 /xhamster.*./$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
 /xnxx-cdn.*./$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
 /xvideos-cdn.*./$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
+/terbit21.*./$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
+/rebahin21.*./$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
+/rebahan21.*./$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
 # Regex Porn v2
 /.*.porn.*./$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id
 /.*.bokep.*./$dnsrewrite=NOERROR;CNAME;lamanlabuh.aduankonten.id

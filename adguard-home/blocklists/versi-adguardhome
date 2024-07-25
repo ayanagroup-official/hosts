@@ -149,6 +149,9 @@
 /xnxx-cdn.*./
 /xvideos-cdn.*./
 /film21.*./
+/bioskop21.*./
+/layarkaca21.*./
+/layardunia21.*./
 /sarangfilm21.*./
 /terbit21.*./
 /rebahin21.*./
@@ -163,6 +166,9 @@
 /.*.xnxx-cdn.*./
 /.*.xvideos-cdn.*./
 /.*.film21.*./
+/.*.bioskop21.*./
+/.*.layarkaca21.*./
+/.*.layardunia21.*./
 /.*.sarangfilm21.*./
 /.*.terbit21.*./
 /.*.rebahin21.*./

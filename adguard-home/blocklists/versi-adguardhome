@@ -1,6 +1,6 @@
 # From : Indonesia
 # Mode : Adguard Home
-# Last Update : 25 Juli 2024
+# Last Update : 26 Juli 2024
 # NTP
 ||cn.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
 ||jp.pool.ntp.org^$dnsrewrite=id.pool.ntp.org
@@ -296,6 +296,7 @@
 ||*.pauyolima.com^
 ||*.fghwwr.com^
 ||*.idtvictory.shop^
+||i-n.sgsnssdk.com^
 ||i.sgsnssdk.com^$important
 ||staudsees.net^$important
 ||logs.oursupersk.com^$important

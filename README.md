@@ -10,7 +10,6 @@
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/ads
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/analytics
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/general
-add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/judol
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/log
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/malware
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/porn
@@ -25,12 +24,6 @@ add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/MetaMask/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/URLHaus/hosts
-add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
-add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts
-add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Dead/hosts
-add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
-add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/hostsVN/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/mvps.org/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/someonewhocares.org/hosts

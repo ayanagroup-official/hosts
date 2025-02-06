@@ -47,13 +47,6 @@
 ||*.us.tiktokcdn.com^
 ||*.tiktokcdn-eu.com^
 ||*.tiktokcdn-us.com^
-# Regex TikTok Non ID
-/useast1a.*/
-/useast2a.*/
-/.*.eu.tiktokv.com.*./
-/.*.us.tiktokv.com.*./
-/.*.eu.tiktokcdn.com.*./
-/.*.us.tiktokcdn.com.*./
 # Google AMP
 /^https?://[^/]+/amp/.*/
 ||cdn.ampproject.org^

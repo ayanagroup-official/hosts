@@ -5,7 +5,7 @@
   Mode pemblokiran yang direkomendasi adalah <b>0.0.0.0</b> minimal v7.15
 
 <pre>
-/ip/dns/set cache-size=10240
+/ip/dns/set cache-size=40960
 /ip dns adlist
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/ads
 add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/hosts/main/mikrotik/analytics

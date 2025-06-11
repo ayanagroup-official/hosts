@@ -20,13 +20,13 @@ add ssl-verify=no url=https://raw.githubusercontent.com/ayanagroup-official/host
 <summary>By : Steven Black</summary>
 <pre>
 /ip dns adlist
+add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+"Tunggu setelah data yang diatas sudah terbaca, bisa dilanjutkan step berikutnya"
+/ip dns adlist
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/Badd-Boyz-Hosts/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
-add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/hostsVN/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/mvps.org/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/someonewhocares.org/hosts
-add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/tiuxo/hosts
 add ssl-verify=no url=https://raw.githubusercontent.com/StevenBlack/hosts/master/data/yoyo.org/hosts</pre>
 </details>
 

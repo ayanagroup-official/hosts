@@ -1,7 +1,13 @@
 # From : Indonesia (Jawa Timur)
-# Last Update : 2 Juli 2024
+# Last Update : 14 Agustus 2025
 # Mode : Adguard Home
 # Title : Facebook
+@@/scontent-cgk2-1.xx.fbcdn.net/
+@@/scontent-cgk2-2.xx.fbcdn.net/
+@@/video-cgk2-1.xx.fbcdn.net/
+@@/video-cgk2-2.xx.fbcdn.net/
+@@/scontent-cgk2-1.cdninstagram.com/
+@@/scontent-cgk2-2.cdninstagram.com/
 # General
 @@/.*.fsoc[0-9]-[0-9].fna.fbcdn.net/
 @@/.*.fsoc1[0-9]-[0-9].fna.fbcdn.net/

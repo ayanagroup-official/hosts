@@ -394,4 +394,4 @@
 # Ascension Island
 ||google.ac
 # United States
-||google.us
+||google.us$dnsrewrite=google.com

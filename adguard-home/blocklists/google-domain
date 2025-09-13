@@ -1,397 +1,397 @@
 # Searching Google Domains
 # Samoa
-||google.ws
+||google.ws^$dnsrewrite=google.com
 # Vanuatu
-||google.vu
+||google.vu^$dnsrewrite=google.com
 # British Virgin Islands
-||google.vg
+||google.vg^$dnsrewrite=google.com
 # Trinidad and Tobago
-||google.tt
+||google.tt^$dnsrewrite=google.com
 # Tonga
-||google.to
+||google.to^$dnsrewrite=google.com
 # Tunisia
-||google.tn
+||google.tn^$dnsrewrite=google.com
 # Turkmenistan
-||google.tm
+||google.tm^$dnsrewrite=google.com
 # Timor-Leste
-||google.tl
+||google.tl^$dnsrewrite=google.com
 # Tokelau
-||google.tk
+||google.tk^$dnsrewrite=google.com
 # Togo
-||google.tg
+||google.tg^$dnsrewrite=google.com
 # Chad
-||google.td
+||google.td^$dnsrewrite=google.com
 # São Tomé and Príncipe
-||google.st
+||google.st^$dnsrewrite=google.com
 # Suriname
-||google.sr
+||google.sr^$dnsrewrite=google.com
 # Somalia
-||google.so
+||google.so^$dnsrewrite=google.com
 # Senegal
-||google.sn
+||google.sn^$dnsrewrite=google.com
 # San Marino
-||google.sm
+||google.sm^$dnsrewrite=google.com
 # Slovakia
-||google.sk
+||google.sk^$dnsrewrite=google.com
 # Slovenia
-||google.si
+||google.si^$dnsrewrite=google.com
 # Saint Helena, Ascension and Tristan da Cunha
-||google.sh
+||google.sh^$dnsrewrite=google.com
 # Sweden
-||google.se
+||google.se^$dnsrewrite=google.com
 # Seychelles
-||google.sc
+||google.sc^$dnsrewrite=google.com
 # Rwanda
-||google.rw
+||google.rw^$dnsrewrite=google.com
 # Russia
-||google.ru
+||google.ru^$dnsrewrite=google.com
 # Serbia
-||google.rs
+||google.rs^$dnsrewrite=google.com
 # Romania
-||google.ro
+||google.ro^$dnsrewrite=google.com
 # Portugal
-||google.pt
+||google.pt^$dnsrewrite=google.com
 # Palestine[3]
-||google.ps
+||google.ps^$dnsrewrite=google.com
 # Pitcairn Islands
-||google.pn
+||google.pn^$dnsrewrite=google.com
 # Poland
-||google.pl
+||google.pl^$dnsrewrite=google.com
 # Niue
-||google.nu
+||google.nu^$dnsrewrite=google.com
 # Nauru
-||google.nr
+||google.nr^$dnsrewrite=google.com
 # Norway
-||google.no
+||google.no^$dnsrewrite=google.com
 # Netherlands
-||google.nl
+||google.nl^$dnsrewrite=google.com
 # Niger
-||google.ne
+||google.ne^$dnsrewrite=google.com
 # Malawi
-||google.mw
+||google.mw^$dnsrewrite=google.com
 # Maldives
-||google.mv
+||google.mv^$dnsrewrite=google.com
 # Mauritius
-||google.mu
+||google.mu^$dnsrewrite=google.com
 # Montserrat
-||google.ms
+||google.ms^$dnsrewrite=google.com
 # Mongolia
-||google.mn
+||google.mn^$dnsrewrite=google.com
 # Mali
-||google.ml
+||google.ml^$dnsrewrite=google.com
 # Macedonia
-||google.mk
+||google.mk^$dnsrewrite=google.com
 # Madagascar
-||google.mg
+||google.mg^$dnsrewrite=google.com
 # Montenegro
-||google.me
+||google.me^$dnsrewrite=google.com
 # Moldova
-||google.md
+||google.md^$dnsrewrite=google.com
 # Latvia
-||google.lv
+||google.lv^$dnsrewrite=google.com
 # Luxembourg
-||google.lu
+||google.lu^$dnsrewrite=google.com
 # Lithuania
-||google.lt
+||google.lt^$dnsrewrite=google.com
 # Sri Lanka
-||google.lk
+||google.lk^$dnsrewrite=google.com
 # Liechtenstein
-||google.li
+||google.li^$dnsrewrite=google.com
 # Laos
-||google.la
+||google.la^$dnsrewrite=google.com
 # Kazakhstan
-||google.kz
+||google.kz^$dnsrewrite=google.com
 # Kiribati
-||google.ki
+||google.ki^$dnsrewrite=google.com
 # Kyrgyzstan
-||google.kg
+||google.kg^$dnsrewrite=google.com
 # Jordan
-||google.jo
+||google.jo^$dnsrewrite=google.com
 # Jersey
-||google.je
+||google.je^$dnsrewrite=google.com
 # Italy
-||google.it
+||google.it^$dnsrewrite=google.com
 # Iceland
-||google.is
+||google.is^$dnsrewrite=google.com
 # Iraq
-||google.iq
+||google.iq^$dnsrewrite=google.com
 # British Indian Ocean Territory
-||google.io
+||google.io^$dnsrewrite=google.com
 # Isle of Man
-||google.im
+||google.im^$dnsrewrite=google.com
 # Ireland
-||google.ie
+||google.ie^$dnsrewrite=google.com
 # Hungary
-||google.hu
+||google.hu^$dnsrewrite=google.com
 # Haiti
-||google.ht
+||google.ht^$dnsrewrite=google.com
 # Croatia
-||google.hr
+||google.hr^$dnsrewrite=google.com
 # Honduras
-||google.hn
+||google.hn^$dnsrewrite=google.com
 # Guyana
-||google.gy
+||google.gy^$dnsrewrite=google.com
 # Greece
-||google.gr
+||google.gr^$dnsrewrite=google.com
 # Guadeloupe
-||google.gp
+||google.gp^$dnsrewrite=google.com
 # Gambia
-||google.gm
+||google.gm^$dnsrewrite=google.com
 # Greenland
-||google.gl
+||google.gl^$dnsrewrite=google.com
 # Guernsey
-||google.gg
+||google.gg^$dnsrewrite=google.com
 # French Guiana
-||google.gf
+||google.gf^$dnsrewrite=google.com
 # Georgia
-||google.ge
+||google.ge^$dnsrewrite=google.com
 # Gabon
-||google.ga
+||google.ga^$dnsrewrite=google.com
 # France
-||google.fr
+||google.fr^$dnsrewrite=google.com
 # Federated States of Micronesia
-||google.fm
+||google.fm^$dnsrewrite=google.com
 # Finland
-||google.fi
+||google.fi^$dnsrewrite=google.com
 # Spain
-||google.es
+||google.es^$dnsrewrite=google.com
 # Estonia
-||google.ee
+||google.ee^$dnsrewrite=google.com
 # Algeria
-||google.dz
+||google.dz^$dnsrewrite=google.com
 # Dominica
-||google.dm
+||google.dm^$dnsrewrite=google.com
 # Denmark
-||google.dk
+||google.dk^$dnsrewrite=google.com
 # Djibouti
-||google.dj
+||google.dj^$dnsrewrite=google.com
 # Germany
-||google.de
+||google.de^$dnsrewrite=google.com
 # Czech Republic
-||google.cz
+||google.cz^$dnsrewrite=google.com
 # Cape Verde
-||google.cv
+||google.cv^$dnsrewrite=google.com
 # Vietnam
-||google.com.vn
+||google.com.vn^$dnsrewrite=google.com
 # Saint Vincent and the Grenadines
-||google.com.vc
+||google.com.vc^$dnsrewrite=google.com
 # Uruguay
-||google.com.uy
+||google.com.uy^$dnsrewrite=google.com
 # Ukraine
-||google.com.ua
+||google.com.ua^$dnsrewrite=google.com
 # Taiwan
-||google.com.tw
+||google.com.tw^$dnsrewrite=google.com
 # Turkey
-||google.com.tr
+||google.com.tr^$dnsrewrite=google.com
 # Tajikistan
-||google.com.tj
+||google.com.tj^$dnsrewrite=google.com
 # El Salvador
-||google.com.sv
+||google.com.sv^$dnsrewrite=google.com
 # Sierra Leone
-||google.com.sl
+||google.com.sl^$dnsrewrite=google.com
 # Singapore
-||google.com.sg
+||google.com.sg^$dnsrewrite=google.com
 # Solomon Islands
-||google.com.sb
+||google.com.sb^$dnsrewrite=google.com
 # Saudi Arabia
-||google.com.sa
+||google.com.sa^$dnsrewrite=google.com
 # Qatar
-||google.com.qa
+||google.com.qa^$dnsrewrite=google.com
 # Paraguay
-||google.com.py
+||google.com.py^$dnsrewrite=google.com
 # Puerto Rico
-||google.com.pr
+||google.com.pr^$dnsrewrite=google.com
 # Pakistan
-||google.com.pk
+||google.com.pk^$dnsrewrite=google.com
 # Philippines
-||google.com.ph
+||google.com.ph^$dnsrewrite=google.com
 # Papua New Guinea
-||google.com.pg
+||google.com.pg^$dnsrewrite=google.com
 # Peru
-||google.com.pe
+||google.com.pe^$dnsrewrite=google.com
 # Panama
-||google.com.pa
+||google.com.pa^$dnsrewrite=google.com
 # Oman
-||google.com.om
+||google.com.om^$dnsrewrite=google.com
 # Nepal
-||google.com.np
+||google.com.np^$dnsrewrite=google.com
 # Nicaragua
-||google.com.ni
+||google.com.ni^$dnsrewrite=google.com
 # Nigeria
-||google.com.ng
+||google.com.ng^$dnsrewrite=google.com
 # Norfolk Island
-||google.com.nf
+||google.com.nf^$dnsrewrite=google.com
 # Namibia
-||google.com.na
+||google.com.na^$dnsrewrite=google.com
 # Malaysia
-||google.com.my
+||google.com.my^$dnsrewrite=google.com
 # Mexico
-||google.com.mx
+||google.com.mx^$dnsrewrite=google.com
 # Malta
-||google.com.mt
+||google.com.mt^$dnsrewrite=google.com
 # Myanmar
-||google.com.mm
+||google.com.mm^$dnsrewrite=google.com
 # Libya
-||google.com.ly
+||google.com.ly^$dnsrewrite=google.com
 # Saint Lucia
-||google.com.lc
+||google.com.lc^$dnsrewrite=google.com
 # Lebanon
-||google.com.lb
+||google.com.lb^$dnsrewrite=google.com
 # Kuwait
-||google.com.kw
+||google.com.kw^$dnsrewrite=google.com
 # Cambodia
-||google.com.kh
+||google.com.kh^$dnsrewrite=google.com
 # Jamaica
-||google.com.jm
+||google.com.jm^$dnsrewrite=google.com
 # Hong Kong
-||google.com.hk
+||google.com.hk^$dnsrewrite=google.com
 # Guatemala
-||google.com.gt
+||google.com.gt^$dnsrewrite=google.com
 # Gibraltar
-||google.com.gi
+||google.com.gi^$dnsrewrite=google.com
 # Ghana
-||google.com.gh
+||google.com.gh^$dnsrewrite=google.com
 # Fiji
-||google.com.fj
+||google.com.fj^$dnsrewrite=google.com
 # Ethiopia
-||google.com.et
+||google.com.et^$dnsrewrite=google.com
 # Egypt
-||google.com.eg
+||google.com.eg^$dnsrewrite=google.com
 # Ecuador
-||google.com.ec
+||google.com.ec^$dnsrewrite=google.com
 # Dominican Republic
-||google.com.do
+||google.com.do^$dnsrewrite=google.com
 # Cyprus
-||google.com.cy
+||google.com.cy^$dnsrewrite=google.com
 # Cuba
-||google.com.cu
+||google.com.cu^$dnsrewrite=google.com
 # Colombia
-||google.com.co
+||google.com.co^$dnsrewrite=google.com
 # Belize
-||google.com.bz
+||google.com.bz^$dnsrewrite=google.com
 # Brazil
-||google.com.br
+||google.com.br^$dnsrewrite=google.com
 # Bolivia
-||google.com.bo
+||google.com.bo^$dnsrewrite=google.com
 # Brunei
-||google.com.bn
+||google.com.bn^$dnsrewrite=google.com
 # Bahrain
-||google.com.bh
+||google.com.bh^$dnsrewrite=google.com
 # Bangladesh
-||google.com.bd
+||google.com.bd^$dnsrewrite=google.com
 # Australia
-||google.com.au
+||google.com.au^$dnsrewrite=google.com
 # Argentina
-||google.com.ar
+||google.com.ar^$dnsrewrite=google.com
 # Anguilla
-||google.com.ai
+||google.com.ai^$dnsrewrite=google.com
 # Antigua and Barbuda
-||google.com.ag
+||google.com.ag^$dnsrewrite=google.com
 # Afghanistan
-||google.com.af
+||google.com.af^$dnsrewrite=google.com
 # Zimbabwe
-||google.co.zw
+||google.co.zw^$dnsrewrite=google.com
 # Zambia
-||google.co.zm
+||google.co.zm^$dnsrewrite=google.com
 # South Africa
-||google.co.za
+||google.co.za^$dnsrewrite=google.com
 # United States Virgin Islands
-||google.co.vi
+||google.co.vi^$dnsrewrite=google.com
 # Venezuela
-||google.co.ve
+||google.co.ve^$dnsrewrite=google.com
 # Uzbekistan
-||google.co.uz
+||google.co.uz^$dnsrewrite=google.com
 # United Kingdom
-||google.co.uk
+||google.co.uk^$dnsrewrite=google.com
 # Uganda
-||google.co.ug
+||google.co.ug^$dnsrewrite=google.com
 # Tanzania
-||google.co.tz
+||google.co.tz^$dnsrewrite=google.com
 # Thailand
-||google.co.th
+||google.co.th^$dnsrewrite=google.com
 # Pitcairn Islands
-||google.co.pn
+||google.co.pn^$dnsrewrite=google.com
 # New Zealand
-||google.co.nz
+||google.co.nz^$dnsrewrite=google.com
 # Mozambique
-||google.co.mz
+||google.co.mz^$dnsrewrite=google.com
 # Morocco
-||google.co.ma
+||google.co.ma^$dnsrewrite=google.com
 # Lesotho
-||google.co.ls
+||google.co.ls^$dnsrewrite=google.com
 # South Korea
-||google.co.kr
+||google.co.kr^$dnsrewrite=google.com
 # Kenya
-||google.co.ke
+||google.co.ke^$dnsrewrite=google.com
 # Japan
-||google.co.jp
+||google.co.jp^$dnsrewrite=google.com
 # India
-||google.co.in
+||google.co.in^$dnsrewrite=google.com
 # Israel
-||google.co.il
+||google.co.il^$dnsrewrite=google.com
 # Costa Rica
-||google.co.cr
+||google.co.cr^$dnsrewrite=google.com
 # Cook Islands
-||google.co.ck
+||google.co.ck^$dnsrewrite=google.com
 # Botswana
-||google.co.bw
+||google.co.bw^$dnsrewrite=google.com
 # Angola
-||google.co.ao
+||google.co.ao^$dnsrewrite=google.com
 # China
-||google.cn
+||google.cn^$dnsrewrite=google.com
 # Cameroon
-||google.cm
+||google.cm^$dnsrewrite=google.com
 # Chile
-||google.cl
+||google.cl^$dnsrewrite=google.com
 # Ivory Coast
-||google.ci
+||google.ci^$dnsrewrite=google.com
 # Switzerland
-||google.ch
+||google.ch^$dnsrewrite=google.com
 # Republic of the Congo
-||google.cg
+||google.cg^$dnsrewrite=google.com
 # Central African Republic
-||google.cf
+||google.cf^$dnsrewrite=google.com
 # Democratic Republic of the Congo
-||google.cd
+||google.cd^$dnsrewrite=google.com
 # Cocos (Keeling) Islands
-||google.cc
+||google.cc^$dnsrewrite=google.com
 # Catalan Countries
-||google.cat
+||google.cat^$dnsrewrite=google.com
 # Canada
-||google.ca
+||google.ca^$dnsrewrite=google.com
 # Belarus
-||google.by
+||google.by^$dnsrewrite=google.com
 # Bhutan
-||google.bt
+||google.bt^$dnsrewrite=google.com
 # Bahamas
-||google.bs
+||google.bs^$dnsrewrite=google.com
 # Benin
-||google.bj
+||google.bj^$dnsrewrite=google.com
 # Burundi
-||google.bi
+||google.bi^$dnsrewrite=google.com
 # Bulgaria
-||google.bg
+||google.bg^$dnsrewrite=google.com
 # Burkina Faso
-||google.bf
+||google.bf^$dnsrewrite=google.com
 # Belgium
-||google.be
+||google.be^$dnsrewrite=google.com
 # Bosnia and Herzegovina
-||google.ba
+||google.ba^$dnsrewrite=google.com
 # Azerbaijan
-||google.az
+||google.az^$dnsrewrite=google.com
 # Austria
-||google.at
+||google.at^$dnsrewrite=google.com
 # American Samoa
-||google.as
+||google.as^$dnsrewrite=google.com
 # Armenia
-||google.am
+||google.am^$dnsrewrite=google.com
 # Albania
-||google.al
+||google.al^$dnsrewrite=google.com
 # United Arab Emirates
-||google.ae
+||google.ae^$dnsrewrite=google.com
 # Andorra
-||google.ad
+||google.ad^$dnsrewrite=google.com
 # Ascension Island
-||google.ac
+||google.ac^$dnsrewrite=google.com
 # United States
-||google.u^s$dnsrewrite=google.com
+||google.us^$dnsrewrite=google.com

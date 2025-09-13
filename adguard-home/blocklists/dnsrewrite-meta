@@ -1,6 +1,7 @@
 # From : Jatim - Indonesia
 # Mode : Adguard Home
-# Last Update : 17-Juli-2025
+# Last Update : 13-Sept-2025
+#
 # DNS Rewrite - WhatsApp
 /media-.*.-1.cdn.whatsapp.net/$dnsrewrite=media-cgk1-1.cdn.whatsapp.net
 /media-.*.-2.cdn.whatsapp.net/$dnsrewrite=media-cgk1-2.cdn.whatsapp.net
@@ -10,6 +11,7 @@
 /whatsapp-cdn-shv-02-.*.fbcdn.net/$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
 /whatsapp-cdn-shv-03-.*.fbcdn.net/$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
 /whatsapp-cdn-shv-04-.*.fbcdn.net/$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
+#
 # DNS Rewrite - Facebook - Instagram
 /video-.*.-1.xx.fbcdn.net/$dnsrewrite=video-cgk1-1.xx.fbcdn.net
 /video-.*.-2.xx.fbcdn.net/$dnsrewrite=video-cgk1-2.xx.fbcdn.net
@@ -35,7 +37,7 @@
 /scontent-.*.-2.cdninstagram.com/$dnsrewrite=scontent-cgk1-2.cdninstagram.com
 /scontent-.*.-3.cdninstagram.com/$dnsrewrite=scontent-cgk1-1.cdninstagram.com
 /scontent-.*.-4.cdninstagram.com/$dnsrewrite=scontent-cgk1-2.cdninstagram.com
-# ===========================================================================
+#
 # V1
 # DNS Rewrite - WhatsApp
 |whatsapp.com^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
@@ -114,7 +116,7 @@
 ||mobile.facebook.com^$dnsrewrite=edge-star-shv-01-cgk1.facebook.com
 ||star.fallback.facebook.com^$dnsrewrite=edge-star-shv-01-cgk1.facebook.com
 ||b-www.facebook.com^$dnsrewrite=edge-star-mini-shv-01-cgk1.facebook.com
-# ===========================================================================
+#
 # V2
 # DNS Rewrite - WhatsApp
 |whatsapp.com^$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
@@ -193,68 +195,3 @@
 ||mobile.facebook.com^$dnsrewrite=edge-star-shv-02-cgk1.facebook.com
 ||star.fallback.facebook.com^$dnsrewrite=edge-star-shv-02-cgk1.facebook.com
 ||b-www.facebook.com^$dnsrewrite=edge-star-mini-shv-02-cgk1.facebook.com
-# Rewrite to malang
-/sonar.f[a-z][a-z][a-z]1-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;sonar.fmlg1-1.fna.fbcdn.net
-/sonar.f[a-z][a-z][a-z]2-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;sonar.fmlg2-1.fna.fbcdn.net
-/sonar.f[a-z][a-z][a-z]3-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;sonar.fmlg3-1.fna.fbcdn.net
-/sonar.f[a-z][a-z][a-z]4-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;sonar.fmlg4-1.fna.fbcdn.net
-/sonar.f[a-z][a-z][a-z]5-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;sonar.fmlg5-1.fna.fbcdn.net
-/sonar.f[a-z][a-z][a-z]6-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;sonar.fmlg6-1.fna.fbcdn.net
-/sonar.f[a-z][a-z][a-z]7-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;sonar.fmlg7-1.fna.fbcdn.net
-/sonar.f[a-z][a-z][a-z]8-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;sonar.fmlg8-1.fna.fbcdn.net
-/sonar.f[a-z][a-z][a-z]9-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;sonar.fmlg9-1.fna.fbcdn.net
-/video.f[a-z][a-z][a-z]1-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;video.fmlg1-1.fna.fbcdn.net
-/video.f[a-z][a-z][a-z]2-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;video.fmlg2-1.fna.fbcdn.net
-/video.f[a-z][a-z][a-z]3-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;video.fmlg3-1.fna.fbcdn.net
-/video.f[a-z][a-z][a-z]4-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;video.fmlg4-1.fna.fbcdn.net
-/video.f[a-z][a-z][a-z]5-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;video.fmlg5-1.fna.fbcdn.net
-/video.f[a-z][a-z][a-z]6-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;video.fmlg6-1.fna.fbcdn.net
-/video.f[a-z][a-z][a-z]7-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;video.fmlg7-1.fna.fbcdn.net
-/video.f[a-z][a-z][a-z]8-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;video.fmlg8-1.fna.fbcdn.net
-/video.f[a-z][a-z][a-z]9-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;video.fmlg9-1.fna.fbcdn.net
-/static.f[a-z][a-z][a-z]1-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;static.fmlg1-1.fna.fbcdn.net
-/static.f[a-z][a-z][a-z]2-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;static.fmlg2-1.fna.fbcdn.net
-/static.f[a-z][a-z][a-z]3-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;static.fmlg3-1.fna.fbcdn.net
-/static.f[a-z][a-z][a-z]4-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;static.fmlg4-1.fna.fbcdn.net
-/static.f[a-z][a-z][a-z]5-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;static.fmlg5-1.fna.fbcdn.net
-/static.f[a-z][a-z][a-z]6-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;static.fmlg6-1.fna.fbcdn.net
-/static.f[a-z][a-z][a-z]7-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;static.fmlg7-1.fna.fbcdn.net
-/static.f[a-z][a-z][a-z]8-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;static.fmlg8-1.fna.fbcdn.net
-/static.f[a-z][a-z][a-z]9-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;static.fmlg9-1.fna.fbcdn.net
-/external.f[a-z][a-z][a-z]1-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;external.fmlg1-1.fna.fbcdn.net
-/external.f[a-z][a-z][a-z]2-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;external.fmlg2-1.fna.fbcdn.net
-/external.f[a-z][a-z][a-z]3-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;external.fmlg3-1.fna.fbcdn.net
-/external.f[a-z][a-z][a-z]4-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;external.fmlg4-1.fna.fbcdn.net
-/external.f[a-z][a-z][a-z]5-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;external.fmlg5-1.fna.fbcdn.net
-/external.f[a-z][a-z][a-z]6-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;external.fmlg6-1.fna.fbcdn.net
-/external.f[a-z][a-z][a-z]7-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;external.fmlg7-1.fna.fbcdn.net
-/external.f[a-z][a-z][a-z]8-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;external.fmlg8-1.fna.fbcdn.net
-/external.f[a-z][a-z][a-z]9-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;external.fmlg9-1.fna.fbcdn.net
-/scontent.f[a-z][a-z][a-z]1-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;scontent.fmlg1-1.fna.fbcdn.net
-/scontent.f[a-z][a-z][a-z]2-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;scontent.fmlg2-1.fna.fbcdn.net
-/scontent.f[a-z][a-z][a-z]3-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;scontent.fmlg3-1.fna.fbcdn.net
-/scontent.f[a-z][a-z][a-z]4-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;scontent.fmlg4-1.fna.fbcdn.net
-/scontent.f[a-z][a-z][a-z]5-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;scontent.fmlg5-1.fna.fbcdn.net
-/scontent.f[a-z][a-z][a-z]6-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;scontent.fmlg6-1.fna.fbcdn.net
-/scontent.f[a-z][a-z][a-z]7-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;scontent.fmlg7-1.fna.fbcdn.net
-/scontent.f[a-z][a-z][a-z]8-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;scontent.fmlg8-1.fna.fbcdn.net
-/scontent.f[a-z][a-z][a-z]9-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;scontent.fmlg9-1.fna.fbcdn.net
-/instagram.f[a-z][a-z][a-z]1-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;instagram.fmlg1-1.fna.fbcdn.net
-/instagram.f[a-z][a-z][a-z]2-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;instagram.fmlg2-1.fna.fbcdn.net
-/instagram.f[a-z][a-z][a-z]3-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;instagram.fmlg3-1.fna.fbcdn.net
-/instagram.f[a-z][a-z][a-z]4-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;instagram.fmlg4-1.fna.fbcdn.net
-/instagram.f[a-z][a-z][a-z]5-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;instagram.fmlg5-1.fna.fbcdn.net
-/instagram.f[a-z][a-z][a-z]6-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;instagram.fmlg6-1.fna.fbcdn.net
-/instagram.f[a-z][a-z][a-z]7-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;instagram.fmlg7-1.fna.fbcdn.net
-/instagram.f[a-z][a-z][a-z]8-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;instagram.fmlg8-1.fna.fbcdn.net
-/instagram.f[a-z][a-z][a-z]9-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;instagram.fmlg9-1.fna.fbcdn.net
-# Rewrite Media WA to Malang
-/media.f[a-z][a-z][a-z]1-[0-9].fna.whatsapp.net/$dnsrewrite=NOERROR;CNAME;media.fmlg1-1.fna.whatsapp.net
-/media.f[a-z][a-z][a-z]2-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg2-1.fna.whatsapp.net
-/media.f[a-z][a-z][a-z]3-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg3-1.fna.whatsapp.net
-/media.f[a-z][a-z][a-z]4-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg4-1.fna.whatsapp.net
-/media.f[a-z][a-z][a-z]5-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg5-1.fna.whatsapp.net
-/media.f[a-z][a-z][a-z]6-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg6-1.fna.whatsapp.net
-/media.f[a-z][a-z][a-z]7-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg7-1.fna.whatsapp.net
-/media.f[a-z][a-z][a-z]8-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg8-1.fna.whatsapp.net
-/media.f[a-z][a-z][a-z]9-[0-9].fna.fbcdn.net/$dnsrewrite=NOERROR;CNAME;media.fmlg9-1.fna.whatsapp.net

@@ -40,18 +40,18 @@
 #
 # V1
 # DNS Rewrite - WhatsApp
-#|whatsapp.com^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
-#||v.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
-#||graph.whatsapp.com^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
-#||web.whatsapp.com^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
-#||graph.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
-#||scontent.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
-#||pps.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
-#||mmg.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
-#||static.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
-#||mmx-ds.cdn.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
-#||g.whatsapp.net^$dnsrewrite=whatsapp-chatd-edge-shv-01-cgk1.facebook.com
-#||chat.cdn.whatsapp.net^$dnsrewrite=whatsapp-chatd-edge-shv-01-cgk1.facebook.com
+|whatsapp.com^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
+||v.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
+||graph.whatsapp.com^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
+||web.whatsapp.com^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
+||graph.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
+||scontent.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
+||pps.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
+||mmg.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
+||static.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
+||mmx-ds.cdn.whatsapp.net^$dnsrewrite=whatsapp-cdn-shv-01-cgk1.fbcdn.net
+||g.whatsapp.net^$dnsrewrite=whatsapp-chatd-edge-shv-01-cgk1.facebook.com
+||chat.cdn.whatsapp.net^$dnsrewrite=whatsapp-chatd-edge-shv-01-cgk1.facebook.com
 # V2
 # DNS Rewrite - WhatsApp
 |whatsapp.com^$dnsrewrite=whatsapp-cdn-shv-02-cgk1.fbcdn.net
